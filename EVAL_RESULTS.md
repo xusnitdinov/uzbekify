@@ -1,6 +1,6 @@
 # EVAL RESULTS — uzbek-humanizer (v1) vs uzbekify (v2)
 
-Generated: 2026-10-24T19:31:09.514Z
+Generated: 2026-10-25T10:23:21.409Z
 
 ## 1. v1 eval sets reused (ported verbatim into `skills/uzbekify/eval/v1/`)
 
@@ -22,14 +22,14 @@ Generated: 2026-10-24T19:31:09.514Z
 | Linter set | Detected | Rate |
 |---|---|---|
 | v1 (5 scripts) | 35 | 47.9% |
-| v2 (uzpro lint) | 48 | 65.8% |
+| v2 (uzpro lint) | 49 | 67.1% |
 
 ## 3. v1 goldens — false positives on 226 curated good outputs (v2 lints each in its intended register)
 
 | Linter set | Flagged | FP rate | Notes |
 |---|---|---|---|
 | v1 | 2 | 0.9% | cyrillic-aware, cyrillic-mixed |
-| v2 | 2 | 0.9% | cyrillic-aware [product]: screen.cyrillic-leak; cyrillic-mixed [product]: screen.cyrillic-leak |
+| v2 | 5 | 2.2% | cyrillic-aware [product]: screen.cyrillic-leak; marketing-long [product]: aitell.spaced-hyphen-dash; cyrillic-mixed [product]: screen.cyrillic-leak,aitell.spaced-hyphen-dash; oria-chiqmadi-group [quiz]: aitell.spaced-hyphen-dash |
 
 ## 4. New v2 pair sets — bad-input detection (higher is better)
 
@@ -72,7 +72,7 @@ Generated: 2026-10-24T19:31:09.514Z
 
 | Tool | Handled | Rate |
 |---|---|---|
-| v1 | 35/100 | 35.0% |
+| v1 | 25/100 | 25.0% |
 | v2 after red-team fixes | 100/100 | **100.0%** |
 
 ## 4b. Naturalness score rewards human text (CORE MISSION)
@@ -94,8 +94,8 @@ Generated: 2026-10-24T19:31:09.514Z
 
 | Metric | v1 | v2 |
 |---|---|---|
-| Combined detection index | 74.9 | 165.5 |
-| Combined FP index | 1.1 | 0.9 |
+| Combined detection index | 74.9 | 166.9 |
+| Combined FP index | 1.1 | 2.2 |
 
 v2 beats v1 on detection: **YES**; v2 FP not worse than v1 (+2pt tolerance): **YES**; translit ≥95%: **YES**; v1 sets reused: **10 files**; schema issues: **0**.
 

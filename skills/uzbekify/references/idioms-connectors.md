@@ -12,7 +12,7 @@
 | EN | Uzbek |
 |---|---|
 | early bird | Erta turganning rizqi koʻp / Sahar turgan kishini Xudo oʻnglar |
-| time is money | Vaqt qimmat / Vaqt — bebaho neʼmat |
+| time is money | Vaqt qimmat / Vaqt bebaho neʼmat |
 | piece of cake | juda oson / xamirdan qil sugʻurgandek |
 | kick the bucket | vafot etdi |
 | spill the beans | sirni ochdi |

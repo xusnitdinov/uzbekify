@@ -402,7 +402,7 @@
     },
     {
       "id": "calque-58",
-      "bad": "Hurmatli foyydalanuvchi, …",
+      "bad": "Hurmatli foydalanuvchi, …",
       "good": "Assalomu alaykum! / (name)",
       "why": "False formality boilerplate",
       "class": "3. Politeness and phrase calques"
@@ -1271,7 +1271,7 @@
     {
       "id": "calque-182",
       "bad": "Vanihoyat, xulosa qilib",
-      "good": "Vanihoyat — (gap)",
+      "good": "Vanihoyat, (gap)",
       "why": "Do not stack vanihoyat + xulosa",
       "class": "Connector calques and natural connectors"
     },

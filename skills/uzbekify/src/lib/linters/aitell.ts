@@ -2,14 +2,17 @@
  * AI-tell family (phase 2b, recalibrated in phase 4): robotic punctuation and
  * structure tells, mined against research/informal-corpus/.
  *
- * OUTPUT policy (SKILL.md hard rule): the skill never writes em/en dashes or
- * " - " in any register — humanize rewrites them. The INPUT lint is
- * register-calibrated against real corpora (em dashes: 52 hits in Telegram
- * posts, 21 in kun.uz; " - " also appears in v1's native-verified goldens):
+ * OUTPUT policy (SKILL.md hard rule 2): the skill never writes em/en dashes
+ * or " - " in ANY register, and the linter is the self-check that enforces
+ * it, so dash rules fire in every register (formal included: a news
+ * headline "… — tafsilotlar" becomes "…: tafsilotlar"). What stays clean:
  *
- *   em/en dash  — error in casual copy; skipped in formal registers where
- *                 dashes are attested style (news "— tafsilotlar", laws)
- *   " - " / --  — error in chat only
+ *   hyphenated words      Wi-Fi, qoʻllab-quvvatlash, 2024-yil, 9-avgust
+ *   numeric ranges        10-15 daqiqa, 10 - 15 (formatting.md Range row)
+ *   phone numbers         +998 90 123-45-67
+ *   markdown bullets      "- item" lines in a list or after a heading/colon
+ *                         (the SKILL output template uses them)
+ *
  *   semicolon   — error in chat, warn in casual, skipped in formal
  *   formal connectors / AI tics — casual only
  */
@@ -18,7 +21,6 @@ import { ruleFindings, Rule, hasAnyUzbek } from "./util.js";
 import { splitSentences } from "../text.js";
 
 const FORMAL_REGISTERS = new Set(["news", "legal", "academic", "official", "quiz"]);
-const CASUAL_REGISTERS = new Set(["product", "assistant", "chat", "youth", "marketing"]);
 
 /** Adjective stems for the stacking check. */
 const ADJECTIVES = [
@@ -41,15 +43,15 @@ export const AITELL_GLOBAL_RULES: Rule[] = [
   {
     id: "aitell.spaced-hyphen-dash",
     family: "aitell",
-    re: /(?<=[^\s\d]) - (?=[^\s\d])/g,
+    // " - " between words is a dash; digit - digit is a numeric range (allowed)
+    re: /(?<=[^\s\d|]) - (?=[^\s|])|(?<=\d) - (?=[^\s\d|])/g,
     severity: "error",
-    chatOnly: true,
     message: "Spaced hyphen used as a dash — rewrite with a comma or period (the AI ' - ' tic)",
   },
   {
     id: "aitell.double-hyphen-dash",
     family: "aitell",
-    re: /(?<=[^\s\d]) -- (?=[^\s\d])/g,
+    re: /(?<=\S) -- (?=\S)/g,
     severity: "error",
     message: "Double-hyphen dash (AI markdown habit) — rewrite with a comma or period",
   },
@@ -144,6 +146,48 @@ export const AITELL_SCOPED_RULES: Rule[] = [
     message: "Literally translated English AI tic — 'Thank you for your attention' / 'you should know that' / 'You can be sure' have no native chat equivalent; cut or say it plainly",
   },
 ];
+
+const BULLET_LINE = /^\s*(?:[-*+•▪]|\d+[.)])\s+\S/;
+
+/**
+ * A line opening with "- " glued to a prose paragraph is a dash, not a list:
+ * the previous line is prose (not blank, not a heading, not a bullet, not
+ * ending in ":") and no neighbouring line is a bullet. Real markdown lists
+ * (adjacent bullets, or a list after a heading / blank line / colon) pass.
+ */
+export function lintLeadingDash(text: string): Finding | null {
+  const lines = text.split(/\r?\n/);
+  let count = 0;
+  let first: { line: number; match: string } | null = null;
+  let inFence = false;
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    if (/^\s*(?:```|~~~)/.test(line)) {
+      inFence = !inFence;
+      continue;
+    }
+    if (inFence || !/^\s*- \S/.test(line)) continue;
+    const prev = i > 0 ? lines[i - 1] : "";
+    const next = i + 1 < lines.length ? lines[i + 1] : "";
+    if (!prev.trim()) continue; // list after a blank line / at text start
+    if (BULLET_LINE.test(prev) || BULLET_LINE.test(next)) continue; // a real list
+    if (/^\s*#/.test(prev) || /[:：]\s*$/.test(prev)) continue; // list under a heading or colon
+    if (/^\s*\|/.test(prev)) continue; // table context
+    count++;
+    if (!first) first = { line: i + 1, match: line.trim().slice(0, 40) };
+  }
+  if (!first) return null;
+  return {
+    rule: "aitell.leading-hyphen-dash",
+    family: "aitell",
+    severity: "error",
+    match: first.match,
+    count,
+    line: first.line,
+    column: 1,
+    message: "Line-leading '- ' used as a dash inside prose (not a list) — join it with a comma or start a new sentence",
+  };
+}
 
 /** Chat-only structural checks (bullets, long sentences, perfect punctuation). */
 export function lintChatStructure(text: string, register: string): Finding[] {
@@ -259,17 +303,10 @@ export function lintAitell(text: string, opts: LintOptions = {}): Finding[] {
   const register = opts.register ?? "product";
   const findings: Finding[] = [];
 
-  // em/en dash: error in casual copy; skipped where attested style (formal)
-  if (CASUAL_REGISTERS.has(register)) {
-    findings.push(
-      ...ruleFindings(
-        text,
-        AITELL_GLOBAL_RULES.filter((r) => r.id === "aitell.em-dash" || r.id === "aitell.double-hyphen-dash"),
-        opts
-      )
-    );
-  }
-  findings.push(...ruleFindings(text, AITELL_GLOBAL_RULES.filter((r) => r.id === "aitell.spaced-hyphen-dash" && register === "chat"), opts));
+  // dashes: hard rule 2 bans them in every register (output policy)
+  findings.push(...ruleFindings(text, AITELL_GLOBAL_RULES, opts));
+  const leading = lintLeadingDash(text);
+  if (leading) findings.push(leading);
 
   const scoped = AITELL_SCOPED_RULES.map((r) => {
     if ((r as Rule & { chatOnly?: boolean }).chatOnly && register !== "chat") return null;

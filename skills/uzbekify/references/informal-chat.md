@@ -23,7 +23,7 @@ the core mission.
 | 11 | “Bir yarim oy ichida 300 ming dollar yutqazdim”  [kun quote] | Shu davrda jiddiy moliyaviy yoʻqotishlar sodir boʻldi | first person + exact number = human |
 | 12 | “qarzingni ber, yoʻqsa oʻldirib yuboraman”  [kun quote] | Qarz qaytarilmasa, jiddiy oqibatlar boʻlishi mumkin | threat quoted verbatim — people quote speech raw |
 | 13 | Batafsil 👇👇👇  [TG-QAL] | Batafsil maʼlumot quyida keltirilgan | emoji pointer vs formal filler |
-| 14 | ✅ Roʻyxatdan oʻtish — 11-oktabrgacha  [TG-XB] | Roʻyxatdan oʻtish muddati 11-oktabrgacha belgilangan | emoji bullet + dash-free date |
+| 14 | ✅ Roʻyxatdan oʻtish: 11-oktabrgacha  [TG-XB] | Roʻyxatdan oʻtish muddati 11-oktabrgacha belgilangan | emoji bullet + dash-free date |
 | 15 | operatorlar bn  [GP-PAYME] | Operatorlar bilan bogʻlanish orqali | bn contraction is native chat spelling |
 
 ## 2. Chat grammar of real people

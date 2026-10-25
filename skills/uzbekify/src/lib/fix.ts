@@ -42,13 +42,28 @@ export function applyFixes(text: string, opts: LintOptions = {}): { text: string
     }
   }
 
-  // 4) dashes → commas/periods (global no-dash policy)
-  if (/[—–]/.test(out) || /(?<=\S) - (?=\S)/.test(out)) {
+  // 4) dashes → commas (global no-dash policy, SKILL.md hard rule 2).
+  //    Line-safe: never joins lines. Numeric ranges become 10-15 (the
+  //    formatting.md range style); hyphenated words, phone numbers and
+  //    markdown "- " bullets are left alone.
+  const DASH_PRESENT = /[—–]|(?<=[^\s\d|]) - (?=[^\s|])|(?<=\d) - (?=[^\s\d|])|(?<=\S) -- (?=\S)/;
+  if (DASH_PRESENT.test(out)) {
     out = out
-      .replace(/\s*[—–]\s*/g, ", ")
-      .replace(/(?<=\S) - (?=\S)/g, ", ")
-      .replace(/\s*,\s*,\s*/g, ", ")
-      .replace(/,\s*([.!?])/g, "$1");
+      // numeric range with an en/em dash: 10–15 → 10-15
+      .replace(/(?<=\d)[ \t]*[—–][ \t]*(?=\d)/g, "-")
+      // line-leading dialogue/list dash: "— Salom" → "Salom"
+      .replace(/^([ \t]*)[—–][ \t]*/gm, "$1")
+      // sentence-leading dash after a terminator: "Keldim. — Qani?" / ". - "
+      .replace(/([.!?…])[ \t]*(?:[—–]|-{1,2}(?=[ \t]))[ \t]*/g, "$1 ")
+      // trailing dash at end of line: "Natija —" → "Natija"
+      .replace(/[ \t]*[—–][ \t]*$/gm, "")
+      // mid-line em/en dash and spaced / double hyphen between words → comma
+      .replace(/[ \t]*[—–][ \t]*/g, ", ")
+      .replace(/(?<=\S) -- (?=\S)/g, ", ")
+      .replace(/(?<=[^\s\d|]) - (?=[^\s|])|(?<=\d) - (?=[^\s\d|])/g, ", ")
+      // tidy punctuation the swap can leave behind
+      .replace(/([,:;])[ \t]*,[ \t]*/g, "$1 ")
+      .replace(/,[ \t]*([.!?…])/g, "$1");
     applied.push("replaced em/en/spaced-hyphen dashes with commas");
   }
 

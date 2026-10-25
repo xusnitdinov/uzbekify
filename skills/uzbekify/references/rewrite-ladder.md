@@ -54,7 +54,7 @@ voice; formal registers only on explicit request.
 3. **Kill calques AND officialese.** Sweep English-structure calques
    (`references/calque-bank.md` §EN-structure) and Russian-structure calques
    (§RU-structure): ship/vibe/portladi, check qilmoq, haqiqatan ham, Hurmatli
-   foyydalanuvchi, karoche, muvofiq ravishda, amalga oshirildi-chains, "I
+   foydalanuvchi, karoche, muvofiq ravishda, amalga oshirildi-chains, "I
    like X" → "menga yoqadi", literal idioms
    (`references/literalness.md`). Then kill the bureaucratic robotic patterns
    from the gov corpus (`references/human-voice.md` blacklist): mazkur → bu,
@@ -102,11 +102,11 @@ voice; formal registers only on explicit request.
 6. Orthography: oʻ/gʻ = `ʻ` U+02BB; tutuq = `ʼ` U+02BC; never turn a real
    oʻ/gʻ digraph into tutuq (`toʼgʻri` is a bug); brand+suffix stays tutuq
    (`Goʼda`, `PUBGʼga`). Place names in Uzbek forms (Toshkent, Samarqand).
-6. Legal/medical/high-stakes content → mark `Holat: draft/native_review_required`.
+7. Legal/medical/high-stakes content → mark `Holat: draft/native_review_required`.
    Never invent statutes, never diagnose.
-7. Passive voice only when the agent is unknown or irrelevant; report verbs
+8. Passive voice only when the agent is unknown or irrelevant; report verbs
    (`amalga oshirildi`) max once per paragraph.
-8. Formatting: `1 250 000 soʻm`, `2024-yil 9-avgust`, `+998 XX YYY-YY-YY`.
+9. Formatting: `1 250 000 soʻm`, `2024-yil 9-avgust`, `+998 XX YYY-YY-YY`.
 
 ## Reference map
 
@@ -181,10 +181,10 @@ text that sounds like a person.
 
 ```
 ## Matn
-[yoki: "faylga qarang" + 2–5 namuna qator]
+[yoki: "faylga qarang" + 2-5 namuna qator]
 
 ## Oʻzgarishlar
-- [register/script/calque/word order/suffix/synonym/rhythm — qisqacha]
+- [register/script/calque/word order/suffix/synonym/rhythm: qisqacha]
 
 ## Holat
 final | draft/native_review_required

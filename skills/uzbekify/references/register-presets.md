@@ -97,7 +97,7 @@ allowed by default here (`uzpro lint --register chat` implies --allow-sen).
 - Examples (voice shape from research/informal-corpus/):
   1. Keldim, kutaman
   2. Rahmat aka, zoʻr boʻldi
-  3. Kod kelmayapti — yana yubordim → (dash-free!) Kod kelmayapti, yana yubordim
+  3. Kod kelmayapti, yana yubordim
   4. Batafsil 👇
   5. Boʻldi, yubordim
   6. Nima gap, tinchmi?
@@ -116,7 +116,7 @@ allowed by default here (`uzpro lint --register chat` implies --allow-sen).
   3. Bugun sinab koʻring.
   4. Vaqtingizni tejang.
   5. Jamoa bilan ishlash osonlashadi.
-  6. Yangi versiya chiqdi — sinab koʻring.
+  6. Yangi versiya chiqdi, sinab koʻring.
   7. Boshlash uchun roʻyxatdan oʻting.
   8. Savol boʻlsa, tez javob olasiz.
   9. Tez, sodda, foydali.
@@ -132,7 +132,7 @@ allowed by default here (`uzpro lint --register chat` implies --allow-sen).
   tashqari (once each)
 - Examples:
   1. Ushbu maqolada … masalasi tahlil qilinadi.
-  2. Tadqiqotning maqsadi — … ni aniqlashdan iborat.
+  2. Tadqiqotning maqsadi … ni aniqlashdan iborat.
   3. Natijalar shuni koʻrsatadiki, …
   4. Tahlil jarayonida statistik usullardan foydalanildi. (procedure passive OK)
   5. Bizning xulosamizcha, … (findings active)
@@ -143,13 +143,13 @@ allowed by default here (`uzpro lint --register chat` implies --allow-sen).
 
 ## 7. `news` — headlines and body (kun.uz style)
 
-- Headline: short fact, optional — tafsilotlar / savol tail; place names in
+- Headline: short fact, optional ": tafsilotlar" / savol tail (never a dash); place names in
   Uzbek; no clickbait calques
 - Body: Siz/impersonal, active verbs, attribution first ("…, deb X
   axborot qiluvchisiga maʼlum qildi" — once per story)
 - Examples:
-  1. Toshkentda yoʻl harakati cheklovlar joriy etildi — tafsilotlar
-  2. Buxoroda "Karvon" bozori yonib ketdi — tafsilotlar
+  1. Toshkentda yoʻl harakati cheklovlar joriy etildi: tafsilotlar
+  2. Buxoroda "Karvon" bozori yonib ketdi: tafsilotlar
   3. Elektr uzilishlari qachon tugaydi? (savol shakli OK)
   4. Quyi Chirchiqda yangi maktab ochildi
   5. Ob-havo: dam olish kunlarida issiq boʻladi

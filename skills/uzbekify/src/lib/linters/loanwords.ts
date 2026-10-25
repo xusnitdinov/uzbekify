@@ -3,13 +3,18 @@
  * the KEEP-list density check. Assimilated tech terms (Wi‑Fi, OTP, email…)
  * are fine; replaceable English words are flagged with the native verb/noun.
  */
-import { Finding, LintOptions } from "../types.js";
+import { Finding, LintOptions, RegisterId } from "../types.js";
 import { hasUzbekContext, hasAnyUzbek } from "./util.js";
 import { wordCount } from "../text.js";
 
 interface Loanword {
   en: string;
   uz: string;
+  /**
+   * Registers where the word is an accepted, natural loan and is not flagged
+   * (loanword-policy.md "Ambiguous — context decides" table).
+   */
+  okIn?: readonly RegisterId[];
 }
 
 /** English words that must be rewritten when they appear in Uzbek copy. */
@@ -32,7 +37,8 @@ const REPLACEABLE: Loanword[] = [
   { en: "task", uz: "vazifa" },
   { en: "team", uz: "jamoa" },
   { en: "project", uz: "loyiha" },
-  { en: "deadline", uz: "muddat" },
+  // policy: "deadline | keep in professional chat" (work chat, casual)
+  { en: "deadline", uz: "muddat", okIn: ["chat", "youth"] },
   { en: "meeting", uz: "uchrashuv / yigʻilish" },
   { en: "feedback", uz: "fikr / mulohaza" },
   { en: "boss", uz: "rahbar" },
@@ -110,7 +116,9 @@ export function lintLoanwords(text: string, opts: LintOptions = {}): Finding[] {
     });
   }
 
-  for (const { en, uz } of REPLACEABLE) {
+  const register = opts.register ?? "product";
+  for (const { en, uz, okIn } of REPLACEABLE) {
+    if (okIn?.includes(register)) continue;
     const re = new RegExp(`\\b${en}\\b`, "gi");
     const hits = text.match(re) ?? [];
     if (hits.length && hasUzbekContext(text, en)) {

@@ -5,7 +5,7 @@
 - Verbs active, attribution once: "…, deb Toshkent hokimligi maʼlum qildi."
 - Report-verb budget: one amalga oshirildi per story, zero katta eʼtibor
   berildi.
-- Headline shapes: "X sodir boʻldi — tafsilotlar" / "X qachon?" / plain fact.
+- Headline shapes: "X sodir boʻldi: tafsilotlar" / "X qachon?" / plain fact.
 - Place names Uzbek: Buxoro, Qoraqalpogʻiston.
 - Numbers: "1,5 ming" style per outlet house style; otherwise 1 500.
 

@@ -25,6 +25,16 @@ describe("suffix linter", () => {
     expect(rules("bochkaga soling")).not.toContain("suf.double-dative");
   });
 
+  it("regression: -qa/-ka vowel stems + normal dative pass (daqiqaga), doubled assimilated datives still fire", () => {
+    for (const ok of ["daqiqaga", "bir daqiqaga kirib", "Uchrashuv 5 daqiqaga kechikadi", "qisqaga", "chashkaga", "ruchkaga", "sumkaga", "futbolkaga", "doskaga"]) {
+      expect(rules(ok), ok).not.toContain("suf.double-dative");
+    }
+    expect(rules("qishloqqaga bordik")).toContain("suf.double-dative");
+    expect(rules("yurakkaga yaqin")).toContain("suf.double-dative");
+    expect(rules("uygaga keldim")).toContain("suf.double-dative");
+    expect(rules("Buyurtmangizlargaga kuzatuv raqami yuborildi")).toContain("suf.double-dative");
+  });
+
   it("flags possessive+plural stacking", () => {
     expect(rules("kitobimizlar")).toContain("suf.possessive-plural");
     expect(rules("kitoblarimiz")).not.toContain("suf.possessive-plural");

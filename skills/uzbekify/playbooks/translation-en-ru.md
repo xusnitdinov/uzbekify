@@ -21,6 +21,6 @@ CORE MISSION: translate INTO the human voice, never into document voice.
    `uzpro diff before after` to show the user; `uzpro score --min 90`.
 
 Bad→Good (RU): "Zakaz belgilangan tartibda oformlyayetsya" →
-   "Buyurtma shu yerda rasmiylashadi — bir-ikki daqiqa."
+   "Buyurtma shu yerda rasmiylashadi, bir-ikki daqiqa ketadi."
 Bad→Good (EN): "Would you mind updating your profile information?" →
    "Profilingizni yangilab qoʻyasizmi?"

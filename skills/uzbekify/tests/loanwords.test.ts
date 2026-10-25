@@ -13,6 +13,18 @@ describe("loanword linter", () => {
     expect(rules("Har bir doʻkonimizda individual approach va attention")).toContain("loan.replaceable.approach");
   });
 
+  it("regression: deadline is allowed in work chat / casual registers (loanword-policy: keep in professional chat)", () => {
+    const chat = "Bugun deadline, vazifani hali tugatmadim. Yigʻilishdan keyin sizga qoʻngʻiroq qilaman, boʻladimi?";
+    expect(rules(chat, { register: "chat" })).not.toContain("loan.replaceable.deadline");
+    expect(rules(chat, { register: "youth" })).not.toContain("loan.replaceable.deadline");
+    // still flagged on clean product / formal surfaces
+    for (const register of ["product", "assistant", "marketing", "quiz", "news", "legal", "official", "academic"]) {
+      expect(rules(chat, { register }), register).toContain("loan.replaceable.deadline");
+    }
+    // only deadline is relaxed: other replaceable words still fire in chat
+    expect(rules("Deadline yaqin, task ni tugating", { register: "chat" })).toContain("loan.replaceable.task");
+  });
+
   it("keeps English-only lines clean", () => {
     expect(rules("Send the file this morning please")).toHaveLength(0);
     expect(rules("The team meeting starts at nine")).toHaveLength(0);

@@ -1,6 +1,6 @@
 # Loanword policy (KEEP / REPLACEABLE / youth-only)
 
-Maqsad "sof" koʻrinish emas — odamlar ishlatadigan, maʼnosi ravshan soʻzni
+Maqsad "sof" koʻrinish emas. Odamlar ishlatadigan, maʼnosi ravshan soʻzni
 qoldiring. Soxta adabiy poklik matnni robotdek qiladi (v1 rule, kept).
 
 ## KEEP (normal product/daily copy)
@@ -42,7 +42,7 @@ literally, mindset. Full table with fixes in `calque-bank.md` §A1.
 | account | login/bank product | profile sense (hisob/profil) |
 | plan | tariff name | user intention (reja) |
 | support | department name | in-sentence (yordam) |
-| deadline | professional chat | career quiz (muddat qisib qolsa) |
+| deadline | professional/work chat (`chat`, `youth` registers: not flagged) | product, formal, career quiz (muddat qisib qolsa) |
 | meeting | work calendar | general meeting (uchrashuv) |
 
 ## Density rule

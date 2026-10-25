@@ -97,7 +97,7 @@ Domains: domains.md · ui-glossary.md
 
 ```
 ## Matn
-[yoki "faylga qarang" + 2–5 namuna qator]
+[yoki "faylga qarang" + 2-5 namuna qator]
 ## Oʻzgarishlar
 - [register/script/calques/order/suffix/synonym/rhythm]
 ## Holat

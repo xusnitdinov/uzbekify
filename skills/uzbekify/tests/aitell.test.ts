@@ -8,27 +8,54 @@ import path from "node:path";
 const rules = (t: string, register = "product") =>
   lintAitell(t, { register }).map((f) => f.rule);
 
-describe("aitell: dashes (output policy is global; input lint is register-calibrated)", () => {
-  it("flags em and en dashes in casual registers", () => {
-    for (const register of ["product", "chat", "assistant", "youth", "marketing"]) {
+describe("aitell: dashes (hard rule 2: no dashes in ANY register)", () => {
+  const ALL = ["product", "chat", "assistant", "youth", "marketing", "news", "legal", "official", "academic", "quiz"];
+
+  it("flags em and en dashes in every register", () => {
+    for (const register of ALL) {
       expect(rules("Ishlanyapti — tez orada tugatamiz.", register)).toContain("aitell.em-dash");
       expect(rules("En dash – ham shunday", register)).toContain("aitell.em-dash");
     }
   });
 
-  it("skips em dashes in formal registers where they are attested style (news '— tafsilotlar', laws, papers)", () => {
-    for (const register of ["news", "legal", "official", "academic", "quiz"]) {
-      expect(rules("Buxoroda bozor yonib ketdi — tafsilotlar", register)).not.toContain("aitell.em-dash");
-    }
+  it("regression: em dash in a news headline is caught (was skipped in formal registers)", () => {
+    expect(rules("Buxoroda bozor yonib ketdi — tafsilotlar", "news")).toContain("aitell.em-dash");
+    expect(lintText("Toshkentda yangi metro bekati ochildi — tafsilotlar", { register: "news" }).map((f) => f.rule)).toContain("aitell.em-dash");
+    // the dash-free headline is clean
+    expect(lintText("Toshkentda yangi metro bekati ochildi: tafsilotlar", { register: "news" })).toHaveLength(0);
   });
 
-  it("flags the spaced-hyphen tic in chat and the double-hyphen tic in casual copy; ranges and brands stay clean", () => {
-    expect(rules("Bu katta - juda katta gap", "chat")).toContain("aitell.spaced-hyphen-dash");
+  it("regression: spaced hyphen used as a dash is caught in every register (was chat-only)", () => {
+    for (const register of ALL) {
+      expect(rules("Bu katta - juda katta gap", register)).toContain("aitell.spaced-hyphen-dash");
+    }
+    expect(rules("Guruh ishi oʻxshamadi - nima qilasiz?", "quiz")).toContain("aitell.spaced-hyphen-dash");
+    expect(rules("Narxi 100 - juda arzon", "marketing")).toContain("aitell.spaced-hyphen-dash");
+    // sentence-leading "- " after a full stop (dialogue dash) mid-line
+    expect(rules("Keldim. - Qayerga ketding?", "chat")).toContain("aitell.spaced-hyphen-dash");
     expect(rules("Ochiladi -- yangi imkoniyat.")).toContain("aitell.double-hyphen-dash");
-    // real humans (and v1's native-verified goldens) use " - " outside chat
-    expect(rules("Guruh ishi oʻxshamadi - nima qilasiz?", "quiz")).not.toContain("aitell.spaced-hyphen-dash");
-    expect(rules("10 - 15 daqiqa kuting")).toHaveLength(0);
-    expect(rules("Wi-Fi va Telegram-bot")).toHaveLength(0);
+  });
+
+  it("regression: line-leading '- ' glued to a prose paragraph is a dash", () => {
+    expect(rules("Ertaga uchrashamiz\n- agar vaqtingiz boʻlsa.", "product")).toContain("aitell.leading-hyphen-dash");
+    expect(rules("Men hayron boʻldim.\n- Nega bunday qilding? dedi u.\nJavob bermadim.", "news")).toContain("aitell.leading-hyphen-dash");
+  });
+
+  it("hyphenated words, numeric ranges, phones, tables and markdown bullets stay clean", () => {
+    for (const register of ALL) {
+      expect(rules("10 - 15 daqiqa kuting", register)).toHaveLength(0);
+      expect(rules("10-15 daqiqa kuting", register)).toHaveLength(0);
+      expect(rules("Wi-Fi va Telegram-bot", register)).toHaveLength(0);
+      expect(rules("2024-yil 9-avgust, qoʻllab-quvvatlash xizmati", register)).toHaveLength(0);
+      expect(rules("Telefon: +998 90 123-45-67", register)).toHaveLength(0);
+    }
+    // markdown lists: adjacent bullets, list under a heading, after a colon, after a blank line
+    expect(rules("Bugun:\n- non\n- sut", "product")).toHaveLength(0);
+    expect(rules("## Oʻzgarishlar\n- register tuzatildi", "product")).toHaveLength(0);
+    expect(rules("Kerakli narsalar:\n- pasport", "product")).toHaveLength(0);
+    expect(rules("Matn tayyor.\n\n- birinchi band", "product")).toHaveLength(0);
+    expect(rules("| Ustun | Qiymat |\n|---|---|\n| a | - |", "product")).toHaveLength(0);
+    expect(rules("```\nuzpro lint fayl.md\n- kod ichida\n```", "product")).toHaveLength(0);
   });
 
   it("dash-free rewrite scores higher", () => {

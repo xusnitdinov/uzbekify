@@ -88,7 +88,7 @@ appears, replace with the Good column — but keep step 4 (word order) and step
 | 55 | Siz eshikni yopishga qarshi emasmisiz? | Iltimos, eshikni yopib qoʻying | Literal "would you mind" |
 | 56 | Men haqiqatan ham bu ilovani yoqtiraman | Bu ilova menga juda yoqadi | EN "I like X" structure |
 | 57 | haqiqatan ham (filler) | juda / (oʻchiring) | AI intensity filler |
-| 58 | Hurmatli foyydalanuvchi, … | Assalomu alaykum! / (name) | False formality boilerplate |
+| 58 | Hurmatli foydalanuvchi, … | Assalomu alaykum! / (name) | False formality boilerplate |
 | 59 | Rahmat sizga oldindan | Oldindan rahmat | Calqued "thank you in advance" |
 | 60 | Men Oʻzbekiston emasman | Men Oʻzbekistondan emasman | Truncated "from" |
 | 61 | Siz notoʻgʻrisiz | Fikringizga qoʻshilmayman | EN "you are wrong" rudeness |
@@ -258,7 +258,7 @@ appears, replace with the Good column — but keep step 4 (word order) and step
 | 179 | oxirgi navbatda | oxiri / yakunda | RU в последнюю очередь sense drift |
 | 180 | Birinchi navbatda (3+ uses) | Avval / Eng muhimi | Repetitive officialese |
 | 181 | Boshqacha qilib aytadigan boʻlsak | Yaʼni | Long calque of "in other words" |
-| 182 | Vanihoyat, xulosa qilib | Vanihoyat — (gap) | Do not stack vanihoyat + xulosa |
+| 182 | Vanihoyat, xulosa qilib | Vanihoyat, (gap) | Do not stack vanihoyat + xulosa |
 
 ---
 
@@ -341,8 +341,8 @@ appears, replace with the Good column — but keep step 4 (word order) and step
 
 | # | Fine as-is (do not flag) | Note |
 |---|---|---|
-| 236 | Buxoroda bozor yonib ketdi — tafsilotlar | News "— tafsilotlar" is attested kun.uz headline style (input lint skips formal registers; output policy still avoids) |
-| 237 | Guruh ishi oʻxshamadi - nima qilasiz? | v1's own native-verified golden uses " - "; outside chat it's fine |
+| 236 | Buxoroda bozor yonib ketdi: tafsilotlar | News headline tail with a colon. The "— tafsilotlar" form is flagged in every register (hard rule 2: no dashes) |
+| 237 | Guruh ishi oʻxshamadi. Nima qilasiz? | Two sentences instead of " - "; a spaced hyphen used as a dash is flagged in every register |
 | 238 | Xizmat mavjud holatda taqdim etiladi; zarar uchun kafolat bermaymiz | Legal prose keeps semicolons |
 | 239 | Tez, sodda va foydali | Clean marketing triple — only bare stacks or hype chains flag |
 | 240 | Rahmat. Boʻldi. Yubordim. | Clipped chat: perfect punctuation rule exempts ≤3-word sentences with a 1-word line |
@@ -351,7 +351,7 @@ appears, replace with the Good column — but keep step 4 (word order) and step
 | 243 | Sinab koʻring va natijani koʻring | Polite -ing imperative; never a bare sen imperative |
 | 244 | Ushbu Qonun kuchga kirgan kundan eʼtiboran qoʻllanadi | official register keeps document wording |
 | 245 | Vazirlik tomonidan yangi yoʻriqnoma qabul qilindi | news register keeps the state-report passive |
-| 246 | 10-15 daqiqa kuting | Hyphen ranges are fine; en dash 10–15 is the tell |
+| 246 | 10-15 daqiqa kuting | Hyphen ranges are fine (also "10 - 15"); en dash 10–15 is the tell |
 | 247 | Bankka boring | bank+ka is assimilated; only unassimilated bankga would flag |
 | 248 | quyidagi gaplardan… (quiz) | quiz/news keep the formal pointer |
 | 249 | keliningiz, oʻtishingizda, yigʻilishlar | Not suffix errors — legal chains and real plurals |

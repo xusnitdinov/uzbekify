@@ -37,7 +37,10 @@ export const SUFFIX_RULES: Rule[] = [
   {
     id: "suf.double-dative",
     family: "suffix",
-    re: /\b\w+?(?:gaga|ngaga|qaga|kaga)\b/gi,
+    // -ga-ga, or an assimilated -qa/-ka dative doubled (qishloqqaga,
+    // yurakkaga). A lone "qaga/kaga" is just a -qa/-ka vowel stem taking a
+    // normal -ga (daqiqaga, boshqaga, qisqaga, bochkaga), so it is not matched.
+    re: /\b\w+?(?:gaga|qqaga|kkaga)\b/gi,
     severity: "error",
     message: "Double dative -ga-ga — one dative only (kitobxonlarga, oʻyinga)",
     skipMatch: (m) => DATIVE_STOP.has(m.toLowerCase()),

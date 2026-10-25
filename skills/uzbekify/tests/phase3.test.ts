@@ -5,6 +5,7 @@ import path from "node:path";
 import { spawnSync } from "node:child_process";
 import { detectAgents, runInit, skillPayloadDir, type AgentId } from "../src/lib/init.js";
 import { applyFixes, humanize, toChecklist } from "../src/lib/fix.js";
+import { lintText } from "../src/lib/lint.js";
 
 const CLI = path.resolve(process.cwd(), "dist/cli.js");
 const POSTINSTALL = path.resolve(process.cwd(), "scripts/postinstall.js");
@@ -190,6 +191,27 @@ describe("--fix and humanize", () => {
     const { text, applied } = applyFixes("To'g'ri javob — select qiling\u00AD  ikki marta");
     expect(text).toBe("Toʻgʻri javob, select qiling ikki marta");
     expect(applied.length).toBeGreaterThanOrEqual(3);
+  });
+
+  it("regression: applyFixes removes every dash kind safely (all registers' no-dash rule)", () => {
+    const fix = (t: string) => applyFixes(t).text;
+    expect(fix("Bu katta - juda katta gap")).toBe("Bu katta, juda katta gap");
+    expect(fix("Toshkentda yongʻin chiqdi — tafsilotlar")).toBe("Toshkentda yongʻin chiqdi, tafsilotlar");
+    expect(fix("Ochiladi -- yangi imkoniyat.")).toBe("Ochiladi, yangi imkoniyat.");
+    // numeric ranges become the 10-15 range style instead of "10, 15"
+    expect(fix("10–15 daqiqa kuting")).toBe("10-15 daqiqa kuting");
+    expect(fix("10 - 15 daqiqa kuting")).toBe("10 - 15 daqiqa kuting");
+    // sentence-leading and line-leading dashes are dropped, lines never merge
+    expect(fix("Keldim. - Qayerga ketding?")).toBe("Keldim. Qayerga ketding?");
+    expect(fix("Salom.\n— Qalaysiz?")).toBe("Salom.\nQalaysiz?");
+    expect(fix("Natija —\nyaxshi")).toBe("Natija\nyaxshi");
+    // hyphenated words, phones and markdown bullets are left untouched
+    const keep = "Wi-Fi, qoʻllab-quvvatlash, 2024-yil 9-avgust, +998 90 123-45-67\n- birinchi\n- ikkinchi";
+    expect(fix(keep)).toBe(keep);
+    // fixed text is dash-clean in a formal register too
+    for (const t of ["Bu katta - juda katta gap", "Yangi yoʻriqnoma tasdiqlandi — hujjat"]) {
+      expect(lintText(fix(t), { register: "news" }).map((f) => f.rule).filter((r) => r.includes("dash"))).toEqual([]);
+    }
   });
 
   it("applyFixes transliterates predominantly-Cyrillic text", () => {

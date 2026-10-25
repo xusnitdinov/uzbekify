@@ -22,4 +22,4 @@ Preset: `marketing` · Address: Siz · 5-16 words · concrete benefit per line.
    on at least one -ib qoʻy-/qol- compound.
 
 Bad→Good: "Hayotingizni transformatsiya qiling — eng yaxshi tajriba!" →
-   "Ishlaringizni yengillashtiring — bir necha daqiqada ishga tushadi."
+   "Ishlaringizni yengillashtiring. Bir necha daqiqada ishga tushadi."
