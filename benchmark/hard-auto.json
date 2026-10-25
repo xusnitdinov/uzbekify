@@ -1,0 +1,4274 @@
+{
+ "baseline": [
+  {
+   "id": "hard-01",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "amalga oshiriladi|ta'minlan|taqdim etiladi|rejalashtirilgan|mazkur",
+     "why": "officialese must go",
+     "pass": false
+    },
+    {
+     "type": "lint_clean",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "\\b(rahmat|yangi|darslar|o'quv|guruh)",
+     "why": "content preserved",
+     "pass": true
+    },
+    {
+     "type": "approx_len",
+     "why": "stays a real announcement",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-02",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "muvofiq ravishda|o'z navbatida",
+     "why": "RU connectors out",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "\\b(banka|karta|mijoz)",
+     "why": "domain words stay",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-03",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "lint_clean",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(yetkaz|keldi|narx)",
+     "why": "facts stay",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-04",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "ta'minlanadi|olib borilmoqda|hisoblanadi|amalga oshiriladi",
+     "why": "report-verbs to active",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "why": "not all sentences same length",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-05",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "Siz (har kuni|testlarni|natijalarni|xatolaringizni) ",
+     "why": "template opener must break",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    },
+    {
+     "type": "lint_clean",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-06",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "ta'minlanadi|amalga oshiriladi|qayd etiladi",
+     "why": "passive report",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(baz|monitoring|yuklama)",
+     "why": "tech terms stay",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-07",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(yana o|chiqmad|ish qilm)",
+     "why": "quote stays raw",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(rahbar|ariza|norozil|murojaat)",
+     "why": "formal frame present",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\bmazkur\\b",
+     "why": "casual parts must not gain officialese",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-08",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(so'rayman|choralar)",
+     "why": "quote verbatim",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "why": "reply is chat",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-09",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(chegirma|bepul|yangi)",
+     "why": "marketing line",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(maxfiylik|shart|siyosat)",
+     "why": "legal line",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-10",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "👇",
+     "why": "pointer",
+     "pass": true
+    },
+    {
+     "type": "no_bullet",
+     "why": "no bullet lists in posts",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-11",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "Taqiqlanadi",
+     "why": "formal word must survive",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-12",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(Hurmat|Assalomu)",
+     "why": "formal frame",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yubord|chiqd|bo'ld)",
+     "why": "chat layer",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-13",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(wifi|pixel|click)",
+     "why": "real loans stay",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-14",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(patch|meta|tier)",
+     "why": "gaming loans stay",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(chiqd|o'zgardi|pastda)",
+     "why": "uzbek frame",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-15",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(React|remote|resume|HR)",
+     "why": "real EN terms stay",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "(ta'minlanadi|amalga oshiriladi)",
+     "why": "no officialese",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-16",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(app|payment|refund)",
+     "why": "loans stay",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-17",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "expired",
+     "why": "user loan stays or is kept naturally",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-18",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "brend",
+     "why": "assimilated loan stays",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-19",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(Salom|boʻlmadi|qilsam)",
+     "why": "content stays",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "why": "no Cyrillic leak",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-20",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Doʻstlar|boʻladi)",
+     "why": "words stay",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-21",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\bmazkur\\b|\\bushbu\\b",
+     "why": "no officialese gained",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(savol|javob|rahbar|director)",
+     "why": "content",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-22",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(блокланд|ўзим)",
+     "why": "Cyrillic quote stays",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-23",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(hammasi|boʻladi)",
+     "why": "proverb stays",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-24",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "lint_clean",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(post|chiqd|oʻqing)",
+     "why": "content",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-25",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "-ku",
+     "why": "particle stays",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-26",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "donat",
+     "why": "real slang loan",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\b(ship|vibe)\\b",
+     "why": "banned EN slang",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-27",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(qash|qichig)",
+     "why": "idiom explained via itself",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-28",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "-ku",
+     "why": "particle",
+     "pass": false
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-29",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(tulki|boʻri)",
+     "why": "characters",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-30",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(Eshitdim|mish)",
+     "why": "flavor",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-31",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "varied_rhythm",
+     "why": "symmetry must break",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "va (natija|biz ham|xursand)",
+     "why": "'va' spam reduced",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-32",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "(Agar qulay bo'l)",
+     "why": "over-politeness repeated",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-33",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "Eng (tez|arzon|qulay|ishonchli)",
+     "why": "superlative spam",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-34",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(shartnoma|tomon)",
+     "why": "domain",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-35",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "(Rahmat, xabar|Rahmat, savol|Rahmat, javob)",
+     "why": "template gratitude",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-36",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "bilan bog'lanishingiz mumkin",
+     "why": "template frame",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-37",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ijro etilishi lozim|mazkur|qarori)",
+     "why": "official register must stay",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-38",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(ushbu ariza|so'rayman)",
+     "why": "formal frame",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-39",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(Konstitutsiyasiga muvofiq|teng huquqli)",
+     "why": "legal wording",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "must stay basically unchanged",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-40",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "\\baka\\b",
+     "why": "casual address out of formal",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-41",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(maxfiy|uchinchi shaxs)",
+     "why": "legal terms",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-42",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(lozim|yuboriladi)",
+     "why": "register stays",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-43",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\baktual\\b",
+     "why": "false friend",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(dolzarb|haqiqiy)",
+     "why": "correct translation",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-44",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "kerak edi",
+     "why": "counterfactual modality",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-45",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "ekan",
+     "why": "evidential -ekan stays",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-46",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "Hurmatli foydalanuvchi",
+     "why": "brochure opener out",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(tekshirib|maʼlumot)",
+     "why": "content",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-47",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yildan beri|yashayap)",
+     "why": "ongoing aspect",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-48",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "(mushuk|itlar)",
+     "why": "literal translation must not appear",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yomg|sel)",
+     "why": "natural image",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-49",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "approx_input",
+     "why": "native text — minimal edits",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(gap yoʻq|zoʻr)",
+     "why": "native flavor stays",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-50",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "native",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "rahmat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-51",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "approx_input",
+     "why": "tone must stay",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(bemalol|menga juda zoʻr)",
+     "why": "voice",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-52",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "approx_input",
+     "why": "native",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ochilmayapti|kirolmayapman)",
+     "why": "native verbs",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-53",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "approx_input",
+     "why": "word choice must stay",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ma'lum boʻlsin|svet)",
+     "why": "mahalla voice",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-54",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "approx_input",
+     "why": "native",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yaxwi|eku)",
+     "why": "spoken forms stay",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-55",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "why": "zero dashes",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yanvard|chegirma)",
+     "why": "facts",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-56",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(doʻkon|Chilonzor|40)",
+     "why": "facts",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-57",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "why": "en-dash ranges → to'g'ri yozuv",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(daqiqa|ming)",
+     "why": "facts",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-58",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(tekshir|tuzat)",
+     "why": "steps stay",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-59",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ertaga|soat)",
+     "why": "content",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-60",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(kechik|qaytar|almashtir)",
+     "why": "demands stay",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  }
+ ],
+ "v1": [
+  {
+   "id": "hard-01",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "amalga oshiriladi|ta'minlan|taqdim etiladi|rejalashtirilgan|mazkur",
+     "why": "officialese must go",
+     "pass": true
+    },
+    {
+     "type": "lint_clean",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "\\b(rahmat|yangi|darslar|o'quv|guruh)",
+     "why": "content preserved",
+     "pass": true
+    },
+    {
+     "type": "approx_len",
+     "why": "stays a real announcement",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-02",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "muvofiq ravishda|o'z navbatida",
+     "why": "RU connectors out",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "\\b(banka|karta|mijoz)",
+     "why": "domain words stay",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-03",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "lint_clean",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(yetkaz|keldi|narx)",
+     "why": "facts stay",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-04",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "ta'minlanadi|olib borilmoqda|hisoblanadi|amalga oshiriladi",
+     "why": "report-verbs to active",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "why": "not all sentences same length",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-05",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "Siz (har kuni|testlarni|natijalarni|xatolaringizni) ",
+     "why": "template opener must break",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    },
+    {
+     "type": "lint_clean",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-06",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "ta'minlanadi|amalga oshiriladi|qayd etiladi",
+     "why": "passive report",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(baz|monitoring|yuklama)",
+     "why": "tech terms stay",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-07",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yana o|chiqmad|ish qilm)",
+     "why": "quote stays raw",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(rahbar|ariza|norozil|murojaat)",
+     "why": "formal frame present",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\bmazkur\\b",
+     "why": "casual parts must not gain officialese",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-08",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(so'rayman|choralar)",
+     "why": "quote verbatim",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "why": "reply is chat",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-09",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(chegirma|bepul|yangi)",
+     "why": "marketing line",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(maxfiylik|shart|siyosat)",
+     "why": "legal line",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-10",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "👇",
+     "why": "pointer",
+     "pass": true
+    },
+    {
+     "type": "no_bullet",
+     "why": "no bullet lists in posts",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-11",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "Taqiqlanadi",
+     "why": "formal word must survive",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-12",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Hurmat|Assalomu)",
+     "why": "formal frame",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yubord|chiqd|bo'ld)",
+     "why": "chat layer",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-13",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(wifi|pixel|click)",
+     "why": "real loans stay",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-14",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(patch|meta|tier)",
+     "why": "gaming loans stay",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(chiqd|o'zgardi|pastda)",
+     "why": "uzbek frame",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-15",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(React|remote|resume|HR)",
+     "why": "real EN terms stay",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "(ta'minlanadi|amalga oshiriladi)",
+     "why": "no officialese",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-16",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(app|payment|refund)",
+     "why": "loans stay",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-17",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "expired",
+     "why": "user loan stays or is kept naturally",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-18",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "brend",
+     "why": "assimilated loan stays",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-19",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Salom|boʻlmadi|qilsam)",
+     "why": "content stays",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "why": "no Cyrillic leak",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-20",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Doʻstlar|boʻladi)",
+     "why": "words stay",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-21",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\bmazkur\\b|\\bushbu\\b",
+     "why": "no officialese gained",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(savol|javob|rahbar|director)",
+     "why": "content",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-22",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(блокланд|ўзим)",
+     "why": "Cyrillic quote stays",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-23",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(hammasi|boʻladi)",
+     "why": "proverb stays",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-24",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "lint_clean",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(post|chiqd|oʻqing)",
+     "why": "content",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-25",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "-ku",
+     "why": "particle stays",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-26",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "donat",
+     "why": "real slang loan",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\b(ship|vibe)\\b",
+     "why": "banned EN slang",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-27",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(qash|qichig)",
+     "why": "idiom explained via itself",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-28",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "-ku",
+     "why": "particle",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-29",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(tulki|boʻri)",
+     "why": "characters",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-30",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Eshitdim|mish)",
+     "why": "flavor",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-31",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "why": "symmetry must break",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "va (natija|biz ham|xursand)",
+     "why": "'va' spam reduced",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-32",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "(Agar qulay bo'l)",
+     "why": "over-politeness repeated",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-33",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "Eng (tez|arzon|qulay|ishonchli)",
+     "why": "superlative spam",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-34",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(shartnoma|tomon)",
+     "why": "domain",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-35",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "(Rahmat, xabar|Rahmat, savol|Rahmat, javob)",
+     "why": "template gratitude",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-36",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "bilan bog'lanishingiz mumkin",
+     "why": "template frame",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-37",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ijro etilishi lozim|mazkur|qarori)",
+     "why": "official register must stay",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-38",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ushbu ariza|so'rayman)",
+     "why": "formal frame",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-39",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Konstitutsiyasiga muvofiq|teng huquqli)",
+     "why": "legal wording",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "must stay basically unchanged",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-40",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\baka\\b",
+     "why": "casual address out of formal",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-41",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(maxfiy|uchinchi shaxs)",
+     "why": "legal terms",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-42",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(lozim|yuboriladi)",
+     "why": "register stays",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-43",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\baktual\\b",
+     "why": "false friend",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(dolzarb|haqiqiy)",
+     "why": "correct translation",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-44",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "kerak edi",
+     "why": "counterfactual modality",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-45",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "ekan",
+     "why": "evidential -ekan stays",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-46",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "Hurmatli foydalanuvchi",
+     "why": "brochure opener out",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(tekshirib|maʼlumot)",
+     "why": "content",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-47",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yildan beri|yashayap)",
+     "why": "ongoing aspect",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-48",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "(mushuk|itlar)",
+     "why": "literal translation must not appear",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yomg|sel)",
+     "why": "natural image",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-49",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "native text — minimal edits",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(gap yoʻq|zoʻr)",
+     "why": "native flavor stays",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-50",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "native",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "rahmat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-51",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "tone must stay",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(bemalol|menga juda zoʻr)",
+     "why": "voice",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-52",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "native",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ochilmayapti|kirolmayapman)",
+     "why": "native verbs",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-53",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "word choice must stay",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ma'lum boʻlsin|svet)",
+     "why": "mahalla voice",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-54",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "native",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yaxwi|eku)",
+     "why": "spoken forms stay",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-55",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "why": "zero dashes",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yanvard|chegirma)",
+     "why": "facts",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-56",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(doʻkon|Chilonzor|40)",
+     "why": "facts",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-57",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "why": "en-dash ranges → to'g'ri yozuv",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(daqiqa|ming)",
+     "why": "facts",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-58",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(tekshir|tuzat)",
+     "why": "steps stay",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-59",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ertaga|soat)",
+     "why": "content",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-60",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(kechik|qaytar|almashtir)",
+     "why": "demands stay",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  }
+ ],
+ "v2": [
+  {
+   "id": "hard-01",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "amalga oshiriladi|ta'minlan|taqdim etiladi|rejalashtirilgan|mazkur",
+     "why": "officialese must go",
+     "pass": false
+    },
+    {
+     "type": "lint_clean",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "\\b(rahmat|yangi|darslar|o'quv|guruh)",
+     "why": "content preserved",
+     "pass": true
+    },
+    {
+     "type": "approx_len",
+     "why": "stays a real announcement",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-02",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "muvofiq ravishda|o'z navbatida",
+     "why": "RU connectors out",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "\\b(banka|karta|mijoz)",
+     "why": "domain words stay",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-03",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "lint_clean",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yetkaz|keldi|narx)",
+     "why": "facts stay",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-04",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "ta'minlanadi|olib borilmoqda|hisoblanadi|amalga oshiriladi",
+     "why": "report-verbs to active",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "why": "not all sentences same length",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-05",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "Siz (har kuni|testlarni|natijalarni|xatolaringizni) ",
+     "why": "template opener must break",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    },
+    {
+     "type": "lint_clean",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-06",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "ta'minlanadi|amalga oshiriladi|qayd etiladi",
+     "why": "passive report",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(baz|monitoring|yuklama)",
+     "why": "tech terms stay",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-07",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yana o|chiqmad|ish qilm)",
+     "why": "quote stays raw",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(rahbar|ariza|norozil|murojaat)",
+     "why": "formal frame present",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\bmazkur\\b",
+     "why": "casual parts must not gain officialese",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-08",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(so'rayman|choralar)",
+     "why": "quote verbatim",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "why": "reply is chat",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-09",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(chegirma|bepul|yangi)",
+     "why": "marketing line",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(maxfiylik|shart|siyosat)",
+     "why": "legal line",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-10",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "👇",
+     "why": "pointer",
+     "pass": true
+    },
+    {
+     "type": "no_bullet",
+     "why": "no bullet lists in posts",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-11",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "Taqiqlanadi",
+     "why": "formal word must survive",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-12",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Hurmat|Assalomu)",
+     "why": "formal frame",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yubord|chiqd|bo'ld)",
+     "why": "chat layer",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-13",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(wifi|pixel|click)",
+     "why": "real loans stay",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-14",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(patch|meta|tier)",
+     "why": "gaming loans stay",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(chiqd|o'zgardi|pastda)",
+     "why": "uzbek frame",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-15",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(React|remote|resume|HR)",
+     "why": "real EN terms stay",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "(ta'minlanadi|amalga oshiriladi)",
+     "why": "no officialese",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-16",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(app|payment|refund)",
+     "why": "loans stay",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-17",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "expired",
+     "why": "user loan stays or is kept naturally",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-18",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "brend",
+     "why": "assimilated loan stays",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-19",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Salom|boʻlmadi|qilsam)",
+     "why": "content stays",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "why": "no Cyrillic leak",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-20",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Doʻstlar|boʻladi)",
+     "why": "words stay",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-21",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\bmazkur\\b|\\bushbu\\b",
+     "why": "no officialese gained",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(savol|javob|rahbar|director)",
+     "why": "content",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-22",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(блокланд|ўзим)",
+     "why": "Cyrillic quote stays",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-23",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(hammasi|boʻladi)",
+     "why": "proverb stays",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-24",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "lint_clean",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(post|chiqd|oʻqing)",
+     "why": "content",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-25",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "-ku",
+     "why": "particle stays",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-26",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "donat",
+     "why": "real slang loan",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\b(ship|vibe)\\b",
+     "why": "banned EN slang",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-27",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(qash|qichig)",
+     "why": "idiom explained via itself",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-28",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "-ku",
+     "why": "particle",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-29",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(tulki|boʻri)",
+     "why": "characters",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-30",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Eshitdim|mish)",
+     "why": "flavor",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-31",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "why": "symmetry must break",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "va (natija|biz ham|xursand)",
+     "why": "'va' spam reduced",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "hard-32",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "(Agar qulay bo'l)",
+     "why": "over-politeness repeated",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-33",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "Eng (tez|arzon|qulay|ishonchli)",
+     "why": "superlative spam",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-34",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(shartnoma|tomon)",
+     "why": "domain",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-35",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "(Rahmat, xabar|Rahmat, savol|Rahmat, javob)",
+     "why": "template gratitude",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-36",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "bilan bog'lanishingiz mumkin",
+     "why": "template frame",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-37",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ijro etilishi lozim|mazkur|qarori)",
+     "why": "official register must stay",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-38",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ushbu ariza|so'rayman)",
+     "why": "formal frame",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-39",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Konstitutsiyasiga muvofiq|teng huquqli)",
+     "why": "legal wording",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "must stay basically unchanged",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-40",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\baka\\b",
+     "why": "casual address out of formal",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-41",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(maxfiy|uchinchi shaxs)",
+     "why": "legal terms",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-42",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(lozim|yuboriladi)",
+     "why": "register stays",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-43",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\baktual\\b",
+     "why": "false friend",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(dolzarb|haqiqiy)",
+     "why": "correct translation",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-44",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "kerak edi",
+     "why": "counterfactual modality",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-45",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "ekan",
+     "why": "evidential -ekan stays",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-46",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "Hurmatli foydalanuvchi",
+     "why": "brochure opener out",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(tekshirib|maʼlumot)",
+     "why": "content",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-47",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yildan beri|yashayap)",
+     "why": "ongoing aspect",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-48",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "(mushuk|itlar)",
+     "why": "literal translation must not appear",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yomg|sel)",
+     "why": "natural image",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-49",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "native text — minimal edits",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(gap yoʻq|zoʻr)",
+     "why": "native flavor stays",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-50",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "native",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "rahmat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-51",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "tone must stay",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(bemalol|menga juda zoʻr)",
+     "why": "voice",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-52",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "native",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ochilmayapti|kirolmayapman)",
+     "why": "native verbs",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-53",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "word choice must stay",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ma'lum boʻlsin|svet)",
+     "why": "mahalla voice",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-54",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "native",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yaxwi|eku)",
+     "why": "spoken forms stay",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-55",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "why": "zero dashes",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yanvard|chegirma)",
+     "why": "facts",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-56",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(doʻkon|Chilonzor|40)",
+     "why": "facts",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-57",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "why": "en-dash ranges → to'g'ri yozuv",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(daqiqa|ming)",
+     "why": "facts",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-58",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(tekshir|tuzat)",
+     "why": "steps stay",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-59",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ertaga|soat)",
+     "why": "content",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "hard-60",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(kechik|qaytar|almashtir)",
+     "why": "demands stay",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  }
+ ]
+}

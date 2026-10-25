@@ -1,0 +1,1474 @@
+{
+  "generated": "2026-10-23T18:04:38.550Z",
+  "files": 30,
+  "latinTokens": 63490,
+  "cyrillicTokens": 1611,
+  "wordFreq": {
+    "va": 1849,
+    "bilan": 540,
+    "bu": 317,
+    "ham": 299,
+    "yil": 288,
+    "oʻzbekiston": 273,
+    "boʻlgan": 252,
+    "toshkent": 248,
+    "bir": 246,
+    "amir": 237,
+    "temur": 237,
+    "yilda": 229,
+    "u": 206,
+    "oʻzbek": 205,
+    "shahar": 205,
+    "uning": 200,
+    "boʻlib": 199,
+    "samarqand": 188,
+    "buxoro": 185,
+    "shu": 173,
+    "uchun": 165,
+    "ming": 159,
+    "ta": 156,
+    "davlat": 155,
+    "boshqa": 143,
+    "katta": 139,
+    "edi": 134,
+    "oʻz": 131,
+    "asr": 129,
+    "esa": 126,
+    "islom": 123,
+    "i": 120,
+    "eng": 120,
+    "deb": 115,
+    "tashkil": 114,
+    "muhammad": 108,
+    "mirzo": 107,
+    "yirik": 106,
+    "bor": 105,
+    "joylashgan": 105,
+    "davrida": 104,
+    "biri": 102,
+    "tomonidan": 100,
+    "ishlab": 97,
+    "mavjud": 93,
+    "yangi": 92,
+    "ibn": 90,
+    "oʻrta": 90,
+    "boʻyicha": 89,
+    "qarshi": 89,
+    "hozirgi": 88,
+    "olib": 86,
+    "shahri": 85,
+    "navoiy": 84,
+    "boʻldi": 84,
+    "keyin": 82,
+    "hamda": 80,
+    "yillarda": 79,
+    "markaziy": 79,
+    "taʼlim": 78,
+    "t": 77,
+    "a": 76,
+    "ular": 76,
+    "etilgan": 76,
+    "ga": 75,
+    "asosiy": 73,
+    "kelib": 73,
+    "sifatida": 72,
+    "har": 72,
+    "o": 71,
+    "m": 71,
+    "birinchi": 70,
+    "qismi": 70,
+    "yoki": 68,
+    "kabi": 67,
+    "fargʻona": 67,
+    "yildan": 67,
+    "qilgan": 66,
+    "temurning": 66,
+    "mashhur": 65,
+    "tili": 64,
+    "tarixiy": 64,
+    "aholisi": 64,
+    "shuningdek": 64,
+    "da": 63,
+    "koʻp": 63,
+    "madaniyat": 63,
+    "dan": 63,
+    "toshkentda": 62,
+    "xalqaro": 62,
+    "sanoat": 62,
+    "ega": 61,
+    "qayta": 61,
+    "milliy": 60,
+    "km": 60,
+    "qiladi": 60,
+    "abdulla": 59,
+    "temir": 58,
+    "savdo": 57,
+    "yana": 56,
+    "oʻsha": 56,
+    "tugʻilgan": 56,
+    "tarixi": 56,
+    "xiva": 56,
+    "madrasasi": 56,
+    "jahon": 55,
+    "koʻra": 55,
+    "osiyo": 55,
+    "faoliyat": 55,
+    "yoʻl": 54,
+    "shaharda": 54,
+    "olgan": 54,
+    "nomi": 54,
+    "tumani": 54,
+    "turli": 54,
+    "qashqadaryo": 54,
+    "yillik": 53,
+    "jumladan": 53,
+    "qildi": 53,
+    "yili": 53,
+    "poytaxti": 53,
+    "buxoroda": 53,
+    "xizmat": 52,
+    "kishi": 52,
+    "boshladi": 52,
+    "al": 52,
+    "arab": 52,
+    "umumiy": 51,
+    "sport": 50,
+    "ikkinchi": 50,
+    "universiteti": 50,
+    "yaqin": 50,
+    "etadi": 50,
+    "bosh": 50,
+    "shaharning": 50,
+    "mumkin": 49,
+    "emas": 49,
+    "viloyat": 49,
+    "oʻgʻli": 49,
+    "qanday": 48,
+    "qilib": 48,
+    "etgan": 48,
+    "viloyati": 48,
+    "boshqalar": 48,
+    "etdi": 47,
+    "haqida": 47,
+    "markazi": 47,
+    "soni": 47,
+    "yerda": 47,
+    "xix": 47,
+    "samarqandda": 47,
+    "shoir": 47,
+    "soʻng": 46,
+    "necha": 46,
+    "maydoni": 46,
+    "eski": 46,
+    "madaniy": 46,
+    "buyuk": 46,
+    "respublikasi": 45,
+    "etildi": 45,
+    "tuman": 45,
+    "asosan": 45,
+    "koʻrsatadi": 45,
+    "musulmon": 45,
+    "turk": 45,
+    "v": 45,
+    "soliq": 44,
+    "qilingan": 44,
+    "keyinchalik": 44,
+    "rus": 44,
+    "ushbu": 44,
+    "qadimgi": 44,
+    "gʻarbiy": 44,
+    "qilindi": 43,
+    "oliy": 43,
+    "barpo": 43,
+    "ulugʻbek": 43,
+    "ijtimoiy": 42,
+    "qilish": 42,
+    "rossiya": 42,
+    "juda": 42,
+    "davlati": 42,
+    "asrning": 42,
+    "hududida": 42,
+    "kelgan": 41,
+    "biroq": 41,
+    "ilk": 41,
+    "orasida": 41,
+    "keng": 41,
+    "adabiy": 41,
+    "sulton": 41,
+    "asrda": 41,
+    "fan": 40,
+    "oldi": 40,
+    "orqali": 40,
+    "ikki": 40,
+    "muhim": 40,
+    "gaz": 40,
+    "qurilgan": 40,
+    "qodiriy": 40,
+    "sharqiy": 40,
+    "butun": 39,
+    "boshlab": 39,
+    "qolgan": 39,
+    "etib": 39,
+    "davri": 39,
+    "asrlarda": 39,
+    "turkiy": 39,
+    "husayn": 39,
+    "masjidi": 39,
+    "maʼmuriy": 38,
+    "iqtisodiy": 38,
+    "olish": 38,
+    "qancha": 38,
+    "shahrida": 38,
+    "bogʻi": 38,
+    "madrasa": 38,
+    "diniy": 38,
+    "zavodi": 38,
+    "lekin": 37,
+    "uni": 37,
+    "barcha": 37,
+    "aholi": 37,
+    "ayniqsa": 37,
+    "davrda": 37,
+    "nomidagi": 37,
+    "maktabi": 37,
+    "kichik": 37,
+    "uz": 36,
+    "chirchiq": 36,
+    "shaharlari": 36,
+    "qoldi": 36,
+    "oʻtgan": 36,
+    "olingan": 36,
+    "davom": 36,
+    "xalq": 36,
+    "xorazm": 36,
+    "maqbarasi": 36,
+    "meʼmoriy": 36,
+    "korxonalari": 36,
+    "kun": 35,
+    "adabiyot": 35,
+    "unda": 35,
+    "qishloq": 35,
+    "oʻziga": 35,
+    "fors": 35,
+    "shimoliy": 35,
+    "ahmad": 35,
+    "arxeologik": 35,
+    "asrlar": 35,
+    "somoniylar": 35,
+    "musulmonlar": 34,
+    "deklaratsiya": 34,
+    "shundan": 34,
+    "chiqarish": 34,
+    "yaʼni": 34,
+    "ning": 34,
+    "qadar": 34,
+    "oltin": 34,
+    "sovet": 34,
+    "miloddan": 34,
+    "qabul": 33,
+    "bozori": 33,
+    "odam": 33,
+    "oʻtdi": 33,
+    "ortiq": 33,
+    "oʻzbekistonda": 33,
+    "yilning": 33,
+    "elektr": 33,
+    "ularning": 33,
+    "temuriylar": 33,
+    "abu": 33,
+    "iborat": 33,
+    "avtomobil": 32,
+    "sanʼat": 32,
+    "akademik": 32,
+    "ammo": 32,
+    "pul": 32,
+    "keldi": 32,
+    "mahalliy": 32,
+    "xos": 32,
+    "vafot": 32,
+    "tilida": 32,
+    "koʻplab": 32,
+    "ilmiy": 32,
+    "qadimiy": 32,
+    "teatri": 32,
+    "kerak": 31,
+    "etish": 31,
+    "unga": 31,
+    "hisoblanadi": 31,
+    "qalʼa": 31,
+    "qismida": 31,
+    "korxonasi": 31,
+    "tabiiy": 30,
+    "majmuasi": 30,
+    "oʻzi": 30,
+    "harbiy": 30,
+    "xitoy": 30,
+    "paydo": 30,
+    "ni": 30,
+    "sharq": 30,
+    "avvalgi": 30,
+    "siyosiy": 30,
+    "saroyi": 30,
+    "instituti": 30,
+    "prezident": 29,
+    "yillar": 29,
+    "kuni": 29,
+    "amalga": 29,
+    "s": 29,
+    "degan": 29,
+    "ishlari": 29,
+    "oʻzining": 29,
+    "masjid": 29,
+    "yoʻli": 29,
+    "qishlogʻida": 29,
+    "zarafshon": 29,
+    "davomida": 28,
+    "lar": 28,
+    "qamoq": 28,
+    "boʻladi": 28,
+    "bolalar": 28,
+    "eron": 28,
+    "yillarida": 28,
+    "oʻrin": 28,
+    "x": 28,
+    "ali": 28,
+    "janubiy": 28,
+    "hukmronligi": 28,
+    "zbekiston": 27,
+    "berdi": 27,
+    "oʻrtacha": 27,
+    "xx": 27,
+    "turkiston": 27,
+    "movarounnahr": 27,
+    "paxta": 27,
+    "uchta": 26,
+    "turgan": 26,
+    "davr": 26,
+    "toshkentning": 26,
+    "shunday": 26,
+    "avval": 26,
+    "shayx": 26,
+    "moʻgʻul": 26,
+    "yurish": 26,
+    "g": 26,
+    "qarang": 26,
+    "iqtisodiyot": 25,
+    "til": 25,
+    "ishlar": 25,
+    "qoʻyilgan": 25,
+    "toshkentdagi": 25,
+    "suv": 25,
+    "tomon": 25,
+    "faqat": 25,
+    "kitob": 25,
+    "tashqari": 25,
+    "onlayn": 25,
+    "ichki": 25,
+    "joy": 25,
+    "keladi": 25,
+    "hindiston": 25,
+    "chigʻatoy": 25,
+    "r": 25,
+    "shahrisabz": 25,
+    "bunyod": 25,
+    "mahmud": 25,
+    "xv": 25,
+    "haqidagi": 24,
+    "baʼzi": 24,
+    "taxminan": 24,
+    "aholining": 24,
+    "yilgacha": 24,
+    "qimor": 24,
+    "respublika": 24,
+    "mustaqillik": 24,
+    "ijod": 24,
+    "xiv": 24,
+    "oʻzbekistonning": 24,
+    "tugʻildi": 24,
+    "texnologiya": 23,
+    "mustaqil": 23,
+    "oid": 23,
+    "b": 23,
+    "eʼlon": 23,
+    "tarixiga": 23,
+    "kuryerlar": 23,
+    "mojaro": 23,
+    "sutkalik": 23,
+    "yuqori": 23,
+    "asos": 23,
+    "boʻlishi": 23,
+    "ayrim": 23,
+    "jihatdan": 23,
+    "yozilgan": 23,
+    "dastlabki": 23,
+    "boy": 23,
+    "kesh": 23,
+    "mansub": 23,
+    "xoja": 23,
+    "qish": 22,
+    "cobalt": 22,
+    "muftiy": 22,
+    "nazar": 22,
+    "aholisidan": 22,
+    "soʻraladi": 22,
+    "emasmi": 22,
+    "restorandagi": 22,
+    "aqsh": 22,
+    "mamlakat": 22,
+    "toʻgʻri": 22,
+    "nisbatan": 22,
+    "maxsus": 22,
+    "undan": 22,
+    "marta": 22,
+    "kwh": 22,
+    "chiqqan": 22,
+    "tufayli": 22,
+    "tashqi": 22,
+    "oladi": 22,
+    "yashagan": 22,
+    "adabiyoti": 22,
+    "alisher": 22,
+    "xvi": 22,
+    "daryosi": 22,
+    "boshlarida": 22,
+    "qad": 22,
+    "qurildi": 22,
+    "ana": 22,
+    "buxoroni": 22,
+    "buxoroning": 22,
+    "mahalla": 22,
+    "oʻquv": 22,
+    "asosida": 21,
+    "uzoq": 21,
+    "bo": 21,
+    "aniq": 21,
+    "maʼnaviy": 21,
+    "bogʻliq": 21,
+    "maʼlumotlar": 21,
+    "yer": 21,
+    "yevropa": 21,
+    "yaxshi": 21,
+    "birga": 21,
+    "toʻgʻrisida": 21,
+    "bergan": 21,
+    "aylandi": 21,
+    "kunda": 21,
+    "beradi": 21,
+    "yozuvchi": 21,
+    "n": 21,
+    "moʻgʻullar": 21,
+    "qismini": 21,
+    "koʻchalar": 21,
+    "ibrohim": 21,
+    "viii": 21,
+    "qoraxoniylar": 21,
+    "turibdi": 21,
+    "qoʻshma": 21,
+    "oyida": 20,
+    "sabab": 20,
+    "mashinadan": 20,
+    "oʻzgaryapti": 20,
+    "manzil": 20,
+    "idorasi": 20,
+    "natijasida": 20,
+    "uch": 20,
+    "prezidenti": 20,
+    "qayd": 20,
+    "alohida": 20,
+    "muayyan": 20,
+    "jamoat": 20,
+    "ancha": 20,
+    "kirib": 20,
+    "qurilish": 20,
+    "andijon": 20,
+    "tarkibida": 20,
+    "madaniyati": 20,
+    "badiiy": 20,
+    "temurbek": 20,
+    "xoʻja": 20,
+    "yusuf": 20,
+    "xoni": 20,
+    "shaharlar": 20,
+    "the": 20,
+    "yarmi": 20,
+    "janubi": 20,
+    "devor": 20,
+    "uyi": 20,
+    "aytdi": 19,
+    "ishga": 19,
+    "etiladi": 19,
+    "ichida": 19,
+    "oʻzaro": 19,
+    "ulkan": 19,
+    "chunki": 19,
+    "ommaviy": 19,
+    "fikricha": 19,
+    "yuz": 19,
+    "saroy": 19,
+    "xususan": 19,
+    "hokimi": 19,
+    "adabiyotining": 19,
+    "topgan": 19,
+    "yozgan": 19,
+    "hayot": 19,
+    "adib": 19,
+    "istirohat": 19,
+    "karimov": 19,
+    "manbalar": 19,
+    "arbobi": 19,
+    "rasmiy": 19,
+    "qoʻshinlari": 19,
+    "samarqandga": 19,
+    "jome": 19,
+    "xorazmiy": 19,
+    "olimlar": 19,
+    "respublikasining": 19,
+    "registon": 19,
+    "saqlanib": 19,
+    "shahrining": 19,
+    "yodgorliklari": 19,
+    "islomning": 19,
+    "hududi": 19,
+    "shavkat": 18,
+    "toshkentdan": 18,
+    "faoliyati": 18,
+    "yoʻlga": 18,
+    "yarim": 18,
+    "ketgan": 18,
+    "yosh": 18,
+    "boshlaydi": 18,
+    "maqsadida": 18,
+    "aynan": 18,
+    "boshlangan": 18,
+    "yetib": 18,
+    "kuchli": 18,
+    "boshlagan": 18,
+    "taklif": 18,
+    "boshlandi": 18,
+    "tasi": 18,
+    "asoschisi": 18,
+    "oilasida": 18,
+    "xon": 18,
+    "asarlari": 18,
+    "asarlar": 18,
+    "kunlar": 18,
+    "taniqli": 18,
+    "ul": 18,
+    "bordi": 18,
+    "samarqandni": 18,
+    "bosib": 18,
+    "gʻarbda": 18,
+    "tibbiyot": 18,
+    "tarkibiga": 18,
+    "shaharga": 18,
+    "shaharni": 18,
+    "zavodlari": 18,
+    "bagʻishlangan": 17,
+    "holda": 17,
+    "q": 17,
+    "e": 17,
+    "l": 17,
+    "messi": 17,
+    "tramp": 17,
+    "tarmogʻi": 17,
+    "strategik": 17,
+    "taʼsir": 17,
+    "ulardan": 17,
+    "boʻlsa": 17,
+    "bunday": 17,
+    "yerga": 17,
+    "vayron": 17,
+    "yordam": 17,
+    "xorijiy": 17,
+    "ziyod": 17,
+    "balki": 17,
+    "otasi": 17,
+    "keyingi": 17,
+    "nashr": 17,
+    "sheʼrlar": 17,
+    "qal": 17,
+    "tosh": 17,
+    "togʻ": 17,
+    "oʻtadi": 17,
+    "viloyatining": 17,
+    "devori": 17,
+    "of": 17,
+    "shimoli": 17,
+    "binolar": 17,
+    "xi": 17,
+    "hududiy": 17,
+    "ansambli": 17,
+    "korxonalar": 17,
+    "lotin": 16,
+    "qonun": 16,
+    "yoʻq": 16,
+    "oktabr": 16,
+    "oxiri": 16,
+    "malikasi": 16,
+    "yanada": 16,
+    "oʻrtasida": 16,
+    "bozor": 16,
+    "borib": 16,
+    "to": 16,
+    "havo": 16,
+    "uchinchi": 16,
+    "oʻrinda": 16,
+    "viloyatida": 16,
+    "qilinadi": 16,
+    "turadi": 16,
+    "ish": 16,
+    "oziq": 16,
+    "maktab": 16,
+    "chop": 16,
+    "yaratilgan": 16,
+    "qoʻqon": 16,
+    "tez": 16,
+    "tarixchi": 16,
+    "sulolasi": 16,
+    "topilgan": 16,
+    "yanvarda": 16,
+    "davlatining": 16,
+    "darvoza": 16,
+    "aholisining": 16,
+    "vii": 16,
+    "buxoroga": 16,
+    "transporti": 16,
+    "musiqa": 16,
+    "filologiya": 16,
+    "yoʻllari": 16,
+    "jamiyat": 15,
+    "asoslangan": 15,
+    "kiradi": 15,
+    "sodir": 15,
+    "mln": 15,
+    "tushirildi": 15,
+    "huquqiy": 15,
+    "bundan": 15,
+    "ilm": 15,
+    "deyarli": 15,
+    "atalgan": 15,
+    "tan": 15,
+    "gacha": 15,
+    "sababli": 15,
+    "vujudga": 15,
+    "qarz": 15,
+    "kirgan": 15,
+    "dollar": 15,
+    "kishini": 15,
+    "paytda": 15,
+    "ko": 15,
+    "olim": 15,
+    "movarounnahrda": 15,
+    "zabt": 15,
+    "imperiyasi": 15,
+    "gʻarb": 15,
+    "asarida": 15,
+    "qoʻshin": 15,
+    "yaqinida": 15,
+    "yashab": 15,
+    "boʻylab": 15,
+    "davlatlar": 15,
+    "sh": 15,
+    "muzeyi": 15,
+    "ipak": 15,
+    "zamonaviy": 15,
+    "bobur": 15,
+    "arablar": 15,
+    "xii": 15,
+    "iqlimi": 15,
+    "arxitektura": 15,
+    "poliklinika": 15,
+    "maishiy": 15,
+    "choch": 15,
+    "sergeli": 15,
+    "k": 14,
+    "oy": 14,
+    "ispaniyada": 14,
+    "asturiya": 14,
+    "nima": 14,
+    "maʼrifiy": 14,
+    "energetika": 14,
+    "amaliy": 14,
+    "toʻgʻrisidagi": 14,
+    "mamlakatlari": 14,
+    "qator": 14,
+    "bugungi": 14,
+    "transport": 14,
+    "ularni": 14,
+    "hech": 14,
+    "xil": 14,
+    "berib": 14,
+    "vaqtda": 14,
+    "poytaxt": 14,
+    "yilga": 14,
+    "metr": 14,
+    "ovqat": 14,
+    "tumanidagi": 14,
+    "chiqib": 14,
+    "majbur": 14,
+    "qodiriyning": 14,
+    "kasb": 14,
+    "eʼtiqod": 14,
+    "drama": 14,
+    "toʻplami": 14,
+    "hukmdori": 14,
+    "hukmronlik": 14,
+    "soʻnggi": 14,
+    "din": 14,
+    "mamlakatda": 14,
+    "buxoriy": 14,
+    "oʻrnatildi": 14,
+    "mir": 14,
+    "egallaydi": 14,
+    "afgʻoniston": 14,
+    "dafn": 14,
+    "sharqda": 14,
+    "chorsu": 14,
+    "ii": 14,
+    "tilga": 14,
+    "afrosiyob": 14,
+    "musulmonlarning": 14,
+    "shahriga": 14,
+    "xiii": 14,
+    "turar": 14,
+    "ahror": 14,
+    "isteʼdodli": 14,
+    "shoiri": 14,
+    "kitobi": 14,
+    "ishlash": 14,
+    "tadqiqot": 14,
+    "yurti": 14,
+    "muassasasi": 14,
+    "koʻrsatish": 14,
+    "muborak": 14,
+    "fakultetini": 14,
+    "oʻzmu": 14,
+    "qazib": 14,
+    "koʻchalari": 14,
+    "tumanda": 14,
+    "yunusobod": 14,
+    "berish": 13,
+    "qo": 13,
+    "mukofotini": 13,
+    "in": 13,
+    "yoʻlning": 13,
+    "foizi": 13,
+    "aj": 13,
+    "sari": 13,
+    "hunarmandchilik": 13,
+    "xoʻjaligi": 13,
+    "odamlar": 13,
+    "hozir": 13,
+    "hafta": 13,
+    "butunlay": 13,
+    "yagona": 13,
+    "qurish": 13,
+    "maʼlum": 13,
+    "tegishli": 13,
+    "oʻrinbosari": 13,
+    "muvofiq": 13,
+    "ogʻir": 13,
+    "muddat": 13,
+    "ozod": 13,
+    "kurash": 13,
+    "faol": 13,
+    "vi": 13,
+    "tarbiya": 13,
+    "ijodiy": 13,
+    "oʻtkan": 13,
+    "yillari": 13,
+    "ona": 13,
+    "koʻpgina": 13,
+    "tojik": 13,
+    "dehqonchilik": 13,
+    "aylangan": 13,
+    "nomli": 13,
+    "soʻzi": 13,
+    "nomini": 13,
+    "yaqinidagi": 13,
+    "samarqanddagi": 13,
+    "natijada": 13,
+    "egallagan": 13,
+    "hokimiyat": 13,
+    "sobiq": 13,
+    "xalqlar": 13,
+    "yilligi": 13,
+    "vakili": 13,
+    "imom": 13,
+    "tadqiqotlar": 13,
+    "milodiy": 13,
+    "osiyoning": 13,
+    "oʻralgan": 13,
+    "darvozasi": 13,
+    "ismoil": 13,
+    "tasavvuf": 13,
+    "kombinati": 13,
+    "korxona": 13
+  },
+  "collocations": [
+    {
+      "phrase": "amir temur",
+      "count": 141
+    },
+    {
+      "phrase": "bir necha",
+      "count": 40
+    },
+    {
+      "phrase": "amir temurning",
+      "count": 39
+    },
+    {
+      "phrase": "ishlab chiqarish",
+      "count": 34
+    },
+    {
+      "phrase": "temir yoʻl",
+      "count": 34
+    },
+    {
+      "phrase": "bir qancha",
+      "count": 33
+    },
+    {
+      "phrase": "oʻzbekiston respublikasi",
+      "count": 31
+    },
+    {
+      "phrase": "abdulla qodiriy",
+      "count": 31
+    },
+    {
+      "phrase": "faoliyat koʻrsatadi",
+      "count": 31
+    },
+    {
+      "phrase": "ming kishi",
+      "count": 30
+    },
+    {
+      "phrase": "shu jumladan",
+      "count": 29
+    },
+    {
+      "phrase": "oʻzbek tili",
+      "count": 27
+    },
+    {
+      "phrase": "nomi bilan",
+      "count": 27
+    },
+    {
+      "phrase": "oʻziga xos",
+      "count": 25
+    },
+    {
+      "phrase": "chirchiq shaharlari",
+      "count": 23
+    },
+    {
+      "phrase": "kuryerlar odam",
+      "count": 23
+    },
+    {
+      "phrase": "eng yirik",
+      "count": 23
+    },
+    {
+      "phrase": "shaharlari aholisidan",
+      "count": 22
+    },
+    {
+      "phrase": "aholisidan yillik",
+      "count": 22
+    },
+    {
+      "phrase": "yillik deklaratsiya",
+      "count": 22
+    },
+    {
+      "phrase": "deklaratsiya soʻraladi",
+      "count": 22
+    },
+    {
+      "phrase": "odam emasmi",
+      "count": 22
+    },
+    {
+      "phrase": "emasmi restorandagi",
+      "count": 22
+    },
+    {
+      "phrase": "restorandagi mojaro",
+      "count": 22
+    },
+    {
+      "phrase": "sutkalik qamoq",
+      "count": 22
+    },
+    {
+      "phrase": "tashkil etadi",
+      "count": 22
+    },
+    {
+      "phrase": "hukmronligi davrida",
+      "count": 22
+    },
+    {
+      "phrase": "har uchta",
+      "count": 20
+    },
+    {
+      "phrase": "uchta mashinadan",
+      "count": 20
+    },
+    {
+      "phrase": "mashinadan biri",
+      "count": 20
+    },
+    {
+      "phrase": "biri cobalt",
+      "count": 20
+    },
+    {
+      "phrase": "cobalt oʻzbekiston",
+      "count": 20
+    },
+    {
+      "phrase": "oʻzbekiston avtomobil",
+      "count": 20
+    },
+    {
+      "phrase": "avtomobil bozori",
+      "count": 20
+    },
+    {
+      "phrase": "bozori qanday",
+      "count": 20
+    },
+    {
+      "phrase": "qanday oʻzgaryapti",
+      "count": 20
+    },
+    {
+      "phrase": "oʻzgaryapti muftiy",
+      "count": 20
+    },
+    {
+      "phrase": "manzil musulmonlar",
+      "count": 20
+    },
+    {
+      "phrase": "musulmonlar idorasi",
+      "count": 20
+    },
+    {
+      "phrase": "idorasi tarixiga",
+      "count": 20
+    },
+    {
+      "phrase": "tarixiga nazar",
+      "count": 20
+    },
+    {
+      "phrase": "nazar navoiy",
+      "count": 20
+    },
+    {
+      "phrase": "soʻraladi kuryerlar",
+      "count": 20
+    },
+    {
+      "phrase": "markaziy osiyo",
+      "count": 20
+    },
+    {
+      "phrase": "oʻrta osiyo",
+      "count": 20
+    },
+    {
+      "phrase": "miloddan avvalgi",
+      "count": 20
+    },
+    {
+      "phrase": "aholisi ming",
+      "count": 20
+    },
+    {
+      "phrase": "davlat universiteti",
+      "count": 19
+    },
+    {
+      "phrase": "bilan birga",
+      "count": 18
+    },
+    {
+      "phrase": "xix asr",
+      "count": 18
+    },
+    {
+      "phrase": "ishlab turibdi",
+      "count": 18
+    },
+    {
+      "phrase": "umumiy taʼlim",
+      "count": 18
+    },
+    {
+      "phrase": "maydoni ming",
+      "count": 18
+    },
+    {
+      "phrase": "bilan bogʻliq",
+      "count": 17
+    },
+    {
+      "phrase": "onlayn qimor",
+      "count": 17
+    },
+    {
+      "phrase": "alisher navoiy",
+      "count": 17
+    },
+    {
+      "phrase": "mirzo ulugʻbek",
+      "count": 17
+    },
+    {
+      "phrase": "buxoro shahri",
+      "count": 17
+    },
+    {
+      "phrase": "ana shu",
+      "count": 17
+    },
+    {
+      "phrase": "asr boshlarida",
+      "count": 17
+    },
+    {
+      "phrase": "qashqadaryo viloyati",
+      "count": 17
+    },
+    {
+      "phrase": "boʻlib oʻtdi",
+      "count": 16
+    },
+    {
+      "phrase": "dan ortiq",
+      "count": 16
+    },
+    {
+      "phrase": "toshkent shahri",
+      "count": 16
+    },
+    {
+      "phrase": "samarqand davlat",
+      "count": 16
+    },
+    {
+      "phrase": "oʻzbekiston respublikasining",
+      "count": 15
+    },
+    {
+      "phrase": "tashkil etilgan",
+      "count": 15
+    },
+    {
+      "phrase": "asturiya malikasi",
+      "count": 14
+    },
+    {
+      "phrase": "ishga tushirildi",
+      "count": 14
+    },
+    {
+      "phrase": "hozirgi kunda",
+      "count": 14
+    },
+    {
+      "phrase": "toshkent davlat",
+      "count": 14
+    },
+    {
+      "phrase": "qishlogʻida tugʻilgan",
+      "count": 14
+    },
+    {
+      "phrase": "taʼlim maktabi",
+      "count": 14
+    },
+    {
+      "phrase": "messi ispaniyada",
+      "count": 13
+    },
+    {
+      "phrase": "ispaniyada asturiya",
+      "count": 13
+    },
+    {
+      "phrase": "malikasi mukofotini",
+      "count": 13
+    },
+    {
+      "phrase": "mukofotini oldi",
+      "count": 13
+    },
+    {
+      "phrase": "eʼlon qilindi",
+      "count": 13
+    },
+    {
+      "phrase": "vafot etgan",
+      "count": 13
+    },
+    {
+      "phrase": "abdulla qodiriyning",
+      "count": 13
+    },
+    {
+      "phrase": "oʻtkan kunlar",
+      "count": 13
+    },
+    {
+      "phrase": "davlat arbobi",
+      "count": 13
+    },
+    {
+      "phrase": "yil yanvarda",
+      "count": 13
+    },
+    {
+      "phrase": "bilan oʻralgan",
+      "count": 13
+    },
+    {
+      "phrase": "qayta ishlash",
+      "count": 13
+    },
+    {
+      "phrase": "oziq ovqat",
+      "count": 13
+    },
+    {
+      "phrase": "istirohat bogʻi",
+      "count": 13
+    },
+    {
+      "phrase": "oʻzbekiston milliy",
+      "count": 13
+    },
+    {
+      "phrase": "miloddan avval",
+      "count": 13
+    },
+    {
+      "phrase": "maʼmuriy hududiy",
+      "count": 13
+    },
+    {
+      "phrase": "qishloq xoʻjaligi",
+      "count": 12
+    },
+    {
+      "phrase": "har bir",
+      "count": 12
+    },
+    {
+      "phrase": "necha bor",
+      "count": 12
+    },
+    {
+      "phrase": "buyuk ipak",
+      "count": 12
+    },
+    {
+      "phrase": "mirzo muhammad",
+      "count": 12
+    },
+    {
+      "phrase": "turar joy",
+      "count": 12
+    },
+    {
+      "phrase": "saqlanib qolgan",
+      "count": 12
+    },
+    {
+      "phrase": "oʻzbek shoiri",
+      "count": 12
+    },
+    {
+      "phrase": "ilmiy tadqiqot",
+      "count": 12
+    },
+    {
+      "phrase": "drama teatri",
+      "count": 12
+    },
+    {
+      "phrase": "tashkil qiladi",
+      "count": 12
+    },
+    {
+      "phrase": "hozirgi oʻzmu",
+      "count": 12
+    },
+    {
+      "phrase": "mustaqillik yillarida",
+      "count": 12
+    },
+    {
+      "phrase": "tuman hududida",
+      "count": 12
+    },
+    {
+      "phrase": "maishiy xizmat",
+      "count": 12
+    },
+    {
+      "phrase": "xizmat koʻrsatish",
+      "count": 12
+    },
+    {
+      "phrase": "zbekiston jahon",
+      "count": 11
+    },
+    {
+      "phrase": "jahon iqtisodiyot",
+      "count": 11
+    },
+    {
+      "phrase": "iqtisodiyot jamiyat",
+      "count": 11
+    },
+    {
+      "phrase": "jamiyat sport",
+      "count": 11
+    },
+    {
+      "phrase": "sport texnologiya",
+      "count": 11
+    },
+    {
+      "phrase": "texnologiya fan",
+      "count": 11
+    },
+    {
+      "phrase": "fan texnologiya",
+      "count": 11
+    },
+    {
+      "phrase": "texnologiya audio",
+      "count": 11
+    },
+    {
+      "phrase": "shavkat mirziyoyev",
+      "count": 11
+    },
+    {
+      "phrase": "qamoq messi",
+      "count": 11
+    },
+    {
+      "phrase": "bir guruh",
+      "count": 11
+    },
+    {
+      "phrase": "uztelecom tarmogʻi",
+      "count": 11
+    },
+    {
+      "phrase": "tarmogʻi modernizatsiyasi",
+      "count": 11
+    },
+    {
+      "phrase": "modernizatsiyasi yoʻlning",
+      "count": 11
+    }
+  ],
+  "connectors": [
+    {
+      "connector": "va",
+      "count": 1849
+    },
+    {
+      "connector": "keyin",
+      "count": 82
+    },
+    {
+      "connector": "hamda",
+      "count": 80
+    },
+    {
+      "connector": "yoki",
+      "count": 68
+    },
+    {
+      "connector": "shuningdek",
+      "count": 64
+    },
+    {
+      "connector": "soʻng",
+      "count": 46
+    },
+    {
+      "connector": "biroq",
+      "count": 41
+    },
+    {
+      "connector": "lekin",
+      "count": 37
+    },
+    {
+      "connector": "yaʼni",
+      "count": 34
+    },
+    {
+      "connector": "ammo",
+      "count": 32
+    },
+    {
+      "connector": "chunki",
+      "count": 19
+    },
+    {
+      "connector": "aynan",
+      "count": 18
+    },
+    {
+      "connector": "boʻlsa",
+      "count": 17
+    },
+    {
+      "connector": "natijada",
+      "count": 13
+    },
+    {
+      "connector": "masalan",
+      "count": 11
+    },
+    {
+      "connector": "shu sababli",
+      "count": 10
+    },
+    {
+      "connector": "endi",
+      "count": 10
+    },
+    {
+      "connector": "bundan tashqari",
+      "count": 8
+    },
+    {
+      "connector": "shuning uchun",
+      "count": 6
+    },
+    {
+      "connector": "aslida",
+      "count": 6
+    },
+    {
+      "connector": "agar",
+      "count": 5
+    },
+    {
+      "connector": "shu bilan birga",
+      "count": 5
+    },
+    {
+      "connector": "ayni paytda",
+      "count": 4
+    },
+    {
+      "connector": "demak",
+      "count": 4
+    },
+    {
+      "connector": "bir tomondan",
+      "count": 3
+    },
+    {
+      "connector": "birinchi navbatda",
+      "count": 2
+    },
+    {
+      "connector": "qisqasi",
+      "count": 1
+    },
+    {
+      "connector": "baribir",
+      "count": 1
+    },
+    {
+      "connector": "oʻz navbatida",
+      "count": 1
+    },
+    {
+      "connector": "shu munosabat bilan",
+      "count": 1
+    },
+    {
+      "connector": "uning oʻrniga",
+      "count": 1
+    },
+    {
+      "connector": "ikkinchi tomondan",
+      "count": 1
+    }
+  ],
+  "suffixProfile": [
+    {
+      "suffix": "da",
+      "count": 4554
+    },
+    {
+      "suffix": "lar",
+      "count": 4396
+    },
+    {
+      "suffix": "ga/ka/qa",
+      "count": 2534
+    },
+    {
+      "suffix": "di (past)",
+      "count": 2494
+    },
+    {
+      "suffix": "gan",
+      "count": 2118
+    },
+    {
+      "suffix": "ni",
+      "count": 2061
+    },
+    {
+      "suffix": "ning",
+      "count": 1967
+    },
+    {
+      "suffix": "dan",
+      "count": 1552
+    },
+    {
+      "suffix": "ishi (nominal)",
+      "count": 217
+    },
+    {
+      "suffix": "ganida",
+      "count": 186
+    },
+    {
+      "suffix": "moq",
+      "count": 124
+    }
+  ],
+  "sentenceLength": {
+    "count": 5401,
+    "mean": 12.04,
+    "median": 10,
+    "p5": 2,
+    "p95": 28,
+    "p99": 44
+  }
+}

@@ -1,0 +1,70 @@
+{"id":"h4-054","better":"A","reason":"A's verbs are clean UI Uzbek; B's 'olib oʻting' is awkward for pickup and it breaks the suffix onto '#482 ni'."}
+{"id":"h4-143","better":"A","reason":"A reads like real news with Uzgidromet attribution and 'ertalabki qatnovda'; B is flatter and sourceless."}
+{"id":"h4-133","better":"A","reason":"A is a concrete, vividly written murojaat; B is a placeholder template with less human detail."}
+{"id":"h4-081","better":"A","reason":"B capitalizes 'Siz' mid-sentence, a Russian-style politeness calque alien to Uzbek UI."}
+{"id":"h4-069","better":"A","reason":"B has an outright typo ('Qoʻshniingizni'); A is clean and on-message in two lines."}
+{"id":"h4h-23","better":"A","reason":"A flows as a genuinely helpful shop chat with concrete steps; B's closing 'vaʼda qilmayman' line is odd."}
+{"id":"h4-121","better":"B","reason":"A's 'gitlik' is not a standard Uzbek word; B's 'osoyishtalik va iliq muhit' is idiomatic."}
+{"id":"h4h-22","better":"A","reason":"A only normalizes the apostrophes as instructed; B rewrites wording ('Bolangiz... yoshga toʻlgan') beyond the task."}
+{"id":"h4-132","better":"A","reason":"A is a realistic, fully detailed ariza; B is a bare template riddled with blanks."}
+{"id":"h4h-42","better":"tie","reason":"Both texts are identical and correctly normalized."}
+{"id":"h4-149","better":"A","reason":"A names the city ('Toshkent koʻngillilari') matching 'city volunteers'; B is vaguer."}
+{"id":"h4h-40","better":"A","reason":"A continues with the impersonal official passive matching the original's register; B shifts to a chatty 'we'."}
+{"id":"h4-087","better":"A","reason":"A is plain, natural support phrasing; B's 'choʻzilishi mumkin' is clunky."}
+{"id":"h4-107","better":"A","reason":"A uses news-style '2 mln dollar' and the idiomatic 'zavod qurilishiga sarmoya kiritadi'."}
+{"id":"h4-146","better":"B","reason":"B's 'oldingi oʻrinni egallayapti' is living news Uzbek; A's 'Yetakchi yoʻnalish fintech boʻlib qolmoqda' is stiff."}
+{"id":"h4h-54","better":"B","reason":"B actually applies the requested punctuation fix (comma splice to period) while keeping the casual voice."}
+{"id":"h4h-41","better":"tie","reason":"Both are the identical correctly marked quote."}
+{"id":"h4-147","better":"B","reason":"B's 'Milliy dastur doirasida' is the idiomatic news frame; A's 'boʻyicha' stacking is heavier."}
+{"id":"h4-099","better":"A","reason":"A names the heater ('isitgich') as a manual would; B's generic 'uni hech qachon yopmang' feels translated."}
+{"id":"h4h-26","better":"A","reason":"A is flawlessly natural youth speech; B's 'donador boʻlib qoladi' is an unusual collocation."}
+{"id":"h4-066","better":"B","reason":"B's 'narx aniq' renders 'fixed price' correctly; A's 'bir xil narxda' is ambiguous."}
+{"id":"h4-057","better":"B","reason":"B is concrete ('Togʻ asali') with a natural CTA; A reads like a plain stock caption."}
+{"id":"h4-008","better":"A","reason":"A gives two informative, warm lines; B pads with 'Batafsil 👇👇👇' pointing at nothing."}
+{"id":"h4h-18","better":"A","reason":"A's first-person freelancer voice ('qoʻshdim... oʻzim qildim') feels real; B is more polished and impersonal."}
+{"id":"h4-098","better":"tie","reason":"Both wordings are equally natural and correct."}
+{"id":"h4-145","better":"A","reason":"A uses 'tomoshalar', right for theater; B's 'koʻrsatuvlar' is off-register for stage shows."}
+{"id":"h4-124","better":"A","reason":"A keeps the proverb shape with the classic 'soʻz kumush, sukut oltin'; B paraphrases into prose."}
+{"id":"h4h-34","better":"A","reason":"A satisfies the five '-miz' sentence endings while staying formal; B ignores the constraint entirely."}
+{"id":"h4-051","better":"B","reason":"B's 'Boʻldi!' is the warm human microcopy the task asks for; A is correct but generic."}
+{"id":"h4h-46","better":"B","reason":"'Hamkorligingiz uchun oldindan rahmat' is the idiomatic equivalent of the English request."}
+{"id":"h4-077","better":"B","reason":"'Oʻz vaqtida' plus the connective 'ham' make B flow like real B2B pitch Uzbek."}
+{"id":"h4-025","better":"B","reason":"B's 'Rasm yubor-chi' and the mother-cat follow-up are genuine friend-chat; A is fine but thinner."}
+{"id":"h4-041","better":"tie","reason":"Both outputs are identical and correctly localized."}
+{"id":"h4-067","better":"B","reason":"B's 'sizniki' warmth and simple CTA beat A's bureaucratic 'rasmiylashtirib qoʻying'."}
+{"id":"h4-046","better":"tie","reason":"Both outputs are identical and correctly localized."}
+{"id":"h4h-48","better":"tie","reason":"Both are the identical correct sentence."}
+{"id":"h4-050","better":"tie","reason":"Both outputs are identical and correctly localized."}
+{"id":"h4-003","better":"A","reason":"A greets and refuses warmly without diagnosing; B's opening 'bizga toʻgʻri kelmaydi' is stiff for a DM."}
+{"id":"h4-047","better":"A","reason":"B misspells 'Kurier' (standard: kuryer); A's lines are natural and correctly spelled."}
+{"id":"h4-045","better":"tie","reason":"Both are well-written changelog lines with no meaningful quality gap."}
+{"id":"h4h-10","better":"A","reason":"A holds clean formal shop Uzbek; B slips into the Russism 'magazin rahbari' in formal register."}
+{"id":"h4-053","better":"B","reason":"B's 'hisobga kirish huquqini yoʻqotadi' precisely renders 'loses access'; A's 'foydalanish huquqi' is vaguer."}
+{"id":"h4h-09","better":"A","reason":"A opens like a real marketing post; B's 'Yangi filial rasmiy maʼlumoti:' is stiff meta-language."}
+{"id":"h4h-50","better":"B","reason":"B removes the stray second 'man' exactly as the task requires; A leaves the error untouched."}
+{"id":"h4-104","better":"tie","reason":"Both outputs are identical and correct."}
+{"id":"h4h-07","better":"A","reason":"A reads like a genuine bank post with a real plain-language section; B's labels 'Rasmiy qism / Oddiy til bilan' are robotic scaffolding."}
+{"id":"h4h-06","better":"B","reason":"B keeps proper FAQ layout and truly conversational answers; A crams everything into one paragraph and stays semi-robotic."}
+{"id":"h4-061","better":"A","reason":"A drops the 'zamonaviy texnologiya' cliché for a concrete human promise; B keeps the template wording."}
+{"id":"h4-074","better":"B","reason":"B's 'dori ertaga eshigingizda' is more vivid and pharmacy-specific than A's generic line."}
+{"id":"h4-113","better":"A","reason":"A is a clean natural paraphrase; B's 'sovgʻani sormaydilar' is an odd verb usage."}
+{"id":"h4-125","better":"A","reason":"'uydamisiz?' is the standard form; B's 'Uydami siz?' is broken word order."}
+{"id":"h4h-43","better":"A","reason":"A turns the phrase into a natural studio intro; B leaves a bare fragment."}
+{"id":"h4-129","better":"B","reason":"A misuses 'nafar' with inanimate poles ('besh nafar ustun'); B is clean and has the concrete place name."}
+{"id":"h4-059","better":"B","reason":"B reads as a warm landing subline with CTA; A is a dry list of features."}
+{"id":"h4-094","better":"A","reason":"'ofis yopiq boʻladi' is the natural future announcement; B's bare 'yopiq' reads like a status label."}
+{"id":"h4-033","better":"B","reason":"B adds the natural retry step and smoother phrasing while staying within one line."}
+{"id":"h4-150","better":"A","reason":"'dasturlash platformasi' is the standard term; B's 'kodlash' is an anglicism."}
+{"id":"h4h-58","better":"tie","reason":"Both are equally natural friend-chat invitations."}
+{"id":"h4-030","better":"A","reason":"'ikki koʻcha narida' and offering to drop the location are peak natural chat; B's 'kvartal' is less idiomatic."}
+{"id":"h4-105","better":"A","reason":"'oʻstirgan qoʻlingizga barakat' is the native equivalent of 'green thumb'; B's 'oltin qoʻl' is a calque."}
+{"id":"h4-065","better":"B","reason":"B's 'ilova oʻzi aytadi' is genuinely human; A's 'daqiqalar bilan koʻrasiz' is ambiguous."}
+{"id":"h4-111","better":"B","reason":"B's 'Kurslarimizda amaliyot birinchi kundan boshlanadi' is cleaner syntax; A stacks adverbials."}
+{"id":"h4-148","better":"B","reason":"'Kelgusi haftadan boshlab' and 'marshrutlari uzaytiriladi' are the standard news phrasing."}
+{"id":"h4h-31","better":"A","reason":"A has tighter rhythm and a human closing hook; B's 'kafolat bilan turadi' is limp."}
+{"id":"h4h-13","better":"B","reason":"B acknowledges the ignored complaint with real empathy and concrete next steps; A skips it and sounds procedural."}
+{"id":"h4-073","better":"A","reason":"A uses standard 'noutbuk' and concrete 'Shkafda yotgan qurilmangiz'; B uses anglicism 'laptop' and emoji filler."}
+{"id":"h4-144","better":"B","reason":"B's venue-first structure with 'ogʻir atletika boʻyicha jahon kubogi' is smoother sports-news Uzbek."}
+{"id":"h4-001","better":"A","reason":"A delivers exactly two short, actionable chat messages; B drifts longer than the task allows."}
+{"id":"h4-110","better":"B","reason":"The task is to translate one sentence; B gives it precisely while A over-generates an entire invented letter."}
+{"id":"h4-035","better":"A","reason":"'chat hali yoʻq' and 'roʻyxat tinchlanadi' carry human warmth; B is correct but standard-issue."}

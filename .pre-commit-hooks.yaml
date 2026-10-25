@@ -1,0 +1,7 @@
+# https://pre-commit.com hook entry for uzpro (run from the repo root)
+- id: uzpro-lint
+  name: uzpro lint (Uzbek naturalness)
+  language: node
+  entry: node dist/cli.js lint
+  pass_filenames: true
+  files: \.(md|txt|json|ya?ml|po)$

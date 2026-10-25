@@ -1,0 +1,70 @@
+{"id":"ho-077","better":"A","reason":"A names the sponsor, gives a personal honest usage claim and a clear CTA; B is vague, unnamed and leans on an em dash."}
+{"id":"ho-059","better":"A","reason":"'Pechdan chiqdi' is a real craftsman's voice; B's 'oʻz xarakteri bor' plus em dash feels more template-like."}
+{"id":"ho-020","better":"A","reason":"'Tan oldim' is exactly how siblings concede in Uzbek; B's 'tabriklayman' and 'hisobni tenglashtiraman' are stiff for chat."}
+{"id":"hard-37","better":"tie","reason":"Both outputs are word-for-word identical and correctly keep the official register untouched."}
+{"id":"ho-039","better":"A","reason":"A gives the proper Skip label 'Oʻtkazib yuborish'; B drifts to 'Hozir emas' with an odd 'osonroq topamiz' claim."}
+{"id":"ho-027","better":"B","reason":"B's 'Toʻyingiz muborak boʻlsin!' adds the warm human touch a wedding reply needs; A is correct but flat."}
+{"id":"ho-036","better":"A","reason":"'Pulingiz joyida' is the idiomatic reassurance; B's em dash and 'xavfsiz' read slightly more translated."}
+{"id":"ho-073","better":"A","reason":"A covers 'everything' with 'barcha' and reads like a clean subject line; B drops 'barcha' and adds an unnecessary final period."}
+{"id":"ho-107","better":"A","reason":"'Maʼlumotlariga qaraganda' is the standard news formula; B is equally correct but slightly more bookish."}
+{"id":"ho-079","better":"A","reason":"'Bir bola qishni iliq oʻtkazadi' is concrete, warm and memorable; B is good but more generic."}
+{"id":"hard-59","better":"B","reason":"B makes the minimal fix (only dashes removed) and preserves the authentic texting style '3da'; A also normalizes the spelling."}
+{"id":"ho-089","better":"A","reason":"A is the natural formal request form; B's 'Shu maktub orqali' is a calqued filler and 'shu' is too colloquial for a letter."}
+{"id":"hard-27","better":"B","reason":"B gives the real proverb 'Qichimagan joyni qashima' with its correct meaning; A misinterprets it as solving the exact problem."}
+{"id":"ho-139","better":"B","reason":"B follows the Uzbek letter convention ('Hurmatli...!') and flows like a real complaint; A uses an English-style comma and heavy template placeholders."}
+{"id":"ho-100","better":"A","reason":"'Bu joyni sevaman' keeps the punch of 'Love it here' as a caption; B is correct but softer and longer."}
+{"id":"ho-045","better":"A","reason":"A is a clean one-line banner with the retry cue; B exceeds one line and inserts an em dash."}
+{"id":"hard-15","better":"B","reason":"B's 'stack React + TypeScript' codemix rings true for IT recruiting; A's 'vaqt jihatidan moslashuvchan' is bookish."}
+{"id":"ho-147","better":"B","reason":"'Gastrolga chiqadi ... viloyatlariga' is the idiomatic news collocation; A's 'gastrol qiladi' is fine but blander."}
+{"id":"ho-047","better":"B","reason":"'Nima pishiramoqchisiz?' is the warm conversational placeholder a recipe app needs; A's 'Taom yoki masalliq qidirish' is mechanical."}
+{"id":"hard-42","better":"B","reason":"The original is already orthographically clean, so leaving it unchanged (B) is correct; A's 'yakunlari' edit shifts the meaning."}
+{"id":"hard-36","better":"A","reason":"A keeps the six topics in order with varied human tones; B reorders topics and replaces some with vague ones."}
+{"id":"ho-135","better":"B","reason":"B uses the correct 'Hurmatli mudiris!' convention and reads like a real ariza; A's comma salutation and placeholder-heavy text feel templated."}
+{"id":"ho-005","better":"A","reason":"A echoes 'aka' and stays short and genuine; B pads with an em dash and a slightly formal closing."}
+{"id":"ho-137","better":"A","reason":"A's body ('minnatdor boʻlaman') reads like a real request; B's 'davolanganim uchun' creates awkward causality."}
+{"id":"ho-132","better":"A","reason":"A follows the authentic ARIZA format (addressing, header, doc list, date, signature); B is thinner and lacks the formal skeleton."}
+{"id":"hard-44","better":"A","reason":"'Qilishingiz kerak edi' is the standard past-obligation form; 'qilganingiz kerak edi' is a common error."}
+{"id":"ho-095","better":"B","reason":"B's full sentences with 'soat 14:00 dan keyin' read cleaner for a confirmation; A's comma chain is looser."}
+{"id":"ho-001","better":"A","reason":"A gives a concrete ETA and compensation, which defuses an angry customer; B stays vague and uses an em dash."}
+{"id":"ho-009","better":"A","reason":"'Ortiqcha pul' and 'kuzatib boramiz' are natural support chat; B's 'Mablagʻ' is stiff."}
+{"id":"hard-09","better":"A","reason":"A delivers three clearly separated registers with a proper legal disclaimer; B's third line is a privacy note rather than a disclaimer."}
+{"id":"ho-103","better":"A","reason":"'Koʻchmanchi qush ... uchib keladi' is the natural documentary phrasing; B's participial 'koʻchib oʻtuvchi' is calque-like."}
+{"id":"hard-32","better":"A","reason":"'Bezovta qilib qoʻydim' is how people actually apologize in chat; B keeps the stiff word 'toʻsqinlik'."}
+{"id":"hard-35","better":"B","reason":"B keeps the source's thanks while sounding human; A drops the 'rahmat' the original carried."}
+{"id":"hard-39","better":"tie","reason":"Both are identical and correctly leave the constitutional wording untouched."}
+{"id":"hard-56","better":"A","reason":"A keeps the punchy newsletter staccato; B's added 'lekin' introduces a contrast that was not there."}
+{"id":"ho-065","better":"B","reason":"B's anti-slogan has genuine human attitude; A's 'vaqtingizni qadrlaymiz' is another corporate cliché."}
+{"id":"ho-028","better":"B","reason":"B states the code expired 'kecha' as the task says and reassures naturally; A omits yesterday and ends clipped."}
+{"id":"ho-131","better":"A","reason":"A is a complete SHIKOYAT with concrete facts and a proper demand; B softens the demand and pads with an impersonal middle sentence."}
+{"id":"ho-106","better":"B","reason":"'Soat 10:00–14:00 oraligʻida' matches real Uzbek delivery notifications; A's version is fine but less polished."}
+{"id":"hard-03","better":"B","reason":"B's uneven rhythm, the Russian-manual complaint and a small criticism make it read like a real buyer; A is good but more even."}
+{"id":"ho-080","better":"A","reason":"Both headlines fit 30 chars, but A avoids the em dash ads policies dislike and packs more keywords."}
+{"id":"hard-58","better":"A","reason":"A preserves the three-step meaning without dashes; B misspells 'oxirida' as 'ohirida'."}
+{"id":"ho-141","better":"A","reason":"'9 ta bekat' is the correct word for stops; B's 'toʻxtash punkt' is a Russian-flavored term."}
+{"id":"hard-52","better":"B","reason":"B fixes 'yaxwi' to 'yaxshi' and adds the missing comma while keeping the raw voice; A leaves the misspelling."}
+{"id":"ho-052","better":"A","reason":"'Mashgʻulotni boshlash' is the standard fitness-app term for a workout session; 'Mashqni boshlash' reads as a single exercise."}
+{"id":"hard-29","better":"A","reason":"A ends with a real proverb ring ('oʻylagan yutadi...'); B invents a pseudo-proverb the task forbade."}
+{"id":"ho-081","better":"B","reason":"'Sozlamalarda bekor qilish' is the correct locative; A's 'Sozlamalardan' is off."}
+{"id":"ho-125","better":"A","reason":"A keeps the exact 'aloqada boʻling' reassurance in one flowing natural sentence; B splits it and adds a nuance the source lacks."}
+{"id":"hard-25","better":"A","reason":"A's price-hike joke and 'Kelishdikmi?' land as genuine banter; B's half-moon gag is fun but slightly contrived."}
+{"id":"hard-17","better":"A","reason":"A gives concrete self-service steps; B asks for the card number in chat, which no real bank support would do."}
+{"id":"ho-102","better":"A","reason":"'Toʻxtash nuqtasida' is the established ride-app term; B's 'buyurtma joyida' is vaguer."}
+{"id":"ho-129","better":"A","reason":"A has the proper SOʻROV skeleton with exact dates; B omits dates and 'TTJ tinglovchisi' is the wrong self-designation."}
+{"id":"ho-114","better":"tie","reason":"Both outputs are identical and correct."}
+{"id":"ho-143","better":"A","reason":"A's 'sovuq havo oqimi' and the weather-service attribution sound like real news; B's closing passive pile-up is heavier."}
+{"id":"ho-025","better":"B","reason":"B's surprised opener plus 'Qanday tayyorlanganingni ham aytaver' continues the conversation like a real friend; A is solid but slightly flatter."}
+{"id":"hard-60","better":"A","reason":"'Talabim esa ...' flows like letter prose; B's second colon makes it list-like."}
+{"id":"ho-123","better":"A","reason":"'Kartangizga' personalizes it the way real product copy does; B is generic."}
+{"id":"ho-031","better":"A","reason":"'Buyurtma berish' is the idiomatic collocation for ordering; B's 'buyurtma qilish' is a touch less natural."}
+{"id":"ho-085","better":"A","reason":"A keeps the polite 'Iltimos' the source has; B drops it."}
+{"id":"hard-11","better":"A","reason":"A keeps the 'Gap yoʻq lekin' tone, the required 'Taqiqlanadi' and a clear warning; B's second line literally says there are no insults, breaking the meaning."}
+{"id":"ho-128","better":"A","reason":"A's thanks is warm and specific; B's 'tasavvurim yanada mustahkamlandi' is officialese with a stray em dash."}
+{"id":"ho-105","better":"A","reason":"'Kichik eslatma ... jumagacha' is the friendly register asked for; B's 'Eslatib oʻtamiz' turns institutional."}
+{"id":"hard-18","better":"A","reason":"'Inglizcha gaplashsak ham boʻladi' is how people actually write it; B's 'suhbat ham boʻladi' is stiff."}
+{"id":"hard-31","better":"B","reason":"B breaks the 'va' chains while keeping every meaning; A's final 'boʻlsa, davom etamiz' wrongly turns a statement into a condition."}
+{"id":"ho-066","better":"A","reason":"A is just as punchy without the em dashes B sprinkles through marketing copy."}
+{"id":"ho-053","better":"B","reason":"'Harorat 21°C qilib qoʻyildi' and 'kam qoldi' are how people phrase it; A's 'belgilandi' is machine-like."}
+{"id":"ho-108","better":"A","reason":"'Mayli, tushundim ... yozib qoʻyaman' is clean chat without B's em dash."}
+{"id":"ho-017","better":"A","reason":"'Ha, olaver, narxi tushib qolgan' is instant natural chat; B's dash construction and 'uchga mos ekan' are vaguer."}
+{"id":"ho-038","better":"A","reason":"A states the real deadline with the natural 'ulgurib oling'; B adds hype ('katta') and an em dash."}
+{"id":"hard-43","better":"B","reason":"The task requires 'dolzarb muammo' (not 'aktual'), and B delivers exactly that; A paraphrases with 'haqiqiy'."}

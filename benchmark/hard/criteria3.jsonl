@@ -1,0 +1,60 @@
+{"id": "h3h-01", "checks": [{"type": "drop", "re": "tashkil etilgan|qabul qilinadi|taqsimlanadi|joylashtiriladi"}, {"type": "approx_len", "min": 180, "max": 400}, {"type": "varied_rhythm"}]}
+{"id": "h3h-02", "checks": [{"type": "drop", "re": "amalga oshiriladi|belgilangan tartibda|tavsiya etiladi"}, {"type": "approx_len", "min": 150, "max": 400}, {"type": "no_dash"}]}
+{"id": "h3h-03", "checks": [{"type": "drop", "re": "ta'minlanadi|beriladi|o'rganiladi|rejalashtirilgan"}, {"type": "varied_rhythm"}, {"type": "no_dash"}]}
+{"id": "h3h-04", "checks": [{"type": "register_official"}, {"type": "approx_input", "min": 0.75, "why": "formal report stays"}, {"type": "keep", "re": "(daromad|xarajat|foyda|zaxira)"}]}
+{"id": "h3h-05", "checks": [{"type": "drop", "re": "tuzatildi|oshirildi|kengaytirildi|mustahkamlandi"}, {"type": "lint_clean"}, {"type": "varied_rhythm"}]}
+{"id": "h3h-06", "checks": [{"type": "drop", "re": "ta'minlanadi|o'tkaziladi|amalga oshiriladi|hisoblanadi"}, {"type": "approx_len", "min": 140, "max": 400}, {"type": "no_dash"}]}
+{"id": "h3h-07", "checks": [{"type": "keep", "re": "(kart|SMS|kod)"}, {"type": "lint_ok", "max": 2}]}
+{"id": "h3h-08", "checks": [{"type": "keep", "re": "(jadval|dars)"}, {"type": "register_chat"}]}
+{"id": "h3h-09", "checks": [{"type": "keep", "re": "(manzil|vaqt|taom|buyurtma)"}, {"type": "no_dash"}]}
+{"id": "h3h-10", "checks": [{"type": "keep", "re": "(ofis|ko'chish|manzil)"}, {"type": "no_dash"}]}
+{"id": "h3h-11", "checks": [{"type": "keep", "re": "(sayohat|sinfdan tashqari|olib)"}, {"type": "no_bullet"}]}
+{"id": "h3h-12", "checks": [{"type": "keep", "re": "(navbat|do'kon|tizim)"}, {"type": "lint_ok", "max": 2}]}
+{"id": "h3h-13", "checks": [{"type": "keep", "re": "(app|crash|pul)"}, {"type": "register_chat"}]}
+{"id": "h3h-14", "checks": [{"type": "keep", "re": "(build|break|main)"}, {"type": "register_chat"}]}
+{"id": "h3h-15", "checks": [{"type": "keep", "re": "(settings|english|til)"}, {"type": "lint_ok", "max": 2}]}
+{"id": "h3h-16", "checks": [{"type": "keep", "re": "(warranty|kafolat)"}, {"type": "register_chat"}]}
+{"id": "h3h-17", "checks": [{"type": "keep", "re": "(brunch|kids|menu)"}, {"type": "lint_ok", "max": 2}]}
+{"id": "h3h-18", "checks": [{"type": "keep", "re": "(seed|hiring|linkedin)"}, {"type": "drop", "re": "ta'minlanadi|oshiriladi"}]}
+{"id": "h3h-19", "checks": [{"type": "script_latin"}, {"type": "register_chat"}, {"type": "keep", "re": "(mablag|rozi)"}]}
+{"id": "h3h-20", "checks": [{"type": "script_latin"}, {"type": "keep", "re": "(svet|9|suv)"}]}
+{"id": "h3h-21", "checks": [{"type": "script_latin"}, {"type": "lint_clean"}]}
+{"id": "h3h-22", "checks": [{"type": "script_latin"}, {"type": "lint_ok", "max": 1}, {"type": "keep", "re": "(taʼlim|kelajak)"}]}
+{"id": "h3h-23", "checks": [{"type": "script_latin"}, {"type": "register_chat"}, {"type": "keep", "re": "(balans|3500)"}]}
+{"id": "h3h-24", "checks": [{"type": "script_latin"}, {"type": "keep", "re": "Oʻtgan kunlar"}]}
+{"id": "h3h-25", "checks": [{"type": "keep", "re": "-ku"}, {"type": "register_chat"}]}
+{"id": "h3h-26", "checks": [{"type": "keep", "re": "(grafika|internet)"}, {"type": "drop", "re": "\\b(ship|vibe|cringe)\\b"}]}
+{"id": "h3h-27", "checks": [{"type": "lint_ok", "max": 2}, {"type": "keep", "re": "(maqol|shior|aytilgan)"}]}
+{"id": "h3h-28", "checks": [{"type": "keep", "re": "(kutaman|2 soat)"}, {"type": "register_chat"}]}
+{"id": "h3h-29", "checks": [{"type": "keep", "re": "(ayiq|asal)"}, {"type": "lint_ok", "max": 2}]}
+{"id": "h3h-30", "checks": [{"type": "register_chat"}, {"type": "lint_ok", "max": 2}]}
+{"id": "h3h-31", "checks": [{"type": "drop", "re": "Siz (profilni|rasmlarni|do'stlarni|sozlamalarni) "}, {"type": "varied_rhythm"}]}
+{"id": "h3h-32", "checks": [{"type": "varied_rhythm"}, {"type": "drop", "re": "Natija kafolatlangan"}]}
+{"id": "h3h-33", "checks": [{"type": "drop", "re": "^(Rahmat!|Rahmat, )"}, {"type": "register_chat"}]}
+{"id": "h3h-34", "checks": [{"type": "drop", "re": "etiladi\\."}, {"type": "register_official"}]}
+{"id": "h3h-35", "checks": [{"type": "varied_rhythm"}, {"type": "register_chat"}]}
+{"id": "h3h-36", "checks": [{"type": "drop", "re": "(Avval|keyin|nihoyat)"}, {"type": "keep", "re": "(va|so'ng|keyinroq)"}]}
+{"id": "h3h-37", "checks": [{"type": "approx_input", "min": 0.9}, {"type": "register_official"}]}
+{"id": "h3h-38", "checks": [{"type": "approx_input", "min": 0.9}, {"type": "register_official"}]}
+{"id": "h3h-39", "checks": [{"type": "approx_input", "min": 0.9}, {"type": "register_official"}]}
+{"id": "h3h-40", "checks": [{"type": "keep", "re": "(murojaat|qaror|hujjat)"}, {"type": "register_official"}]}
+{"id": "h3h-41", "checks": [{"type": "approx_input", "min": 0.9}, {"type": "register_official"}]}
+{"id": "h3h-42", "checks": [{"type": "keep", "re": "(tarif|rasmiy sayt|yanvar)"}, {"type": "register_official"}]}
+{"id": "h3h-43", "checks": [{"type": "drop", "re": "\\bfabrika\\w*"}, {"type": "keep", "re": "mato"}]}
+{"id": "h3h-44", "checks": [{"type": "keep", "re": "(yildan beri|quryapti|qurmoqda)"}]}
+{"id": "h3h-45", "checks": [{"type": "drop", "re": "kачественн|kачественн"}, {"type": "lint_ok", "max": 2}]}
+{"id": "h3h-46", "checks": [{"type": "drop", "re": "(mehribonlik|qadrlagan holda)"}, {"type": "keep", "re": "(Iltimos|chekmang)"}]}
+{"id": "h3h-47", "checks": [{"type": "keep", "re": "kechikibdi"}]}
+{"id": "h3h-48", "checks": [{"type": "drop", "re": "\\binteresn\\w*"}, {"type": "keep", "re": "qiziqarli"}]}
+{"id": "h3h-49", "checks": [{"type": "approx_input", "min": 0.85}, {"type": "keep", "re": "(otam ham|rahmat)"}]}
+{"id": "h3h-50", "checks": [{"type": "approx_input", "min": 0.8}, {"type": "keep", "re": "gaplashamiza"}]}
+{"id": "h3h-51", "checks": [{"type": "approx_input", "min": 0.8}, {"type": "keep", "re": "(hashar|non-choy)"}]}
+{"id": "h3h-52", "checks": [{"type": "approx_input", "min": 0.85}, {"type": "keep", "re": "(arzonroq|yomon emas)"}]}
+{"id": "h3h-53", "checks": [{"type": "approx_input", "min": 0.85}, {"type": "keep", "re": "2 mln"}]}
+{"id": "h3h-54", "checks": [{"type": "approx_input", "min": 0.85}, {"type": "keep", "re": "(g'alaba|qahramon)"}]}
+{"id": "h3h-55", "checks": [{"type": "no_dash"}, {"type": "keep", "re": "(qal'a|baraka|farzand)"}]}
+{"id": "h3h-56", "checks": [{"type": "no_dash"}, {"type": "keep", "re": "(Darslar|To'lov|200)"}]}
+{"id": "h3h-57", "checks": [{"type": "no_dash"}, {"type": "keep", "re": "(ro'yxat|profil|buyurtma)"}]}
+{"id": "h3h-58", "checks": [{"type": "no_dash"}, {"type": "register_chat"}, {"type": "keep", "re": "(uydaman|soat 6)"}]}
+{"id": "h3h-59", "checks": [{"type": "no_dash"}, {"type": "keep", "re": "(Buyurtma|Muddat|Kafolat)"}]}
+{"id": "h3h-60", "checks": [{"type": "no_dash"}, {"type": "keep", "re": "(tez|ikki daqiqa|qo'llab)"}]}

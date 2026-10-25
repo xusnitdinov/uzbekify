@@ -1,0 +1,21 @@
+# Formatting
+
+| Type | Prefer | Avoid in UZ UI |
+|---|---|---|
+| Money | `1 250 000 soʻm` | `$1,250,000` unless bilingual asked |
+| Date | `2024-yil 9-avgust` or `9-avgust, 2024` | `Aug 9, 2024` |
+| Phone | `+998 XX YYYYYYY` | bare local without +998 in formal UI |
+| Percent | `15%` / `15 foiz` by context | |
+| Ranges | `10-15` hyphen/minus in skill docs and UI | |
+
+## Month names (Latin)
+
+yanvar, fevral, mart, aprel, may, iyun, iyul, avgust, sentyabr, oktyabr, noyabr, dekabr
+
+(Wiki-style `sentyabr`/`aktyor` default for this skill unless user style differs.)
+
+## `telegram-post`
+
+Public channel posts use emoji bullets, not markdown headings. Attested [TG-XB]: "🔹 Investorlar va tajribali hakamlar bahosi;", "✅ Roʻyxatdan oʻtish — 11-oktabrgacha", "👉 Ariza: pitch-day.uz", plus a "Reklama" tag. Qalampir uses "Batafsil 👇👇👇" [TG-QAL]. Ministry posts use 📌 📅 🔗 [CAJLPC].
+
+Do not open with "**Muhim eʼlon:** Quyida batafsil maʼlumot berilgan." Keep one script per body; Latin labels on a Cyrillic post stay labels (`cyrillic.md`).

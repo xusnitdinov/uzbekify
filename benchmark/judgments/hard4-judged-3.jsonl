@@ -1,0 +1,60 @@
+{"id":"h4h-41","slot":"slot1","pass":true,"reason":"Proper ʻ in boʻlishga; text otherwise untouched; official register kept"}
+{"id":"h4h-41","slot":"slot2","pass":false,"reason":"Straight ASCII apostrophe left in bo'lishga; the apostrophe check the task asks for was not done"}
+{"id":"h4h-41","slot":"slot3","pass":true,"reason":"Proper ʻ; constitution line untouched, official register intact"}
+{"id":"h4h-42","slot":"slot1","pass":true,"reason":"Only mark fixes (oʻz, yoʻqotadi); official wording and all content preserved"}
+{"id":"h4h-42","slot":"slot2","pass":true,"reason":"Same minimal mark corrections; register_official intact"}
+{"id":"h4h-42","slot":"slot3","pass":false,"reason":"Straight apostrophes left in o'z/yo'qotadi; required corrections in official text not made"}
+{"id":"h4h-43","slot":"slot1","pass":true,"reason":"No 'grafik'; dizayn studiyamiz target kept"}
+{"id":"h4h-43","slot":"slot2","pass":true,"reason":"Natural service list with correct ʻ marks; no grafik; dizayn/studiya kept"}
+{"id":"h4h-43","slot":"slot3","pass":true,"reason":"Natural extension (logotip, brending); no grafik"}
+{"id":"h4h-44","slot":"slot1","pass":true,"reason":"'Bir soatdan beri kutyapman' — required -dan beri aspect form present"}
+{"id":"h4h-44","slot":"slot2","pass":true,"reason":"'soatdan beri kutmoqdaman' — correct form"}
+{"id":"h4h-44","slot":"slot3","pass":true,"reason":"Same correct kutmoqdaman form"}
+{"id":"h4h-45","slot":"slot1","pass":true,"reason":"Ajoyib tanlov kept; no prekrasn"}
+{"id":"h4h-45","slot":"slot2","pass":false,"reason":"Extension is natural but straight apostrophe left in o'zini — mark not normalized"}
+{"id":"h4h-45","slot":"slot3","pass":true,"reason":"Clean; no prekrasn; ajoyib kept"}
+{"id":"h4h-46","slot":"slot1","pass":true,"reason":"rahmat + hamkorlik present; plain polite tone as required"}
+{"id":"h4h-46","slot":"slot2","pass":true,"reason":"'oldindan rahmat' matches official-but-simple tone; drop pattern absent"}
+{"id":"h4h-46","slot":"slot3","pass":true,"reason":"Same correct rahmat tone"}
+{"id":"h4h-47","slot":"slot1","pass":true,"reason":"Koʻrinishidan + qaytaribdi; uncertainty preserved"}
+{"id":"h4h-47","slot":"slot2","pass":false,"reason":"Straight apostrophe in Ko'rinadi; drifts to plural qaytaribdilar with added agent promise"}
+{"id":"h4h-47","slot":"slot3","pass":true,"reason":"shekilli + qaytaribdi; evidential uncertainty kept"}
+{"id":"h4h-48","slot":"slot1","pass":true,"reason":"muhim bosqich kept; no znachim"}
+{"id":"h4h-48","slot":"slot2","pass":true,"reason":"Natural extension; muhim kept; no znachim"}
+{"id":"h4h-48","slot":"slot3","pass":true,"reason":"Clean; no znachim"}
+{"id":"h4h-49","slot":"slot1","pass":true,"reason":"Only zoʻr mark normalization; slang and rhythm untouched"}
+{"id":"h4h-49","slot":"slot2","pass":true,"reason":"Identical minimal mark fix; writer's voice intact"}
+{"id":"h4h-49","slot":"slot3","pass":false,"reason":"Rewrote the writer: hamonzu→hamonku, capitalized and re-punctuated, straight zo'r left — beyond spelling check"}
+{"id":"h4h-50","slot":"slot1","pass":true,"reason":"Clear error (duplicated 'man') removed, comma added, marks normalized; minimal"}
+{"id":"h4h-50","slot":"slot2","pass":false,"reason":"The clear error 'shifokorda man' left in place; only apostrophes changed"}
+{"id":"h4h-50","slot":"slot3","pass":false,"reason":"Error fixed but straight apostrophes left in bo'lsa/bo'ladi; marks not normalized"}
+{"id":"h4h-51","slot":"slot1","pass":false,"reason":"Fixed qilinsin but wrong mark: maʻlum written with okina instead of ʼ"}
+{"id":"h4h-51","slot":"slot2","pass":false,"reason":"Straight apostrophes plus added capitalization, comma and period beyond the one-word spelling fix"}
+{"id":"h4h-51","slot":"slot3","pass":true,"reason":"One-word fix with correct yigʻilish (ʻ) and maʼlum (ʼ); raw voice kept"}
+{"id":"h4h-52","slot":"slot1","pass":true,"reason":"Correct marks: eʼtiborli (ʼ), toʻlovni (ʻ); nothing else touched"}
+{"id":"h4h-52","slot":"slot2","pass":false,"reason":"Straight apostrophes left; the apostrophe check that is the whole task was not performed"}
+{"id":"h4h-52","slot":"slot3","pass":true,"reason":"Correct ʼ/ʻ marks; text untouched"}
+{"id":"h4h-53","slot":"slot1","pass":true,"reason":"Comma before lekin, Shashlik lowercased as instructed; writer's lowercase voice kept"}
+{"id":"h4h-53","slot":"slot2","pass":false,"reason":"Capitalized 'Bu' and added final period — polished the raw voice beyond the allowed minimal fix"}
+{"id":"h4h-53","slot":"slot3","pass":true,"reason":"Same minimal belgi fix; shashlik lowercase; voice intact"}
+{"id":"h4h-54","slot":"slot1","pass":false,"reason":"Capitalized start and split into two sentences — beyond the allowed punctuation/spelling touch"}
+{"id":"h4h-54","slot":"slot2","pass":true,"reason":"Pure minimal: only ʻ normalization; post's casual voice intact"}
+{"id":"h4h-54","slot":"slot3","pass":false,"reason":"Capitalized, exclamation added, straight apostrophe left in to'plam"}
+{"id":"h4h-55","slot":"slot1","pass":true,"reason":"All four ideas kept (vazif/sifat/natij/ishonch); no dashes; natural"}
+{"id":"h4h-55","slot":"slot2","pass":true,"reason":"No dashes; meaning fully kept; reads naturally"}
+{"id":"h4h-55","slot":"slot3","pass":true,"reason":"No dashes; keeps 'Bizning' parallel of the source; meaning kept"}
+{"id":"h4h-56","slot":"slot1","pass":true,"reason":"Plain hyphens in ranges — correct range notation, no dash chars; content kept"}
+{"id":"h4h-56","slot":"slot2","pass":true,"reason":"Expanded clock times with plain hyphens; Yetkazib berish is a fine paraphrase; no dashes"}
+{"id":"h4h-56","slot":"slot3","pass":true,"reason":"Clean hyphen ranges; no dashes"}
+{"id":"h4h-57","slot":"slot1","pass":true,"reason":"Colons replace dashes; tanlang/buyurtma/rohatlan all kept"}
+{"id":"h4h-57","slot":"slot2","pass":true,"reason":"Avval/Soʻng/Oxirida flow; no dashes; natural"}
+{"id":"h4h-57","slot":"slot3","pass":true,"reason":"Single-sentence rewrite with colon; no dashes; meaning kept"}
+{"id":"h4h-58","slot":"slot1","pass":true,"reason":"Informal chat voice (kel, oʻtiramiz); film/pitsa kept; no dashes"}
+{"id":"h4h-58","slot":"slot2","pass":false,"reason":"Polite 'keling' clashes with the informal chat register (mixed with o'tirib ketaylik); straight apostrophe"}
+{"id":"h4h-58","slot":"slot3","pass":true,"reason":"Informal kelasan; all fragments covered; no dashes"}
+{"id":"h4h-59","slot":"slot1","pass":true,"reason":"Formal tone, no dashes, all four points present; correct ʻ marks"}
+{"id":"h4h-59","slot":"slot2","pass":false,"reason":"Straight apostrophes (ko'rib, bo'ldi) — below formal-letter polish; content otherwise fine"}
+{"id":"h4h-59","slot":"slot3","pass":true,"reason":"Formal, no dashes, all content kept; final clause slightly clunky but acceptable"}
+{"id":"h4h-60","slot":"slot1","pass":true,"reason":"All four ideas kept; correct ʻ marks; hyphen in Qoʻllab-quvvatlash is lexical, not a dash"}
+{"id":"h4h-60","slot":"slot2","pass":false,"reason":"Non-standard wordform 'yashiringan' (should be yashirin); straight apostrophes throughout"}
+{"id":"h4h-60","slot":"slot3","pass":true,"reason":"Clean rewrite; jamoa/narx satisfy keep; support-as-real-humans naturally paraphrased"}

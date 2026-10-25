@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://uzbekify.dev/schemas/humanize.schema.json",
+  "title": "uzpro humanize --json output",
+  "type": "object",
+  "required": ["applied", "added", "removed", "scoreBefore", "scoreAfter", "remaining", "fixed"],
+  "properties": {
+    "applied": { "type": "array", "items": { "type": "string" } },
+    "added": { "type": "integer" },
+    "removed": { "type": "integer" },
+    "scoreBefore": { "type": "integer" },
+    "scoreAfter": { "type": "integer" },
+    "fixed": { "type": "string" },
+    "remaining": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["order", "step", "ladder", "severity", "rule", "location", "match", "message"]
+      }
+    }
+  }
+}

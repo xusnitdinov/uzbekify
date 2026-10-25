@@ -1,0 +1,60 @@
+{"id": "h4h-01", "checks": [{"type": "drop", "re": "ko'rsatadi|joriy etiladi|tushirilgan|oshirib boriladi"}, {"type": "approx_len", "min": 55, "max": 220}, {"type": "varied_rhythm"}, {"type": "no_dash"}]}
+{"id": "h4h-02", "checks": [{"type": "approx_input", "min": 0.8}, {"type": "register_official"}, {"type": "keep", "re": "(plav|navbat|malaka)"}]}
+{"id": "h4h-03", "checks": [{"type": "drop", "re": "yaratadi|qabul qilinadi|o'tkaziladi"}, {"type": "approx_len", "min": 50, "max": 200}, {"type": "no_dash"}]}
+{"id": "h4h-04", "checks": [{"type": "approx_input", "min": 0.8}, {"type": "register_official"}, {"type": "keep", "re": "(kredit|depozit|reyting)"}]}
+{"id": "h4h-05", "checks": [{"type": "drop", "re": "taklif etadi|tayyorlanadi|mavjud"}, {"type": "varied_rhythm"}, {"type": "no_dash"}]}
+{"id": "h4h-06", "checks": [{"type": "keep", "re": "(buyurtma|yetkazib|to'lov|hisoblanadi)"}, {"type": "varied_rhythm"}, {"type": "no_dash"}]}
+{"id": "h4h-07", "checks": [{"type": "keep", "re": "(tarif|o'zgar)"}, {"type": "no_dash"}]}
+{"id": "h4h-08", "checks": [{"type": "keep", "re": "(darslik|tarqatish)"}, {"type": "register_chat"}]}
+{"id": "h4h-09", "checks": [{"type": "keep", "re": "(manzil|ish vaqti|chegirma)"}, {"type": "no_dash"}]}
+{"id": "h4h-10", "checks": [{"type": "drop", "re": "\\baka\\b"}, {"type": "register_official"}]}
+{"id": "h4h-11", "checks": [{"type": "keep", "re": "(jadval|murabbiy|yozil)"}, {"type": "no_bullet"}]}
+{"id": "h4h-12", "checks": [{"type": "keep", "re": "(shifokor|qabul|yozil)"}, {"type": "no_dash"}]}
+{"id": "h4h-13", "checks": [{"type": "keep", "re": "(blocked|bloklandi|support)"}, {"type": "register_chat"}]}
+{"id": "h4h-14", "checks": [{"type": "keep", "re": "(production|monitoring)"}, {"type": "register_chat"}]}
+{"id": "h4h-15", "checks": [{"type": "keep", "re": "(chef|service|ta'm)"}, {"type": "lint_ok", "max": 2}]}
+{"id": "h4h-16", "checks": [{"type": "keep", "re": "(hisob|hujjat|ochsam)"}, {"type": "register_chat"}]}
+{"id": "h4h-17", "checks": [{"type": "keep", "re": "(challenge|30 kun)"}, {"type": "lint_ok", "max": 2}]}
+{"id": "h4h-18", "checks": [{"type": "keep", "re": "(portfolio|Figma|Webflow)"}, {"type": "drop", "re": "ta'minlanadi|qilinadi"}]}
+{"id": "h4h-19", "checks": [{"type": "script_latin"}, {"type": "register_chat"}, {"type": "keep", "re": "(qaytmadi|qachon)"}]}
+{"id": "h4h-20", "checks": [{"type": "script_latin"}, {"type": "keep", "re": "(yarmarka|chaqiril)"}]}
+{"id": "h4h-21", "checks": [{"type": "script_latin"}, {"type": "lint_clean"}]}
+{"id": "h4h-22", "checks": [{"type": "script_latin"}, {"type": "keep", "re": "(2-sentyabr|6 yosh)"}]}
+{"id": "h4h-23", "checks": [{"type": "script_latin"}, {"type": "register_chat"}, {"type": "keep", "re": "(buyurtma|kelmadi)"}]}
+{"id": "h4h-24", "checks": [{"type": "script_latin"}, {"type": "keep", "re": "Navroʻz"}]}
+{"id": "h4h-25", "checks": [{"type": "keep", "re": "-ku"}, {"type": "register_chat"}]}
+{"id": "h4h-26", "checks": [{"type": "keep", "re": "(batareya|kamera)"}, {"type": "drop", "re": "\\b(ship|vibe)\\b"}]}
+{"id": "h4h-27", "checks": [{"type": "keep", "re": "(sabr|durro|dur)"}, {"type": "lint_ok", "max": 2}]}
+{"id": "h4h-28", "checks": [{"type": "keep", "re": "(3 hafta|javob)"}, {"type": "register_chat"}]}
+{"id": "h4h-29", "checks": [{"type": "keep", "re": "(cho'pon|bo'ri)"}, {"type": "lint_ok", "max": 2}]}
+{"id": "h4h-30", "checks": [{"type": "register_chat"}, {"type": "lint_ok", "max": 2}]}
+{"id": "h4h-31", "checks": [{"type": "drop", "re": "Bizning (jamoa|narxlar|xizmat|sifat)"}, {"type": "varied_rhythm"}]}
+{"id": "h4h-32", "checks": [{"type": "varied_rhythm"}, {"type": "keep", "re": "(ilova|narx)"}]}
+{"id": "h4h-33", "checks": [{"type": "drop", "re": "^Yaxshi!"}, {"type": "register_chat"}]}
+{"id": "h4h-34", "checks": [{"type": "drop", "re": "miz\\."}, {"type": "register_official"}]}
+{"id": "h4h-35", "checks": [{"type": "varied_rhythm"}, {"type": "register_chat"}]}
+{"id": "h4h-36", "checks": [{"type": "drop", "re": "(Bundan tashqari|Shuningdek)"}, {"type": "keep", "re": "(ham|va|yana)"}]}
+{"id": "h4h-37", "checks": [{"type": "approx_input", "min": 0.9}, {"type": "register_official"}]}
+{"id": "h4h-38", "checks": [{"type": "approx_input", "min": 0.9}, {"type": "register_official"}]}
+{"id": "h4h-39", "checks": [{"type": "approx_input", "min": 0.9}, {"type": "register_official"}]}
+{"id": "h4h-40", "checks": [{"type": "keep", "re": "(so'rov|yuborildi|javob)"}, {"type": "register_official"}]}
+{"id": "h4h-41", "checks": [{"type": "approx_input", "min": 0.9}, {"type": "register_official"}]}
+{"id": "h4h-42", "checks": [{"type": "keep", "re": "(jadval|kuchga kiradi|15-yanvar)"}, {"type": "register_official"}]}
+{"id": "h4h-43", "checks": [{"type": "drop", "re": "\\bgrafik\\w*"}, {"type": "keep", "re": "dizayn|studiy"}]}
+{"id": "h4h-44", "checks": [{"type": "keep", "re": "(soatdan beri|kut)"}]}
+{"id": "h4h-45", "checks": [{"type": "drop", "re": "prekrasn"}, {"type": "keep", "re": "(ajoyib|zoʻr|yaxshi tanlov)"}]}
+{"id": "h4h-46", "checks": [{"type": "drop", "re": "(hamkorligingizni so'raymiz buyuk minnatdorlik bilan)"}, {"type": "keep", "re": "(rahmat|hamkorlik)"}]}
+{"id": "h4h-47", "checks": [{"type": "keep", "re": "qaytaribdi"}]}
+{"id": "h4h-48", "checks": [{"type": "drop", "re": "znachim"}, {"type": "keep", "re": "muhim"}]}
+{"id": "h4h-49", "checks": [{"type": "approx_input", "min": 0.85}, {"type": "keep", "re": "(hamonzu|uka)"}]}
+{"id": "h4h-50", "checks": [{"type": "approx_input", "min": 0.8}, {"type": "keep", "re": "(shifokorda|ertaga)"}]}
+{"id": "h4h-51", "checks": [{"type": "approx_input", "min": 0.85}, {"type": "keep", "re": "(yakshanba|masjid|10 da)"}]}
+{"id": "h4h-52", "checks": [{"type": "approx_input", "min": 0.85}, {"type": "keep", "re": "(e'tiborli|qulay)"}]}
+{"id": "h4h-53", "checks": [{"type": "approx_input", "min": 0.85}, {"type": "keep", "re": "(osh suyuq|shashlik super)"}]}
+{"id": "h4h-54", "checks": [{"type": "approx_input", "min": 0.85}, {"type": "keep", "re": "(to'plam|chiroyli)"}]}
+{"id": "h4h-55", "checks": [{"type": "no_dash"}, {"type": "keep", "re": "(vazif|sifat|natij|ishonch)"}]}
+{"id": "h4h-56", "checks": [{"type": "no_dash"}, {"type": "keep", "re": "(vaqti|Yetkazish)"}]}
+{"id": "h4h-57", "checks": [{"type": "no_dash"}, {"type": "keep", "re": "(tanlang|buyurtma|rohatlan)"}]}
+{"id": "h4h-58", "checks": [{"type": "no_dash"}, {"type": "register_chat"}, {"type": "keep", "re": "(film|pitsa)"}]}
+{"id": "h4h-59", "checks": [{"type": "no_dash"}, {"type": "keep", "re": "(Talab|Javob|Hujjat)"}]}
+{"id": "h4h-60", "checks": [{"type": "no_dash"}, {"type": "keep", "re": "(jamoa|narx|qo'llab)"}]}

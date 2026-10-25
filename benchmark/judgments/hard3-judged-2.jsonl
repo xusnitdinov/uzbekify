@@ -1,0 +1,60 @@
+{"id":"h3h-21","slot":"slot1","pass":true,"reason":"Latin only, natural official SMS, no AI tells"}
+{"id":"h3h-21","slot":"slot2","pass":true,"reason":"Latin only, clean official SMS tone"}
+{"id":"h3h-21","slot":"slot3","pass":true,"reason":"Latin, natural security line added, lint clean"}
+{"id":"h3h-22","slot":"slot1","pass":true,"reason":"Proper ʻ/ʼ marks throughout (Oʻzbekistonda, taʼlim, oʻqing); content kept; natural"}
+{"id":"h3h-22","slot":"slot2","pass":true,"reason":"Correct marks; dash dropped but reads fine; natural"}
+{"id":"h3h-22","slot":"slot3","pass":false,"reason":"ASCII ' everywhere (O'zbekistonda, ta'lim, o'qing) — script_latin requires correct ʻ/ʼ marks"}
+{"id":"h3h-23","slot":"slot1","pass":true,"reason":"Quote normalized to Latin with correct ʻ; balans/-3500 kept; warm chat reply (minor yechildi spelling slip, non-criterion)"}
+{"id":"h3h-23","slot":"slot2","pass":false,"reason":"ASCII apostrophes (bo'lib, to'lov, o'tgani, to'g'risida) — fails script_latin; reply also leans officialese"}
+{"id":"h3h-23","slot":"slot3","pass":true,"reason":"Latin with correct ʻ; balans/-3500 kept; concise natural chat reply"}
+{"id":"h3h-24","slot":"slot1","pass":true,"reason":"Title correctly rendered Oʻtkan kunlar (task defines correct form as O'tkan kunlar; meaning first) with proper ʻ; natural post"}
+{"id":"h3h-24","slot":"slot2","pass":false,"reason":"ASCII apostrophes throughout (O'tkan, o'qidim, go'yo, qo'shni) — fails script_latin"}
+{"id":"h3h-24","slot":"slot3","pass":true,"reason":"«Oʻtkan kunlar» with proper ʻ; informative natural post"}
+{"id":"h3h-25","slot":"slot1","pass":true,"reason":"-ku twice, playful reversal of the joke, chat register"}
+{"id":"h3h-25","slot":"slot2","pass":true,"reason":"-ku kept, witty comeback, chat tone"}
+{"id":"h3h-25","slot":"slot3","pass":true,"reason":"Multiple -ku, funny bus line, chat register"}
+{"id":"h3h-26","slot":"slot1","pass":true,"reason":"grafika+internet kept, exactly 2 gaps, no EN slang, natural youth tone"}
+{"id":"h3h-26","slot":"slot2","pass":true,"reason":"Content kept, 2 gaps, natural; slight yuklab repetition, non-criterion"}
+{"id":"h3h-26","slot":"slot3","pass":true,"reason":"Content kept, 2 gaps; qo'yydim typo but no lint/script criterion in this row"}
+{"id":"h3h-27","slot":"slot1","pass":false,"reason":"Alters the given maqol to «Otingni sotib sher olma» (task: Otangni, use existing proverb); plus qoʻlida→qoʻlingda and olasiz-after-informative-imperative slips"}
+{"id":"h3h-27","slot":"slot2","pass":true,"reason":"Proverb quoted as given and explained naturally; odd 'Eskim sanam' line within lint_ok max 2"}
+{"id":"h3h-27","slot":"slot3","pass":true,"reason":"Names it a maqol explicitly, natural friendly advice, clean"}
+{"id":"h3h-28","slot":"slot1","pass":true,"reason":"'2 soat emas, 25 daqiqa' engages the jab, concrete time, chat tone"}
+{"id":"h3h-28","slot":"slot2","pass":true,"reason":"Humor answered (Ha-ha, kutish zerikarli), concrete 40 min plus compensation, chat register"}
+{"id":"h3h-28","slot":"slot3","pass":true,"reason":"'ikki soat ham uzoq-ku' echoes the jab, 30 min/13:30 concrete, chat tone"}
+{"id":"h3h-29","slot":"slot1","pass":false,"reason":"'Har narsaning oʻz choʻyi bor' is not an existing folk unit (attested family: oʻz vaqti/qiymati/gashli bor) — invented saying attributed to xalq; task requires mavjud birlik"}
+{"id":"h3h-29","slot":"slot2","pass":false,"reason":"'Asalning shirinligini ayiq biladi' is an invented pseudo-proverb presented as odamlar degan; wind line also awkward"}
+{"id":"h3h-29","slot":"slot3","pass":true,"reason":"Real unit «Sabr tagi — oltin», fits the patience story, clean ertak tone"}
+{"id":"h3h-30","slot":"slot1","pass":true,"reason":"Joking warning with -ku, proverb used naturally, chat register"}
+{"id":"h3h-30","slot":"slot2","pass":true,"reason":"Playful prophecy joke, deganma framing, chat tone"}
+{"id":"h3h-30","slot":"slot3","pass":true,"reason":"Teases friend via the maqol, bilasan-ku flavor, chat register"}
+{"id":"h3h-31","slot":"slot1","pass":true,"reason":"Forbidden 'Siz ...' pattern absent; three differently shaped sentences, natural app copy"}
+{"id":"h3h-31","slot":"slot2","pass":false,"reason":"Only two long, equally hefted sentences (10/9 words) — rhythm not varied, rewrite just flipped all-short into all-long; puffy bir zumda/qulay shaklda stack"}
+{"id":"h3h-31","slot":"slot3","pass":true,"reason":"Clear length variety 4/7/10 with mixed structures; pattern absent"}
+{"id":"h3h-32","slot":"slot1","pass":true,"reason":"Staccato gone, clauses varied; exact robot phrase absent"}
+{"id":"h3h-32","slot":"slot2","pass":false,"reason":"Dodge: 'natija esa kafolatlangan' keeps the robotic claim with a filler; sentence 2 is still telegraphic (Xizmat tez, jamoa tajribali)"}
+{"id":"h3h-32","slot":"slot3","pass":true,"reason":"Varied rhythm including short close; robot phrase removed"}
+{"id":"h3h-33","slot":"slot1","pass":true,"reason":"Four varied openings, none starting Rahmat; chat tone kept (one typo yozaveriling, non-criterion)"}
+{"id":"h3h-33","slot":"slot2","pass":false,"reason":"All four replies still open with Rahmat! / Rahmat, — exactly the pattern the task removes"}
+{"id":"h3h-33","slot":"slot3","pass":true,"reason":"Openings varied (Katta rahmat, Zahmatingiz, Tashakkur, Minnatdormiz), service tone kept"}
+{"id":"h3h-34","slot":"slot1","pass":true,"reason":"No 'etiladi.' endings, verbs varied, official register kept, all 5 stages covered"}
+{"id":"h3h-34","slot":"slot2","pass":false,"reason":"Every sentence still ends 'etiladi.' (taqdim/qayd/tahlil/tasdiq/eʼlon) — drop criterion violated"}
+{"id":"h3h-34","slot":"slot3","pass":true,"reason":"No etiladi; active verbs; official tone kept; all stages covered"}
+{"id":"h3h-35","slot":"slot1","pass":true,"reason":"Lengths 2/2/8/2 uneven, ends with a question, natural chat"}
+{"id":"h3h-35","slot":"slot2","pass":true,"reason":"Uneven replies, closes with question, chat register"}
+{"id":"h3h-35","slot":"slot3","pass":true,"reason":"Uneven lengths, two question endings, lively chat"}
+{"id":"h3h-36","slot":"slot1","pass":false,"reason":"Contains 'undan keyin' and 'keyingi' — keyin must not appear"}
+{"id":"h3h-36","slot":"slot2","pass":true,"reason":"No avval/keyin/nihoyat; natural Soʻng connector; stages kept"}
+{"id":"h3h-36","slot":"slot3","pass":false,"reason":"Contains 'undan keyin' — drop criterion violated"}
+{"id":"h3h-37","slot":"slot1","pass":true,"reason":"Text unchanged, no simplification, official register intact"}
+{"id":"h3h-37","slot":"slot2","pass":true,"reason":"Text unchanged, official register intact"}
+{"id":"h3h-37","slot":"slot3","pass":true,"reason":"Text unchanged, official register intact"}
+{"id":"h3h-38","slot":"slot1","pass":true,"reason":"Only apostrophe normalized (oʻz), clause untouched, official"}
+{"id":"h3h-38","slot":"slot2","pass":true,"reason":"Only apostrophe normalized, wording untouched, official"}
+{"id":"h3h-38","slot":"slot3","pass":true,"reason":"Left verbatim as input — exactly 'deyarli tegilmagan holda'"}
+{"id":"h3h-39","slot":"slot1","pass":true,"reason":"Only eʼlon mark corrected; wording and tone untouched, official"}
+{"id":"h3h-39","slot":"slot2","pass":true,"reason":"Only eʼlon mark corrected; official register intact"}
+{"id":"h3h-39","slot":"slot3","pass":true,"reason":"Untouched input, acceptable — no over-editing required by criteria"}
+{"id":"h3h-40","slot":"slot1","pass":true,"reason":"Two added sentences in same officialese; murojaat/qaror/hujjat kept"}
+{"id":"h3h-40","slot":"slot2","pass":true,"reason":"Added sentences consistent in style; all key nouns kept, official"}
+{"id":"h3h-40","slot":"slot3","pass":true,"reason":"Official continuation, key nouns kept, clean"}

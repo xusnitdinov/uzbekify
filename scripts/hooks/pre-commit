@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# uzpro pre-commit hook: lint staged Uzbek-facing files (md/txt/json/yaml/po).
+# Install: cp scripts/hooks/pre-commit .git/hooks/pre-commit && chmod +x $_
+set -euo pipefail
+cd "$(git rev-parse --show-toplevel)"
+FILES=$(git diff --cached --name-only --diff-filter=ACM | grep -E '\.(md|txt|json|ya?ml|po)$' || true)
+[ -z "$FILES" ] && exit 0
+DIST=dist/cli.js
+[ -f "$DIST" ] || (echo "uzpro: building…"; npm run build >/dev/null 2>&1)
+FAIL=0
+for f in $FILES; do
+  [ -f "$f" ] || continue
+  if ! node "$DIST" lint "$f" --format text >/dev/null 2>/tmp/uzpro-hook.err; then
+    echo "uzpro: $f"
+    cat /tmp/uzpro-hook.err
+    FAIL=1
+  fi
+done
+if [ "$FAIL" -ne 0 ]; then
+  echo ""
+  echo "uzpro found issues (see above). Fix them or 'git commit --no-verify' to skip."
+fi
+exit $FAIL

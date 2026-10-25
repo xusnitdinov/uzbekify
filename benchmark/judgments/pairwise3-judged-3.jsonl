@@ -1,0 +1,70 @@
+{"id":"h3-020","better":"A","reason":"'kod oʻtib ketadi' is how natives say a code went through; B's 'kod qabul qiladi' is unidiomatic."}
+{"id":"h3h-13","better":"A","reason":"Warm, correct support voice; B has the odd 'yozib qoldirasiz' where an imperative is needed."}
+{"id":"h3h-34","better":"A","reason":"A breaks the passive chain with active 'oʻtkazadi/oshiradi' — livelier yet formal; B keeps 'tomonidan' robot passives."}
+{"id":"h3h-26","better":"A","reason":"Youth voice 'gap yoʻq' plus a concrete Wi-Fi tip; B's 'boshqa gap yoʻq' is misplaced there."}
+{"id":"h3-067","better":"A","reason":"Natural lines ending in 'kutib olamiz'; B's 'chegirma hisobda bevosita yechiladi' is off."}
+{"id":"h3-127","better":"A","reason":"Complete ariza with concrete names, dates and reasons; B is a hollow template full of placeholders."}
+{"id":"h3-122","better":"tie","reason":"The two texts are identical."}
+{"id":"h3h-45","better":"A","reason":"Plain natural line; B's 'asosiy ustuvorligimiz' is a stiff calque of 'main priority'."}
+{"id":"h3-142","better":"B","reason":"Clean news prose; A's closing 'Batafsil maʼlumotni ... berdi' is grammatically off."}
+{"id":"h3h-15","better":"A","reason":"Smoothest codemix ('settingsning bir qismi hamon inglizcha turibdi'); B's 'oʻzbekchalashadi' is clunky."}
+{"id":"h3-150","better":"A","reason":"Fuller report with concrete details in natural news style; B is one bare sentence."}
+{"id":"h3-137","better":"A","reason":"Concrete, complete request with family details and deadline; B is generic with 'talab etilmoqda' filler."}
+{"id":"h3-075","better":"A","reason":"'bitta ilovadan boshqarasiz' conveys capability with human punch; B is good but flatter."}
+{"id":"h3-139","better":"A","reason":"Concrete account with available hours; B's 'xarajatimiz esa oʻzgarmagan' is confused logic."}
+{"id":"h3-058","better":"B","reason":"'ishdan keyin oʻqiysiz' is the most human line; A reads more like banner template."}
+{"id":"h3h-27","better":"A","reason":"True friend voice with -ku and concrete advice; B's 'bir oʻyla' and 'bor narsang qoʻlida turganda' are off."}
+{"id":"h3-084","better":"A","reason":"'tillarang' is the native cooking term; B's 'oltin rang olguncha' is a calque of 'until golden'."}
+{"id":"h3-131","better":"A","reason":"Authentic order format with correct officialese verbs and basis line; B is skeletal."}
+{"id":"h3-061","better":"B","reason":"'ishni puxta va vaqtida bajaradi' is concrete and natural; A's 'natijasi oʻzidan koʻrinadi' is muddled."}
+{"id":"h3-001","better":"tie","reason":"Both are natural, warm support replies with realistic technician offers."}
+{"id":"h3-008","better":"A","reason":"Active human 'tuzatdik' and native 'yopilib qolish'; B leans on passive 'hal qilindi'."}
+{"id":"h3h-21","better":"A","reason":"Faithful clean SMS matching the source; B adds a warning sentence absent from it."}
+{"id":"h3-079","better":"tie","reason":"Both clear, natural two-line ads with equally human voice."}
+{"id":"h3-081","better":"B","reason":"'Tizimda qolasizmi?' is the natural UI phrasing; A's 'kirgan holatda qolasizmi' is a literal calque."}
+{"id":"h3-003","better":"B","reason":"Real brand names with concrete prices fit 'prices listed'; A defers to an image."}
+{"id":"h3h-22","better":"B","reason":"Keeps the correct predicative dash while normalizing apostrophes; A drops it."}
+{"id":"h3-038","better":"A","reason":"Consistent imperative/noun button labels; B's question label 'Choychaqa qoldirasizmi?' is awkward on a button."}
+{"id":"h3-121","better":"A","reason":"'katta rahmat' adds exactly the friendly warmth the task asks for."}
+{"id":"h3-002","better":"A","reason":"Chatty 'keyingi shanba boʻlsa mayli, kiramiz'; B's 'hafta oxiri' is bookish for texting."}
+{"id":"h3-025","better":"B","reason":"Question builds directly on the 1000-customer detail, sounding genuinely curious."}
+{"id":"h3-107","better":"A","reason":"'Shahar hokimi' keeps the news precise; bare 'Hokim' loses the subject."}
+{"id":"h3-041","better":"A","reason":"'yozishish' is the native verb; B's 'Uy egasi bilan chat' is anglicized."}
+{"id":"h3-064","better":"B","reason":"'3 soatda tayyor' is crisp microcopy; A's 'Uydagi kir ... toza boʻladi' is muddled for a dry cleaner."}
+{"id":"h3-043","better":"A","reason":"Natural 'joy qoldi' and standard 'axlatni tozalash'; B's 'axlatni boʻshatib' is an off collocation."}
+{"id":"h3-133","better":"A","reason":"Concrete location details and natural closing 'Yozma javobingizni kutaman'; B is generic."}
+{"id":"h3-017","better":"A","reason":"'opajon' plus the tea detail is warm, real family talk; B is polite but flatter."}
+{"id":"h3h-51","better":"A","reason":"Preserves the original comma-run structure as instructed; B rewrites punctuation beyond spelling."}
+{"id":"h3-063","better":"B","reason":"'4 kishidan toʻplanadi' and the 🎲 give the playful social-post feel."}
+{"id":"h3-111","better":"A","reason":"'xonani issiq ... saqlaydi' is idiomatic; B's 'iliqni ... saqlaydi' nominalizes like the Russian."}
+{"id":"h3h-54","better":"B","reason":"Actually fixes the comma splice with capitalization and punctuation as instructed; A only fixed apostrophes."}
+{"id":"h3h-16","better":"B","reason":"Idiomatic throughout ('kafolatga kirmaydi', 'yo ... yo ...'); A's 'kafolat qolmaydi' is imprecise."}
+{"id":"h3-055","better":"B","reason":"'Chekni topa olmadingizmi?' is the human help-link pattern; A's labels are stiffer."}
+{"id":"h3h-53","better":"A","reason":"Touches only spelling as instructed; B repunctuates and capitalizes beyond the mandate."}
+{"id":"h3h-11","better":"A","reason":"Dates are internally consistent; B pairs 26-oktyabr with 'shanba' (a Monday in 2026) and a past deadline."}
+{"id":"h3h-57","better":"tie","reason":"Both rework the dashes into equally natural flowing sentences."}
+{"id":"h3h-05","better":"A","reason":"Consistently active human voice ('tuzatdik ... sinab koʻring!'); B still echoes the robot passives."}
+{"id":"h3-124","better":"B","reason":"The cart-and-sledge proverb renders the Russian saying naturally; A is generic."}
+{"id":"h3-113","better":"B","reason":"'Har yaltiragani oltin emas' is the natural proverb shape; A is wordy."}
+{"id":"h3-114","better":"tie","reason":"The two texts are identical."}
+{"id":"h3-087","better":"B","reason":"'moʻljal qoʻshib yuborasizmi' matches how delivery apps actually ask; A is slightly wordier."}
+{"id":"h3-040","better":"A","reason":"Active 'oʻzgardi' plus a reason ('Xavfsizlik uchun'); B is passive and bare."}
+{"id":"h3-129","better":"A","reason":"Concrete outage times, affected groups and clear demands; B is vague legalism."}
+{"id":"h3-046","better":"A","reason":"Shorter 'muddati keyingi oy tugaydi' suits UI; B's 'amal qilish muddati' is officialese."}
+{"id":"h3-119","better":"tie","reason":"The two texts are identical."}
+{"id":"h3h-25","better":"A","reason":"Comeback fits the tease and lands the joke; B's logic inverts who is the fast one."}
+{"id":"h3-073","better":"B","reason":"'oʻzingiz keling, topshirib keting' and 🩸 give real warmth for a social post."}
+{"id":"h3-089","better":"B","reason":"Active 'yubordim' sounds human; A's passive 'ilova qilindi' is stiff."}
+{"id":"h3-115","better":"A","reason":"'Tez orada javob beramiz' reassures naturally; B's 'kutib turing' reads curt."}
+{"id":"h3-080","better":"B","reason":"Vivid product-page opener with the one-button detail; A is flatter."}
+{"id":"h3h-03","better":"B","reason":"Concrete touches (dushanba chegirmalari, tez kassa, chek bilan qaytarish) with a genuine human voice."}
+{"id":"h3h-50","better":"A","reason":"Fixes only the clear error and keeps the friend's unpunctuated style; B repunctuates."}
+{"id":"h3-011","better":"tie","reason":"Both sound exactly like a real driver's text and carry all the details."}
+{"id":"h3-045","better":"A","reason":"Human active 'qoʻshdik' and native 'internetsiz'; B leans passive 'belgilandi'."}
+{"id":"h3-009","better":"B","reason":"'Mayli, olaver' is peak natural friend speech."}
+{"id":"h3-014","better":"B","reason":"'Hech qisi yoʻq, ish muhim-ku' is gracious and idiomatic; A's 'Mayli boʻladi' is off."}
+{"id":"h3-019","better":"B","reason":"Correct 'keyingi oyda chiqadi'; A contradicts the premise with 'oʻtgan oy ... chiqadi'."}
+{"id":"h3-140","better":"A","reason":"Concrete memories (pionerbol, «Kichik yulduzlar») make it real; B is abstract with odd 'chuqur minnatdormiz'."}
+{"id":"h3-049","better":"B","reason":"'Havola qayerda ochilsin?' is the standard system-dialog voice; 'ochamiz' feels off."}
+{"id":"h3h-06","better":"B","reason":"Concrete first-lesson detail and free-trial insight create a real blog voice; A keeps the robotic tail verbatim."}
+{"id":"h3-105","better":"A","reason":"'kurtkangni olib ket' matches the friendly register; B's 'olib boring' is politely distant."}

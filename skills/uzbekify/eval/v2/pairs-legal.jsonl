@@ -1,0 +1,40 @@
+{"id": "l-001", "set": "legal", "bad": "Karoche, shartlarni oʻqib chiq, keyin rozilik ber.", "good": "Qisqasi, shartlarni oʻqib chiqib, rozilik bering."}
+{"id": "l-002", "set": "legal", "bad": "Bu ToS juda uzun, lekin whatever, qabul qilamiz.", "good": "Foydalanish shartlari uzun, lekin oʻqib chiqishingiz kerak."}
+{"id": "l-003", "set": "legal", "bad": "Bro, shartnomani sign qilib qoʻya qol.", "good": "Shartnomani imzolab qoʻying."}
+{"id": "l-004", "set": "legal", "bad": "Hurmatli foydalanuvchi, sizning majburiyatlaringiz quyidagicha.", "good": "Majburiyatlaringiz quyidagicha."}
+{"id": "l-005", "set": "legal", "bad": "Oʻzbekiston Respublikasi Fuqarolik kodeksining 999-moddasiga muvofiq, toʻlov qaytarilmaydi.", "good": "Toʻlovlar siyosatimizga koʻra, bu xizmat uchun toʻlov qaytarilmaydi."}
+{"id": "l-006", "set": "legal", "bad": "Biz har qanday yoʻqotishlar uchun toʻliq javobgarmiz va barcha risklar kafolatlanadi.", "good": "Xizmat mavjud holatda taqdim etiladi. Barcha risklar kafolatlanmaydi."}
+{"id": "l-007", "set": "legal", "bad": "Maʼlumotlaringiz 100% xavfsiz va hech qachon oshkor boʻlmaydi, bu qonun bilan kafolatlangan.", "good": "Maʼlumotlaringiz maxfiylik siyosatimizga muvofiq ishlatiladi."}
+{"id": "l-008", "set": "legal", "bad": "Ushbu shartnomani bekor qilish mumkin emas, qonun bilan taqiqlangan.", "good": "Bu amalni bekor qilib boʻlmaydi."}
+{"id": "l-009", "set": "legal", "bad": "Tomonidan koʻrib chiqilishi lozim, muvofiq ravishda tasdiqlanadi.", "good": "Huquqshunos koʻrib chiqishi kerak."}
+{"id": "l-010", "set": "legal", "bad": "Shartlar boʻyicha oʻzgartirishlar boʻyicha xabar berish boʻyicha majburiyat yuklatiladi.", "good": "Oʻzgarishlar haqida xabar beramiz."}
+{"id": "l-011", "set": "legal", "bad": "Rozilik olinishi talab etiladi, maʼlumotlar toʻplanishi amalga oshiriladi va saqlanishi taʼminlanadi.", "good": "Rozilik soraymiz, maʼlumotlarni toʻplaymiz va saqlaymiz."}
+{"id": "l-012", "set": "legal", "bad": "Mavjud boʻlgan tartibga muvofiq, katta eʼtibor berildi.", "good": "Tartibga muvofiq eʼtibor qaratildi."}
+{"id": "l-013", "set": "legal", "bad": "Muddatlar boʻyicha hisob-kitoblar boʻyicha nizolar boʻyicha sud tartibi qoʻllanadi.", "good": "Nizolar sud tartibida koʻriladi."}
+{"id": "l-014", "set": "legal", "bad": "Shartnoma ikki tomon tomonidan imzolandi va tasdiqlandi.", "good": "Ikki tomon shartnomani imzolab tasdiqladi."}
+{"id": "l-015", "set": "legal", "bad": "Toʻlovlar operator tomonidan amalga oshiriladi, hisoblar bank tomonidan yuritiladi.", "good": "Operator toʻlovlarni amalga oshiradi, bank hisobni yuritadi."}
+{"id": "l-016", "set": "legal", "bad": "Arizalar komissiya tomonidan koʻrib chiqiladi, qarorlar rais tomonidan tasdiqlanadi.", "good": "Komissiya arizalarni koʻrib chiqadi, rais tasdiqlaydi."}
+{"id": "l-017", "set": "legal", "bad": "Siz ushbu shartlarni qabul qilish orqali barcha huquqlaringizdan voz kechasiz, hold harmless.", "good": "Shartlarni qabul qilsangiz, ayrim huquqlar cheklanadi, batafsil: quyi bandlar."}
+{"id": "l-018", "set": "legal", "bad": "Force majeure holatlarida liability cheklanadi, indemnitee tomonidan.", "good": "Falokat holatlarida javobgarlik cheklanadi."}
+{"id": "l-019", "set": "legal", "bad": "Bu hujjat legally binding boʻlib, courts tomonidan enforcement qilinadi.", "good": "Bu hujjat rasmiy kuchga ega."}
+{"id": "l-020", "set": "legal", "bad": "Indemnification boʻlimini oʻqib chiqing va waiv qilmang.", "good": "Zarar qoplash bandini oʻqib chiqing."}
+{"id": "l-021", "set": "legal", "bad": "Taraflarning majburiyatlarining bajarilishining nazorati qilinadi.", "good": "Taraflar majburiyatlarini bajarishi nazorat qilinadi."}
+{"id": "l-022", "set": "legal", "bad": "Shartnomalarga oʻzgartirishlarni kiritishlariga ruxsat beriladi.", "good": "Shartnomalarga oʻzgartirish kiritishga ruxsat beriladi."}
+{"id": "l-023", "set": "legal", "bad": "Hisobotlarimizlar muddati uzaytirildi.", "good": "Hisobotlar muddati uzaytirildi."}
+{"id": "l-024", "set": "legal", "bad": "Muqobil nizolarni hal qilish usullariga qishloqga murojaat qilinadi.", "good": "Muqobil nizolarni hal qilish usullariga murojaat qilinadi."}
+{"id": "l-025", "set": "legal", "bad": "Rozilikni qaytarishingiz mumkin, gap yoʻq, kruto.", "good": "Rozilikni istalgan payt qaytarishingiz mumkin."}
+{"id": "l-026", "set": "legal", "bad": "Cookie sozlamalari zoʻr, hammasi normalni.", "good": "Cookie sozlamalarini boshqarishingiz mumkin."}
+{"id": "l-027", "set": "legal", "bad": "Maxfiylik siyosati nima gap, tinchmi?", "good": "Maxfiylik siyosati nimalarni oʻz ichiga oladi?"}
+{"id": "l-028", "set": "legal", "bad": "Oʻzgartirishlar kiritish boʻyicha bizning tomonimizdan xabar berish amalga oshiriladi.", "good": "Oʻzgarishlar haqida oldindan xabar beramiz."}
+{"id": "l-029", "set": "legal", "bad": "Sizning roziligingiz olinishi shart, buning natijasida sifatida huquq paydo boʻladi.", "good": "Sizning roziligingiz talab qilinadi."}
+{"id": "l-030", "set": "legal", "bad": "Ushbu hujjat yakuniy va imzolashga tayyor, hech qanday koʻrik kerak emas.", "good": "Bu yakuniy yuridik hujjat emas, yuridik koʻrikdan oʻtishi kerak."}
+{"id": "l-031", "set": "legal", "bad": "Shartnoma muddati oshirildi (prodlёn), keyin renew qilinadi.", "good": "Shartnoma muddati uzaytirildi, keyin yangilanadi."}
+{"id": "l-032", "set": "legal", "bad": "Barcha споры sud tartibida koʻriladi.", "good": "Barcha nizolar sud tartibida koʻriladi."}
+{"id": "l-033", "set": "legal", "bad": "Toʻlovlar oʻz vaqtida qilinishi shart, иначе shartnoma bekor qilinadi.", "good": "Toʻlovlar oʻz vaqtida qilinishi shart, aks holda shartnoma bekor qilinadi."}
+{"id": "l-034", "set": "legal", "bad": "Legal advice berilmaydi, bu faqat umumiy маʼlumot.", "good": "Bu yuridik maslahat emas, faqat umumiy maʼlumot."}
+{"id": "l-035", "set": "legal", "bad": "Jarima: $100 dan boshlab.", "good": "Jarima: 100 dollardan boshlab yoki shartnomada belgilangan miqdorda."}
+{"id": "l-036", "set": "legal", "bad": "Sana: 01.05.2024-yil.", "good": "Sana: 2024-yil 1-may."}
+{"id": "l-037", "set": "legal", "bad": "Taraflarning kelishuvining shartlarining buzilishining oqibatlari.", "good": "Kelishuv shartlari buzilganining oqibatlari."}
+{"id": "l-038", "set": "legal", "bad": "Har bir tomonning nishning nizolarning yechimining usulining tanlovining huquqi bor.", "good": "Har bir tomon nizoni yechish usulini tanlash huquqiga ega."}
+{"id": "l-039", "set": "legal", "bad": "Muvofiq ravishda bajarildi, oʻz navbatida tasdiqlandi, yakuniy xulosa qilib aytganda kuchga kirdi.", "good": "Bajarilib, tasdiqlandi va kuchga kirdi."}
+{"id": "l-040", "set": "legal", "bad": "Siz mazkur hujjat bilan tanishishingizni tasdiqlaysiz, birinchi navbatda, birinchi navbatda.", "good": "Bu hujjat bilan tanishganingizni tasdiqlaysiz."}

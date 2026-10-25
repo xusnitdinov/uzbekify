@@ -1,0 +1,70 @@
+{"id":"h3-005","better":"A","reason":"A sounds like a real landlord chat with a warm personal question; B is correct but slightly template-stiff."}
+{"id":"h3h-18","better":"B","reason":"B's 'Katta yangilik' and concrete 'CV yuboring' CTA feel idiomatic startup-Uzbek; A is close but softer."}
+{"id":"h3-095","better":"B","reason":"A's 'Yashashga kirishdan' is an awkward calque of check-in; B's clean 'Kirishdan' is the natural booking phrase."}
+{"id":"h3-126","better":"A","reason":"A gives a full authentic ariza (header, address, date, concrete facts); B is generic with an odd 'apparat' for hisoblagich."}
+{"id":"h3-052","better":"B","reason":"'buyurtma haqidagi yangilanishlarni' links more naturally than A's compressed 'buyurtma yangilanishlarini'."}
+{"id":"h3-102","better":"tie","reason":"Both outputs are byte-identical and perfectly natural."}
+{"id":"h3-028","better":"A","reason":"'Qayerdasan, olib boraman?' is exactly how a friend texts; B is fine but flatter."}
+{"id":"h3-057","better":"B","reason":"B has a tight native hook line; A repeats rang/ta'm phrasing across both lines and has a loose 'asalimiz rangi' construction."}
+{"id":"h3h-24","better":"B","reason":"B reads like a genuine recommendation post ('qissasi tortib oladi', 'bemalol boshlang'); A is decent but thinner."}
+{"id":"h3-136","better":"A","reason":"A uses the authentic Uzbek ariza format with concrete details; B has a calqued motivational line 'murakkab vazifalar menga kuch beradi'."}
+{"id":"h3-044","better":"B","reason":"'xayriya qilish' and 'oyda bir marta' match real charity-app register; 'ehson' leans religious and A is wordier."}
+{"id":"h3-116","better":"A","reason":"'juma kunigacha' is the compact natural notice form; both are correct but A is marginally more idiomatic."}
+{"id":"h3-108","better":"A","reason":"'Hozir koʻrib aytaqolaman' has the true colloquial -qol particle; B is correct but bland."}
+{"id":"h3-109","better":"B","reason":"'Ertalab soat 7 dan 10 gacha' flows most naturally for a promo; A's 7:00/10:00 clock style is fine but stiffer."}
+{"id":"h3h-02","better":"B","reason":"B keeps the original length and detail with natural connectors; A over-compresses, violating the keep-length constraint."}
+{"id":"h3h-56","better":"tie","reason":"Both outputs are byte-identical."}
+{"id":"h3-072","better":"A","reason":"'faqat kamerangiz bilan keling' is a lively creator-facing line; B's second line 'qulay joy' is template filler."}
+{"id":"h3-118","better":"A","reason":"'Hisobingizga ... kirish qilindi' matches real bank notification copy; 'Akkauntingizga ... kirildi' is looser chat register."}
+{"id":"h3-091","better":"B","reason":"B's crisp two-part alert with direct 'faralarni yoqing' is standard road-warning voice; A is wordier."}
+{"id":"h3h-20","better":"A","reason":"'elektr yiqiladi' and 'idishlarga solib qoʻying' are genuine mahalla speech; B is accurate but toneless."}
+{"id":"h3-031","better":"B","reason":"'Maqolani' is the correct accusative of 'maqola' (article); A's 'Maqolni' derives from 'maqol' (proverb), a wrong word."}
+{"id":"h3h-30","better":"tie","reason":"Both are genuinely native teasing friend messages with natural particles like '-ku'; equal in voice."}
+{"id":"h3-006","better":"B","reason":"'Qoyil! 87 dan yaxshi eku 👏' is exactly sibling-chat congratulation energy; A is fine but flatter."}
+{"id":"h3-047","better":"A","reason":"Explicit 'Buyurtma qabul qilindi' fits an order-tracking screen better; B's bare 'Qabul qilindi' is ambiguous."}
+{"id":"h3-101","better":"B","reason":"'yangi mahsulotimizni tatib koʻring' renders 'novinka' correctly; A's 'Yangi taʼmimizni' (our flavor) is off."}
+{"id":"h3h-10","better":"A","reason":"A actually delivers the required chat-tone employee block ('xavotir olmang'); B stays formal and its overtime 'convenience' is bizarre."}
+{"id":"h3-069","better":"B","reason":"'Havolani yuboring, qolgani bizdan' is a native marketing flourish; A's second line is instructional and flat."}
+{"id":"h3-110","better":"A","reason":"A's direct 'berishingizni soʻrayman' is the natural ariza sentence; B's passive 'berilishini soʻrayman' is clunky."}
+{"id":"h3-100","better":"B","reason":"'eng qulay taklif' is the right rendering of 'best deal'; A's 'eng qulay shart' means terms, not deal."}
+{"id":"h3-147","better":"A","reason":"A is a proper news brief with schedule, logistics and attribution; B is a single bare sentence for a brief task."}
+{"id":"h3h-38","better":"tie","reason":"Both outputs are byte-identical, correctly left untouched."}
+{"id":"h3-132","better":"A","reason":"A is a complete authentic ariza with dates, capacity and equipment; B garbles 'Zalning 50 oʻrinli boʻlib'."}
+{"id":"h3-034","better":"B","reason":"'Keyingi' is the canonical UI 'Next' and '2-qadam' is common onboarding wording; A's 'Keyingisi' is less standard."}
+{"id":"h3-135","better":"A","reason":"A is concrete and vivid ('tom yomgʻir oʻtkazmoqda', forty students); B is vague with odd 'farzandlarimiz' phrasing."}
+{"id":"h3-050","better":"B","reason":"'Zanjir uzilmasin!' is punchy and natural; A misuses 'uzatmang' (pass along) where 'uzmang' is needed."}
+{"id":"h3-029","better":"A","reason":"A's concrete courier redirect is more helpful and human; B's 'yangilab qoʻyamiz' is vaguer."}
+{"id":"h3h-39","better":"tie","reason":"Both outputs are byte-identical, correctly preserving the legal wording."}
+{"id":"h3h-33","better":"B","reason":"B weaves gratitude ('rahmat', 'tashakkur', 'minnatdor') into four varied openings; A drops the required Rahmat framing entirely."}
+{"id":"h3-098","better":"B","reason":"'quvurlar taʼmiri ... vaqtincha toʻxtatiladi' is the standard news-brief phrasing; A is fine but terser and less idiomatic."}
+{"id":"h3h-14","better":"A","reason":"A keeps the jargon and talks like a real dev ('testlar qizil chiqdi', 'mergeni kut'); B paraphrases the terms away, violating the constraint."}
+{"id":"h3-125","better":"A","reason":"'qoʻyib ketaman' is exactly courier speech; B's 'qoldiraman' is fine but less vivid."}
+{"id":"h3h-44","better":"A","reason":"'Koʻprikni ikki yildan beri quryaptilar' marks the definite object correctly; B's bare 'koʻprik' loses it."}
+{"id":"h3-004","better":"B","reason":"'kim-kim boradi' and 'Kelaman deganlar yozib qoʻysin' are true group-chat voice; A's 'qatnaydi' is stiff."}
+{"id":"h3-093","better":"A","reason":"'butsa' is the correct Uzbek word for boots; B's 'buts' is a misspelling."}
+{"id":"h3-059","better":"B","reason":"The dash rhythm in B reads like a real landing subline; A's comma version is flatter."}
+{"id":"h3h-04","better":"tie","reason":"Both outputs are byte-identical, correctly left formal and untouched."}
+{"id":"h3-106","better":"A","reason":"'telefon raqamingizga' is the fuller standard OTP copy; B's shortened form is acceptable but less precise."}
+{"id":"h3-128","better":"B","reason":"A's 'Arxivni toʻlashda' (paying the archive) is a lexical error for 'toʻldirishda'; B is clean formal throughout."}
+{"id":"h3-042","better":"A","reason":"'Buyurtma holati haqidagi xabarlar' is clearer, more native settings copy; B's 'Buyurtma yangilanishlari' is a terser calque."}
+{"id":"h3h-47","better":"B","reason":"'Parvoz kechikibdi, shekilli' nails the apparently-tone with no additions; A pads with extra info beyond the source."}
+{"id":"h3-096","better":"A","reason":"'yuborasizmi' is correctly formed; B's 'yuborasanmi' is a mis-conjugated polite request."}
+{"id":"h3h-46","better":"A","reason":"'bu binoda tamaki chekmang' is the standard sign wording; 'bu yerda' is vaguer."}
+{"id":"h3-141","better":"A","reason":"A is a full brief with container details, expansion plan and attribution; B is one bare sentence."}
+{"id":"h3h-58","better":"A","reason":"Lowercase comma-spliced 'men uydaman, keyin chiqaman, soat 6da boʻladi-ku' is exactly unpunctuated chat voice."}
+{"id":"h3h-49","better":"B","reason":"B applies the only allowed orthography fixes: standard 'hatto' and capital sentence start; A keeps 'hattoki'."}
+{"id":"h3-083","better":"B","reason":"'Rahmat, zoʻrsan!' is the idiomatic chat rendering; A's 'sen eng zoʻrsan' is a literal 'ur the best' calque."}
+{"id":"h3h-59","better":"B","reason":"B writes full formal sentences ('qilib belgilandi', 'mavjud'); A stays telegraphic rather than truly formal."}
+{"id":"h3-065","better":"A","reason":"'hisob oʻzi chiqadi' is a delightful native idiom and A names the couple focus; B is clean but more generic."}
+{"id":"h3-082","better":"B","reason":"'Darslar 2-sentyabrda boshlanadi. Forma kiyish majburiy.' is natural school-site Uzbek with standard date style."}
+{"id":"h3-085","better":"B","reason":"'tekshiruvdan oʻtmadi' precisely means verification failed and 'tekshirib koʻring' is softer UI voice; A's 'tasdiqlanmadi' is blunter."}
+{"id":"h3-123","better":"A","reason":"'allaqachon yoʻlda' conveys 'уже' faithfully; B drops the 'already' nuance."}
+{"id":"h3-053","better":"B","reason":"Identical content but B's dash and final period read cleaner as one polished UI line."}
+{"id":"h3h-40","better":"tie","reason":"Both continuations are equally consistent, correct officialese with natural formal collocations."}
+{"id":"h3h-12","better":"B","reason":"B's three tones are distinct with a concrete tracking detail and the human 'Qani, keling va sinab koʻring!' CTA."}
+{"id":"h3h-37","better":"tie","reason":"Both outputs are byte-identical, correctly preserving the formal statement."}
+{"id":"h3-144","better":"A","reason":"A is a complete sports brief with scoreline and tournament date; B is a single bare sentence."}
+{"id":"h3-026","better":"A","reason":"'balansga tashlaymiz' is lively real support chat; B apologizes twice ('Kechirim ... uzr') redundantly."}
+{"id":"h3h-08","better":"A","reason":"A's three-stage exchange sounds like a real school group chat; B mixes officialese ('kuchga kiradi') into chat and has an awkward parent line."}
+{"id":"h3-097","better":"B","reason":"'kelib chiqqan zarar' is the standard collocation; A's 'chiqqan zarar' is acceptable but less idiomatic."}
+{"id":"h3h-31","better":"A","reason":"A keeps a consistent natural declarative rhythm with 'esa'; B shifts between imperative and -ingiz mumkin persons."}

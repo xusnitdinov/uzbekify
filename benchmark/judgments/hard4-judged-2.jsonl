@@ -1,0 +1,60 @@
+{"id":"h4h-21","slot":"slot1","pass":true,"reason":"Latin official SMS, 'kuting' kept, clean and terse"}
+{"id":"h4h-21","slot":"slot2","pass":true,"reason":"Latin, official SMS voice, natural 'hech kimga bermang' addition"}
+{"id":"h4h-21","slot":"slot3","pass":true,"reason":"Latin and clean; 'Kuting:' opener slightly odd but official"}
+{"id":"h4h-22","slot":"slot1","pass":true,"reason":"Correct oʻ marks, 2-sentyabr/6 yosh kept, announcement tone"}
+{"id":"h4h-22","slot":"slot2","pass":false,"reason":"ASCII ' left (O'qish, to'lgan) — apostrophes not normalized to ʻ"}
+{"id":"h4h-22","slot":"slot3","pass":true,"reason":"Correct ʻ marks, content kept, polite announcement voice"}
+{"id":"h4h-23","slot":"slot1","pass":true,"reason":"Single Latin with ʻ, warm chat apology, concrete steps"}
+{"id":"h4h-23","slot":"slot2","pass":false,"reason":"ASCII apostrophes (yo'lanadi, to'g'ridan) break script_latin"}
+{"id":"h4h-23","slot":"slot3","pass":true,"reason":"Latin with ʻ, empathetic chat tone, asks for order number"}
+{"id":"h4h-24","slot":"slot1","pass":true,"reason":"Navroʻz correct with ʻ; minor 'mubarak' vowel slip, script/content fine"}
+{"id":"h4h-24","slot":"slot2","pass":false,"reason":"'Navruz' missing oʻ (keep fails) plus ASCII ' in bo'lsin"}
+{"id":"h4h-24","slot":"slot3","pass":false,"reason":"'Navruz' missing oʻ; 'tokin' for toʻkin — script errors"}
+{"id":"h4h-25","slot":"slot1","pass":true,"reason":"-ku used twice, playful sen-form banter; 'gapirogʻi' typo minor"}
+{"id":"h4h-25","slot":"slot2","pass":true,"reason":"-ku kept, humorous 'birga topolmaymiz', chat register"}
+{"id":"h4h-25","slot":"slot3","pass":true,"reason":"-ku kept, friendly wager banter, natural"}
+{"id":"h4h-26","slot":"slot1","pass":true,"reason":"Batareya/kamera covered, youthful 'zoʻr chiqadi', no EN slang"}
+{"id":"h4h-26","slot":"slot2","pass":true,"reason":"Both points kept, casual tone, no ship/vibe"}
+{"id":"h4h-26","slot":"slot3","pass":true,"reason":"Keeps both points, casual 'olib oldim', clean"}
+{"id":"h4h-27","slot":"slot1","pass":true,"reason":"Proverb used naturally; clumsy opener within 2-tell limit"}
+{"id":"h4h-27","slot":"slot2","pass":true,"reason":"Proverb via parents' saying, warm and human"}
+{"id":"h4h-27","slot":"slot3","pass":true,"reason":"Proverb quoted in flow, friendly reassurance"}
+{"id":"h4h-28","slot":"slot1","pass":true,"reason":"Acknowledges the joke, concrete deadline, chat tone"}
+{"id":"h4h-28","slot":"slot2","pass":true,"reason":"Riffs on 'rekord', juma 18:00 deadline, open to humor"}
+{"id":"h4h-28","slot":"slot3","pass":false,"reason":"No humor openness; 'arzitasiz' muddled/wrong word"}
+{"id":"h4h-29","slot":"slot1","pass":true,"reason":"Fairy-tale 'bor ekan' frame, proverb-like closer"}
+{"id":"h4h-29","slot":"slot2","pass":false,"reason":"Broken 'o'tga bo'par' — meaning obscured, non-native"}
+{"id":"h4h-29","slot":"slot3","pass":true,"reason":"Coherent tale, proverb closer fits coward wolf"}
+{"id":"h4h-30","slot":"slot1","pass":true,"reason":"Chat congrats with light joke, natural sign-off"}
+{"id":"h4h-30","slot":"slot2","pass":false,"reason":"Garbled 'birinchi kulgisi ko'zingizga qaraganda...' + nonstandard 'o'sib-ungib' — over tell limit"}
+{"id":"h4h-30","slot":"slot3","pass":true,"reason":"Short chat congrats, night-humor lands; 'tuni bilan' tolerable"}
+{"id":"h4h-31","slot":"slot1","pass":false,"reason":"All four sentences exactly 5 words — rhythm still uniform"}
+{"id":"h4h-31","slot":"slot2","pass":false,"reason":"Still opens 'Bizning'; 'Bizning kuchi' and 'ustodlari to'plangan' garbled"}
+{"id":"h4h-31","slot":"slot3","pass":true,"reason":"No Bizning anaphora, varied lengths, natural close"}
+{"id":"h4h-32","slot":"slot1","pass":true,"reason":"Two genuinely long sentences added, varied rhythm"}
+{"id":"h4h-32","slot":"slot2","pass":false,"reason":"No real long sentences — still 4-5 word staccato"}
+{"id":"h4h-32","slot":"slot3","pass":true,"reason":"5-to-17-word spread, natural, ilova/narx kept"}
+{"id":"h4h-33","slot":"slot1","pass":true,"reason":"Four distinct openers, service tone intact"}
+{"id":"h4h-33","slot":"slot2","pass":true,"reason":"Varied openers, friendly service voice"}
+{"id":"h4h-33","slot":"slot3","pass":true,"reason":"Distinct openers, service chat preserved"}
+{"id":"h4h-34","slot":"slot1","pass":true,"reason":"-miz endings shed via third person/passive, still official"}
+{"id":"h4h-34","slot":"slot2","pass":false,"reason":"Every sentence still ends -miz — drop violated"}
+{"id":"h4h-34","slot":"slot3","pass":false,"reason":"All five sentences end -miz — drop violated"}
+{"id":"h4h-35","slot":"slot1","pass":true,"reason":"2-to-13-word spread, ends with question, chat voice"}
+{"id":"h4h-35","slot":"slot2","pass":true,"reason":"One-word to long replies, question ending, concrete detail"}
+{"id":"h4h-35","slot":"slot3","pass":false,"reason":"Replies 1-3 words, near-uniform terse rhythm"}
+{"id":"h4h-36","slot":"slot1","pass":false,"reason":"Literal 'Shuningdek' remains — drop violated"}
+{"id":"h4h-36","slot":"slot2","pass":true,"reason":"Connectors varied (Qolaversa, joizki), 'ham' kept"}
+{"id":"h4h-36","slot":"slot3","pass":true,"reason":"va/ham used, Qolaversa natural"}
+{"id":"h4h-37","slot":"slot1","pass":true,"reason":"Untouched, correct ʼ kept, official register"}
+{"id":"h4h-37","slot":"slot2","pass":false,"reason":"Swapped correct ʼ to ASCII ' — degraded, not a spellcheck"}
+{"id":"h4h-37","slot":"slot3","pass":true,"reason":"Identical to input, register intact"}
+{"id":"h4h-38","slot":"slot1","pass":true,"reason":"Verbatim, official clause intact"}
+{"id":"h4h-38","slot":"slot2","pass":false,"reason":"Rewrote barcha xodimlar → har bir xodim beyond spellcheck"}
+{"id":"h4h-38","slot":"slot3","pass":true,"reason":"Verbatim, register intact"}
+{"id":"h4h-39","slot":"slot1","pass":true,"reason":"Spellcheck applied: to'lovi → toʻlovi, else untouched"}
+{"id":"h4h-39","slot":"slot2","pass":false,"reason":"Left ASCII ' in to'lovi — spellcheck not performed"}
+{"id":"h4h-39","slot":"slot3","pass":true,"reason":"Orthography fixed to ʻ, text otherwise identical"}
+{"id":"h4h-40","slot":"slot1","pass":true,"reason":"Official continuation: belgilangan tartibda, maʼlum qilinadi"}
+{"id":"h4h-40","slot":"slot2","pass":true,"reason":"Keeps opening line, official passive continuation"}
+{"id":"h4h-40","slot":"slot3","pass":true,"reason":"zahoti/xabardor qilamiz — proper official voice"}

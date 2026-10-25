@@ -1,0 +1,197 @@
+{
+  "generated": "2026-10-23T21:16:14.607Z",
+  "entries": [
+    {
+      "en": "Login / Sign in",
+      "uz": "Kirish"
+    },
+    {
+      "en": "Log out",
+      "uz": "Chiqish"
+    },
+    {
+      "en": "Sign up (self)",
+      "uz": "Roʻyxatdan oʻtish"
+    },
+    {
+      "en": "Enroll (admin adds)",
+      "uz": "Roʻyxatga olish"
+    },
+    {
+      "en": "Save",
+      "uz": "Saqlash"
+    },
+    {
+      "en": "Cancel",
+      "uz": "Bekor qilish"
+    },
+    {
+      "en": "Submit / Send",
+      "uz": "Yuborish"
+    },
+    {
+      "en": "Continue",
+      "uz": "Davom etish"
+    },
+    {
+      "en": "Back",
+      "uz": "Ortga"
+    },
+    {
+      "en": "Search",
+      "uz": "Qidirish"
+    },
+    {
+      "en": "Retry (button)",
+      "uz": "Qayta urinish"
+    },
+    {
+      "en": "Retry (helper)",
+      "uz": "Qaytadan urinib koʻring"
+    },
+    {
+      "en": "Confirm",
+      "uz": "Tasdiqlash"
+    },
+    {
+      "en": "Delete",
+      "uz": "Oʻchirish"
+    },
+    {
+      "en": "Copy",
+      "uz": "Nusxalash"
+    },
+    {
+      "en": "Close",
+      "uz": "Yopish"
+    },
+    {
+      "en": "Download",
+      "uz": "Yuklab olish"
+    },
+    {
+      "en": "Loading",
+      "uz": "Yuklanmoqda"
+    },
+    {
+      "en": "Not found",
+      "uz": "Topilmadi"
+    },
+    {
+      "en": "Something went wrong",
+      "uz": "Xatolik yuz berdi"
+    },
+    {
+      "en": "Welcome back",
+      "uz": "Xush kelibsiz"
+    },
+    {
+      "en": "Settings",
+      "uz": "Sozlamalar"
+    },
+    {
+      "en": "Profile",
+      "uz": "Profil"
+    },
+    {
+      "en": "Notifications",
+      "uz": "Bildirishnomalar"
+    },
+    {
+      "en": "Refresh",
+      "uz": "Qayta yuklash"
+    },
+    {
+      "en": "Home",
+      "uz": "Bosh sahifa"
+    },
+    {
+      "en": "About",
+      "uz": "Biz haqimizda"
+    },
+    {
+      "en": "Contact",
+      "uz": "Aloqa"
+    },
+    {
+      "en": "Help",
+      "uz": "Yordam"
+    },
+    {
+      "en": "Language",
+      "uz": "Til"
+    },
+    {
+      "en": "Privacy",
+      "uz": "Maxfiylik siyosati"
+    },
+    {
+      "en": "Terms",
+      "uz": "Foydalanish"
+    },
+    {
+      "en": "Required field",
+      "uz": "Bu maydon toʻldirilishi shart"
+    },
+    {
+      "en": "Invalid email",
+      "uz": "Email manzili notoʻgʻri"
+    },
+    {
+      "en": "Passwords do not match",
+      "uz": "Parollar mos kelmadi"
+    },
+    {
+      "en": "Too short",
+      "uz": "Juda qisqa"
+    },
+    {
+      "en": "Please try again",
+      "uz": "Iltimos, qaytadan urinib koʻring"
+    },
+    {
+      "en": "Cart",
+      "uz": "Savat"
+    },
+    {
+      "en": "Order",
+      "uz": "Buyurtma"
+    },
+    {
+      "en": "Delivery",
+      "uz": "Yetkazib berish"
+    },
+    {
+      "en": "Discount",
+      "uz": "Chegirma"
+    },
+    {
+      "en": "Promo code",
+      "uz": "Promokod"
+    },
+    {
+      "en": "Installment",
+      "uz": "Nasiya / Muddatli toʻlov"
+    },
+    {
+      "en": "Balance",
+      "uz": "Balans"
+    },
+    {
+      "en": "Tariff",
+      "uz": "Tarif"
+    },
+    {
+      "en": "Payment success",
+      "uz": "Toʻlov muvaffaqiyatli"
+    },
+    {
+      "en": "Payment failed",
+      "uz": "Toʻlov amalga oshmadi"
+    },
+    {
+      "en": "Receipt",
+      "uz": "Chek."
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "generated": "2026-10-23T21:16:14.608Z",
+  "entries": [
+    {
+      "avoid": "Group project / team dynamics",
+      "prefer": "oʻxshamadi",
+      "context": "Failed-outcome verbs (the chiqmadi trap)"
+    },
+    {
+      "avoid": "Plan execution",
+      "prefer": "amalga oshmadi",
+      "context": "Failed-outcome verbs (the chiqmadi trap)"
+    },
+    {
+      "avoid": "App bug / feature output",
+      "prefer": "ishlamadi, chiqmadi (literal output OK)",
+      "context": "Failed-outcome verbs (the chiqmadi trap)"
+    },
+    {
+      "avoid": "Device / startup",
+      "prefer": "ochilmadi, yoqilmadi",
+      "context": "Failed-outcome verbs (the chiqmadi trap)"
+    },
+    {
+      "avoid": "Relationship / cooperation",
+      "prefer": "yurishmadi, kelisha olmadik",
+      "context": "Failed-outcome verbs (the chiqmadi trap)"
+    },
+    {
+      "avoid": "Exam performance",
+      "prefer": "yaxshi oʻtmadi",
+      "context": "Failed-outcome verbs (the chiqmadi trap)"
+    },
+    {
+      "avoid": "Payment flow",
+      "prefer": "amalga oshmadi",
+      "context": "Failed-outcome verbs (the chiqmadi trap)"
+    },
+    {
+      "avoid": "Delivery",
+      "prefer": "kechikdi, yetib kelmadi",
+      "context": "Failed-outcome verbs (the chiqmadi trap)"
+    },
+    {
+      "avoid": "Event",
+      "prefer": "boʻlib oʻtmadi / bekor qilindi",
+      "context": "Failed-outcome verbs (the chiqmadi trap)"
+    },
+    {
+      "avoid": "stressed",
+      "prefer": "stressdagi",
+      "context": "Emotion words"
+    },
+    {
+      "avoid": "worried",
+      "prefer": "xavotirdagi",
+      "context": "Emotion words"
+    },
+    {
+      "avoid": "upset",
+      "prefer": "xafa boʻlgan",
+      "context": "Emotion words"
+    },
+    {
+      "avoid": "angry",
+      "prefer": "jahli chiqqan",
+      "context": "Emotion words"
+    },
+    {
+      "avoid": "excited",
+      "prefer": "hayajonlangan",
+      "context": "Emotion words"
+    },
+    {
+      "avoid": "confused",
+      "prefer": "tushunmay qolgan",
+      "context": "Emotion words"
+    },
+    {
+      "avoid": "tired",
+      "prefer": "charchagan",
+      "context": "Emotion words"
+    },
+    {
+      "avoid": "overwhelmed",
+      "prefer": "bosim ostida",
+      "context": "Emotion words"
+    },
+    {
+      "avoid": "Strength",
+      "prefer": "Form",
+      "context": "Politeness strength ladder"
+    },
+    {
+      "avoid": "Direct UI",
+      "prefer": "Saqlang / Yozing",
+      "context": "Politeness strength ladder"
+    },
+    {
+      "avoid": "Soft request",
+      "prefer": "Iltimos, …",
+      "context": "Politeness strength ladder"
+    },
+    {
+      "avoid": "Very polite",
+      "prefer": "Zahmatingiz boʻlsa, …",
+      "context": "Politeness strength ladder"
+    },
+    {
+      "avoid": "Collaborative",
+      "prefer": "Keling, …",
+      "context": "Politeness strength ladder"
+    },
+    {
+      "avoid": "Optional ask",
+      "prefer": "Xohlasangiz, …",
+      "context": "Politeness strength ladder"
+    },
+    {
+      "avoid": "Verified deterministic UI event",
+      "prefer": "… boʻldi / yaratildi",
+      "context": "Certainty"
+    },
+    {
+      "avoid": "Heuristic suggestion",
+      "prefer": "koʻpincha, odatda",
+      "context": "Certainty"
+    },
+    {
+      "avoid": "Legal/medical boundary",
+      "prefer": "Bu maslahat emas + draft label",
+      "context": "Certainty"
+    },
+    {
+      "avoid": "User-reported issue",
+      "prefer": "koʻrinishidan, ehtimol",
+      "context": "Certainty"
+    },
+    {
+      "avoid": "Debug speculation",
+      "prefer": "sinab koʻring, tekshirib koʻraylik",
+      "context": "Certainty"
+    },
+    {
+      "avoid": "Bad (AI)",
+      "prefer": "Natural",
+      "context": "\"Very / really\" intensifiers"
+    },
+    {
+      "avoid": "juda ham zoʻr (stacked)",
+      "prefer": "juda zoʻr / zoʻr",
+      "context": "\"Very / really\" intensifiers"
+    },
+    {
+      "avoid": "haqiqatan ham ajoyib",
+      "prefer": "chinakam ajoyib / ajoyib",
+      "context": "\"Very / really\" intensifiers"
+    },
+    {
+      "avoid": "nihoyatda katta",
+      "prefer": "juda katta / ulkan",
+      "context": "\"Very / really\" intensifiers"
+    },
+    {
+      "avoid": "extremal darajada",
+      "prefer": "haddan tashqari (by sense)",
+      "context": "\"Very / really\" intensifiers"
+    },
+    {
+      "avoid": "juda juda",
+      "prefer": "(pick one juda)",
+      "context": "\"Very / really\" intensifiers"
+    },
+    {
+      "avoid": "quoted speech",
+      "prefer": "…, dedi",
+      "context": "Say/tell verbs (news & chat)"
+    },
+    {
+      "avoid": "official statement",
+      "prefer": "maʼlum qildi / xabar berdi",
+      "context": "Say/tell verbs (news & chat)"
+    },
+    {
+      "avoid": "rumor",
+      "prefer": "mish-mishlarga koʻra",
+      "context": "Say/tell verbs (news & chat)"
+    },
+    {
+      "avoid": "explanation",
+      "prefer": "tushuntirdi",
+      "context": "Say/tell verbs (news & chat)"
+    },
+    {
+      "avoid": "studies show",
+      "prefer": "tadqiqotlar koʻrsatadi",
+      "context": "Academic verbs"
+    },
+    {
+      "avoid": "we analyze",
+      "prefer": "tahlil qilamiz / tahlil qilindi",
+      "context": "Academic verbs"
+    },
+    {
+      "avoid": "results indicate",
+      "prefer": "natijalar guvohlik beradi / koʻrsatadiki",
+      "context": "Academic verbs"
+    },
+    {
+      "avoid": "conclude",
+      "prefer": "xulosa qilamiz",
+      "context": "Academic verbs"
+    },
+    {
+      "avoid": "assume",
+      "prefer": "faraz qilamiz",
+      "context": "Academic verbs"
+    },
+    {
+      "avoid": "you must",
+      "prefer": "-ishingiz shart",
+      "context": "Legal-lite verbs"
+    },
+    {
+      "avoid": "you may",
+      "prefer": "… mumkin / -ishingiz mumkin",
+      "context": "Legal-lite verbs"
+    },
+    {
+      "avoid": "we will not",
+      "prefer": "… maydi / qilmaymiz",
+      "context": "Legal-lite verbs"
+    },
+    {
+      "avoid": "terminate",
+      "prefer": "bekor qilish / tugatish",
+      "context": "Legal-lite verbs"
+    },
+    {
+      "avoid": "liable",
+      "prefer": "javobgar (draft!)",
+      "context": "Legal-lite verbs"
+    },
+    {
+      "avoid": "foydalanuvchi tajribasi (in reviews/benefits)",
+      "prefer": "qulaylik, yoqdi, foydalanish oson",
+      "context": "UX words (the tajriba trap)"
+    },
+    {
+      "avoid": "eng yaxshi tajriba",
+      "prefer": "ishlash qulay",
+      "context": "UX words (the tajriba trap)"
+    },
+    {
+      "avoid": "tajribani yaxshilash",
+      "prefer": "qulayroq qilish",
+      "context": "UX words (the tajriba trap)"
+    },
+    {
+      "avoid": "Quiz answer",
+      "prefer": "Toʻgʻri variantni tanlang",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    },
+    {
+      "avoid": "Quiz result card",
+      "prefer": "Siz 8 ball oldingiz",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    },
+    {
+      "avoid": "Quiz retry",
+      "prefer": "Qayta urining",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    },
+    {
+      "avoid": "CTA close",
+      "prefer": "Modalni yopishni amalga oshiring",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    },
+    {
+      "avoid": "Error network",
+      "prefer": "Tarmoq xatosi yuz berdi",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    },
+    {
+      "avoid": "Error save",
+      "prefer": "Saqlashda xatolik",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    },
+    {
+      "avoid": "Error code",
+      "prefer": "Kod notoʻgʻri",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    },
+    {
+      "avoid": "Error search",
+      "prefer": "Hech narsa topilmadi",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    },
+    {
+      "avoid": "Microcopy required",
+      "prefer": "Majburiy maydon",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    },
+    {
+      "avoid": "Microcopy empty",
+      "prefer": "Maʼlumot mavjud emas",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    },
+    {
+      "avoid": "Onboarding welcome",
+      "prefer": "Platformamizga xush kelibsiz",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    },
+    {
+      "avoid": "Onboarding photo",
+      "prefer": "Surat yuklang",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    },
+    {
+      "avoid": "Chat done",
+      "prefer": "Vazifa bajarildi",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    },
+    {
+      "avoid": "Chat apology",
+      "prefer": "Keltirilgan noqulayliklar uchun uzr soʻraymiz",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    },
+    {
+      "avoid": "Marketing promise",
+      "prefer": "Hayotingizni transformatsiya qiling",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    },
+    {
+      "avoid": "Marketing discover",
+      "prefer": "Imkoniyatlarni kashf eting",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    },
+    {
+      "avoid": "Marketing all",
+      "prefer": "Hammasi bir joyda",
+      "context": "Native preference quick bank (v1 verified rows kept)"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+node_modules/
+dist/
+research/corpus/
+research/corpus-mining/
+research/gov-corpus/
+research/informal-corpus/
+*.log
+.DS_Store
+.env*
+.github/workflows/

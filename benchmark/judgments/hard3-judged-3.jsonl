@@ -1,0 +1,60 @@
+{"id":"h3h-41","slot":"slot1","pass":true,"reason":"correct ʻ in soʻz; text otherwise untouched; official register intact"}
+{"id":"h3h-41","slot":"slot2","pass":false,"reason":"straight apostrophe left in 'so'z' — the very apostrophe fix the task required was not applied"}
+{"id":"h3h-41","slot":"slot3","pass":true,"reason":"correct ʻ in soʻz; text unchanged; official register intact"}
+{"id":"h3h-42","slot":"slot1","pass":true,"reason":"correct ʻ/ʼ (oʻzgaradi, eʼlon); official wording and content fully preserved"}
+{"id":"h3h-42","slot":"slot2","pass":false,"reason":"straight apostrophes left (o'zgaradi, e'lon) — required normalization not done"}
+{"id":"h3h-42","slot":"slot3","pass":true,"reason":"correct ʻ/ʼ marks; official announcement kept verbatim"}
+{"id":"h3h-43","slot":"slot1","pass":true,"reason":"no 'fabrika'; natural 'mato ishlab chiqaramiz'; meaning exact"}
+{"id":"h3h-43","slot":"slot2","pass":true,"reason":"no 'fabrika'; natural phrasing, faithful to source"}
+{"id":"h3h-43","slot":"slot3","pass":false,"reason":"invents a claim absent from source ('har bir mato sinovdan oʻtadi') — meaning-first violation"}
+{"id":"h3h-44","slot":"slot1","pass":true,"reason":"'ikki yildan beri ... quryaptilar' present; natural, correct ʻ"}
+{"id":"h3h-44","slot":"slot2","pass":false,"reason":"straight apostrophe in ko'prik (should be koʻprik)"}
+{"id":"h3h-44","slot":"slot3","pass":true,"reason":"content kept, natural word order, correct ʻ in Koʻprikni"}
+{"id":"h3h-45","slot":"slot1","pass":false,"reason":"robotic calque 'bizning asosiy ustuvorligimiz' plus em dash — not naturalized, classic AI tell"}
+{"id":"h3h-45","slot":"slot2","pass":false,"reason":"straight apostrophe in ko'rsatamiz (should be koʻrsatamiz)"}
+{"id":"h3h-45","slot":"slot3","pass":true,"reason":"natural 'Sizga sifatli xizmat koʻrsatamiz'; trap word absent; clean lint"}
+{"id":"h3h-46","slot":"slot1","pass":true,"reason":"no 'mehribonlik'/'qadrlagan holda'; 'Iltimos, ... chekmang' is the right firm-but-plain tone"}
+{"id":"h3h-46","slot":"slot2","pass":true,"reason":"calques avoided; natural polite-imperative tone"}
+{"id":"h3h-46","slot":"slot3","pass":true,"reason":"calques avoided; natural phrasing"}
+{"id":"h3h-47","slot":"slot1","pass":true,"reason":"'kechikibdi ekan' keeps evidential uncertainty; the extra clause only spells out the 'apparently'"}
+{"id":"h3h-47","slot":"slot2","pass":true,"reason":"'kechikibdi shekilli' — evidential hearsay tone kept"}
+{"id":"h3h-47","slot":"slot3","pass":true,"reason":"'kechikibdi, shekilli' — natural, uncertainty preserved"}
+{"id":"h3h-48","slot":"slot1","pass":true,"reason":"no 'interesn*'; 'qiziqarli taklif' natural Uzbek"}
+{"id":"h3h-48","slot":"slot2","pass":true,"reason":"no trap word; natural friendly marketing tone"}
+{"id":"h3h-48","slot":"slot3","pass":true,"reason":"no trap word; natural phrasing"}
+{"id":"h3h-49","slot":"slot1","pass":true,"reason":"'hattoki' fixed to 'hatto'; everything else untouched; customer voice kept"}
+{"id":"h3h-49","slot":"slot2","pass":true,"reason":"same minimal correct spell fix; text preserved"}
+{"id":"h3h-49","slot":"slot3","pass":false,"reason":"left 'hattoki' uncorrected — the required spell-check fix was not done"}
+{"id":"h3h-50","slot":"slot1","pass":true,"reason":"clear typo fixed (gaplashamiz), apostrophes normalized, chat texture and word order preserved"}
+{"id":"h3h-50","slot":"slot2","pass":false,"reason":"straight apostrophe left in bo'ldi — orthographic fix not applied"}
+{"id":"h3h-50","slot":"slot3","pass":false,"reason":"over-edited: split into sentences, added capitals and punctuation beyond the one allowed fix"}
+{"id":"h3h-51","slot":"slot1","pass":false,"reason":"over-edited: one-line mahalla announcement split into three sentences — beyond spelling fix"}
+{"id":"h3h-51","slot":"slot2","pass":false,"reason":"straight apostrophe in bo'lsin (should be boʻlsin)"}
+{"id":"h3h-51","slot":"slot3","pass":true,"reason":"minimal fix only (hammasi, ʻ marks); original rhythm and lowercase chat style preserved"}
+{"id":"h3h-52","slot":"slot1","pass":true,"reason":"only capital letter and final period added; meaning and voice untouched"}
+{"id":"h3h-52","slot":"slot2","pass":true,"reason":"same minimal cleanup; content intact, nothing to fix was missed"}
+{"id":"h3h-52","slot":"slot3","pass":true,"reason":"left verbatim — correct, since the source contains no spelling or apostrophe errors"}
+{"id":"h3h-53","slot":"slot1","pass":false,"reason":"comma-spliced review split into two sentences — beyond the allowed spelling fix"}
+{"id":"h3h-53","slot":"slot2","pass":true,"reason":"only apostrophes normalized to ʻ; wording, case and punctuation untouched"}
+{"id":"h3h-53","slot":"slot3","pass":false,"reason":"straight apostrophes kept and 'o'ring' is a wrong form of 'o'rang' — introduced a spelling error"}
+{"id":"h3h-54","slot":"slot1","pass":true,"reason":"punctuation-only edits (explicitly allowed here); correct ʻ marks; content kept"}
+{"id":"h3h-54","slot":"slot2","pass":false,"reason":"straight apostrophes in o'yin/g'alabasi (should be oʻyin, gʻalabasi)"}
+{"id":"h3h-54","slot":"slot3","pass":true,"reason":"minimal: apostrophes fixed to ʻ, punctuation and case left as in source"}
+{"id":"h3h-55","slot":"slot1","pass":true,"reason":"no dashes; all four metaphors kept; flows naturally; correct ʼ in qalʼamiz/neʼmat"}
+{"id":"h3h-55","slot":"slot2","pass":true,"reason":"no dashes; meaning fully preserved in compact natural form; correct ʼ"}
+{"id":"h3h-55","slot":"slot3","pass":false,"reason":"straight apostrophe in qal'a (should be qalʼa) — incorrect mark"}
+{"id":"h3h-56","slot":"slot1","pass":true,"reason":"plain unspaced hyphen in numeric range is not a dash; content kept; Toʻlov correct"}
+{"id":"h3h-56","slot":"slot2","pass":false,"reason":"straight apostrophes (o'tiladi, To'lov, so'mdan) — marks not normalized"}
+{"id":"h3h-56","slot":"slot3","pass":true,"reason":"hyphen ranges acceptable, no en/em dashes; correct ʻ in Toʻlov"}
+{"id":"h3h-57","slot":"slot1","pass":true,"reason":"no dashes; steps flow as natural prose; roʻyxat/profil/buyurtma all kept; correct ʻ"}
+{"id":"h3h-57","slot":"slot2","pass":false,"reason":"straight apostrophes (ro'yxatdan, o'tish, so'm) — incorrect marks"}
+{"id":"h3h-57","slot":"slot3","pass":true,"reason":"no dashes; natural recomposition with avval/keyin/soʻng; all content kept"}
+{"id":"h3h-58","slot":"slot1","pass":true,"reason":"chat tone kept ('boʻladi-ku'); no dashes; content kept"}
+{"id":"h3h-58","slot":"slot2","pass":false,"reason":"straight apostrophe in bo'ladi-ku (should be boʻladi-ku)"}
+{"id":"h3h-58","slot":"slot3","pass":true,"reason":"lowercase chat voice preserved, no dashes, correct ʻ"}
+{"id":"h3h-59","slot":"slot1","pass":false,"reason":"'5 kun' changed to '5 ish kuni' — deadline meaning altered; plus officialese padding 'qilib belgilandi'"}
+{"id":"h3h-59","slot":"slot2","pass":false,"reason":"straight apostrophe in so'm (should be soʻm)"}
+{"id":"h3h-59","slot":"slot3","pass":true,"reason":"faithful, official, dash-free; correct ʻ in soʻm; all key items kept"}
+{"id":"h3h-60","slot":"slot1","pass":true,"reason":"no dashes; all four points rendered naturally; correct ʻ in Oʻrnatish/Qoʻllab"}
+{"id":"h3h-60","slot":"slot2","pass":false,"reason":"straight apostrophes (O'rnatish, Qo'llab-quvvatlash) — marks not normalized"}
+{"id":"h3h-60","slot":"slot3","pass":true,"reason":"natural paraphrase covering all four points; no dashes; varied rhythm"}

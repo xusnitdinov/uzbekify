@@ -1,0 +1,100 @@
+{"id": "rt-001", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Amaldagi qonunchilikka muvofiq, fuqarolar murojaatlari koʻrib chiqiladi.", "good": "Qonunga koʻra murojaatlarni koʻrib chiqamiz."}
+{"id": "rt-002", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Tadbirkorlik subyektlari uchun qoʻshimcha imkoniyatlar yaratildi.", "good": "Tadbirkorlar uchun yangi imkoniyat ochildi."}
+{"id": "rt-003", "set": "redteam", "kind": "miss", "register": "news", "initial": "miss", "bad": "Viloyat hududida obodonlashtirish ishlari olib borilmoqda.", "good": "Viloyatda obodonlashtirish ishlari boryapti."}
+{"id": "rt-004", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Yuqorida sanab oʻtilgan holatlar hisobga olingan holda qaror qilinadi.", "good": "Yuqoridagilarni hisobga olib qaror qilamiz."}
+{"id": "rt-006", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Ariza koʻrib chiqish natijalari boʻyicha xabar beriladi.", "good": "Ariza natijasini xabar qilamiz."}
+{"id": "rt-007", "set": "redteam", "kind": "miss", "register": "news", "initial": "miss", "bad": "Yoʻl qoʻyilgan kamchiliklar bartaraf etildi.", "good": "Xatolar tuzatildi."}
+{"id": "rt-011", "set": "redteam", "kind": "miss", "register": "news", "initial": "miss", "bad": "Qabul qilingan qarorlar ijrosi taʼminlandi.", "good": "Qarorlar ijro etildi."}
+{"id": "rt-012", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Davlat dasturi doirasida mablagʻlar ajratildi.", "good": "Davlat dasturidan mablagʻ ajratildi."}
+{"id": "rt-013", "set": "redteam", "kind": "miss", "register": "news", "initial": "miss", "bad": "Hisob kitoblar yakuniy hisobotda aks ettirildi.", "good": "Hisob kitoblar yakuniy hisobotga kirdi."}
+{"id": "rt-014", "set": "redteam", "kind": "miss", "register": "chat", "initial": "miss", "bad": "Salom! Men sizning savolingizga javob topdim va uni taqdim etaman.", "good": "Salom! Javobni topdim:"}
+{"id": "rt-015", "set": "redteam", "kind": "miss", "register": "chat", "initial": "miss", "bad": "Rahmat! Sizning murojaatingiz uchun minnatdorman.", "good": "Rahmat!"}
+{"id": "rt-016", "set": "redteam", "kind": "miss", "register": "chat", "initial": "miss", "bad": "Menimcha, bu masala boʻyicha sizga yordam bera olaman deb oʻylayman.", "good": "Bunda yordam bera olaman."}
+{"id": "rt-017", "set": "redteam", "kind": "miss", "register": "chat", "initial": "miss", "bad": "Albatta, men buni tez orada hal qilishga harakat qilaman.", "good": "Hal qilaman, kutib turing."}
+{"id": "rt-018", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Sizning soʻrovingiz muvaffaqiyatli roʻyxatdan oʻtkazildi.", "good": "Roʻyxatdan oʻtdingiz."}
+{"id": "rt-019", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Buyurtmangiz qabul qilinishi uchun zarur maʼlumotlar kiritildi.", "good": "Buyurtma qabul qilindi."}
+{"id": "rt-021", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Xizmat koʻrsatish sifatini oshirish maqsadida yangilanish kiritildi.", "good": "Xizmatni yaxshilash uchun yangiladik."}
+{"id": "rt-031", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Ochiladi -- yangi imkoniyat.", "good": "Yangi imkoniyat ochiladi."}
+{"id": "rt-051", "set": "redteam", "kind": "fp", "register": "news", "initial": "false-positive", "good": "Toshkentda yongʻin chiqdi — tafsilotlar"}
+{"id": "rt-052", "set": "redteam", "kind": "fp", "register": "legal", "initial": "false-positive", "good": "Xizmat mavjud holatda taqdim etiladi; zarar uchun kafolat bermaymiz."}
+{"id": "rt-053", "set": "redteam", "kind": "fp", "register": "marketing", "initial": "false-positive", "good": "Bugunoq boshlashingiz mumkin - Siz uchun qisqa va aniq."}
+{"id": "rt-054", "set": "redteam", "kind": "fp", "register": "quiz", "initial": "false-positive", "good": "Guruh ishi oʻxshamadi - nima qilasiz?"}
+{"id": "rt-056", "set": "redteam", "kind": "fp", "register": "product", "initial": "false-positive", "good": "I visited Samarkand and Bukhara last year, amazing trip."}
+{"id": "rt-057", "set": "redteam", "kind": "fp", "register": "legal", "initial": "false-positive", "good": "Shartnoma tomonlar tomonidan imzolanishi kerak."}
+{"id": "rt-058", "set": "redteam", "kind": "fp", "register": "legal", "initial": "false-positive", "good": "Ariza koʻrib chiqiladi va natija xabar qilinadi. Qaror qabul qilinadi. Shartnoma imzolanadi."}
+{"id": "rt-059", "set": "redteam", "kind": "fp", "register": "academic", "initial": "false-positive", "good": "Umumiy olganda, tadqiqot natijalari farazni tasdiqladi."}
+{"id": "rt-060", "set": "redteam", "kind": "fp", "register": "legal", "initial": "false-positive", "good": "Belgilangan tartibda hujjatlar topshirilishi shart."}
+{"id": "rt-063", "set": "redteam", "kind": "fp", "register": "academic", "initial": "false-positive", "good": "Mazkur masala bir necha tadqiqotlarda oʻrganilgan."}
+{"id": "rt-070", "set": "redteam", "kind": "fp", "register": "academic", "initial": "false-positive", "good": "Tahlil natijasida — muhim farqlar aniqlandi."}
+{"id": "rt-071", "set": "redteam", "kind": "fp", "register": "news", "initial": "false-positive", "good": "Prezident tashabbusni qoʻllab-quvvatladi — tafsilotlar"}
+{"id": "rt-077", "set": "redteam", "kind": "fp", "register": "marketing", "initial": "false-positive", "good": "Tez, sodda va qulay platforma."}
+{"id": "rt-081", "set": "redteam", "kind": "fp", "register": "news", "initial": "false-positive", "good": "Vazirlik tomonidan yangi qoidalar eʼlon qilindi, deya xabar qilindi."}
+{"id": "rt-082", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Ishga kirish — 5 daqiqada.", "good": "Ishga kirish 5 daqiqada."}
+{"id": "rt-087", "set": "redteam", "kind": "fp", "register": "product", "initial": "false-positive", "good": "Yangi versiya chiqdi. Sinab koʻring."}
+{"id": "rt-096", "set": "redteam", "kind": "fp", "register": "news", "initial": "false-positive", "good": "Toshkentda yangi metro bekati ochildi — tafsilotlar"}
+{"id": "rt-102", "set": "redteam", "kind": "miss", "register": "news", "initial": "miss", "bad": "Hududlarda ijtimoiy infratuzilma obyektlari barpo etildi.", "good": "Hududlarda maktab va klinika qurildi."}
+{"id": "rt-103", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Tadbirda ishtirokchilar tomonidan bir qator takliflar ilgari surildi.", "good": "Tadbirda ishtirokchilar bir qator taklif berdi."}
+{"id": "rt-105", "set": "redteam", "kind": "miss", "register": "marketing", "initial": "miss", "bad": "Sizning ehtiyojlaringizga mos individual yondashuv asosida xizmat koʻrsatamiz.", "good": "Ehtiyojingizga moslab xizmat beramiz."}
+{"id": "rt-106", "set": "redteam", "kind": "miss", "register": "chat", "initial": "miss", "bad": "Sizning habaringizni koʻrib chiqdim va tahlil qildim.", "good": "Xabaringizni oʻqib chiqdim."}
+{"id": "rt-107", "set": "redteam", "kind": "miss", "register": "chat", "initial": "miss", "bad": "Men sizga bu masala boʻyicha toʻliq maʼlumot berishim mumkin.", "good": "Bu borada toʻliq aytib beraman."}
+{"id": "rt-111", "set": "redteam", "kind": "miss", "register": "news", "initial": "miss", "bad": "Kelgusi yilda qoʻshimcha mablagʻlar ajratilishi rejalashtirilgan.", "good": "Kelgusi yilda qoʻshimcha pul ajratish rejalashtirilgan."}
+{"id": "rt-112", "set": "redteam", "kind": "miss", "register": "marketing", "initial": "miss", "bad": "Sizning kutishingizga mos eng zamonaviy va innovatsion yechimlar.", "good": "Sizga mos zamonaviy yechimlar."}
+{"id": "rt-115", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Keyingi qadamlar boʻyicha yoʻl-yoʻriq beriladi.", "good": "Keyingi qadamlarni aytamiz."}
+{"id": "rt-118", "set": "redteam", "kind": "fp", "register": "academic", "initial": "false-positive", "good": "Ushbu maqolada masala batafsil tahlil qilinadi."}
+{"id": "rt-121", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Amaldagi qonunchilikka muvofiq barcha murojaatlar roʻyxatga olinadi.", "good": "Qonunga koʻra murojaatlarni roʻyxatga olamiz."}
+{"id": "rt-122", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Tadbirkorlik subyektlari uchun yangi imkoniyatlar ochildi.", "good": "Tadbirkorlar uchun yangi imkoniyat ochildi."}
+{"id": "rt-123", "set": "redteam", "kind": "miss", "register": "news", "initial": "miss", "bad": "Shahar hududida koʻkalamzorlashtirish ishlari olib borilmoqda.", "good": "Shaharda koʻkalamzorlashtirish ishlari boryapti."}
+{"id": "rt-124", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Yoʻl qoʻyilgan qoidabuzarliklar qayta koʻrib chiqiladi.", "good": "Qoidabuzarliklarni qayta koʻrib chiqadi."}
+{"id": "rt-125", "set": "redteam", "kind": "miss", "register": "news", "initial": "miss", "bad": "Loyiha ijrosi toʻliq taʼminlandi.", "good": "Loyiha toʻliq bajarildi."}
+{"id": "rt-126", "set": "redteam", "kind": "miss", "register": "news", "initial": "miss", "bad": "Natijalar yakuniy hisobotga aks ettirildi.", "good": "Natijalar yakuniy hisobotga kirdi."}
+{"id": "rt-127", "set": "redteam", "kind": "miss", "register": "chat", "initial": "miss", "bad": "Savolingiz boʻyicha toʻliq maʼlumot berishim mumkin.", "good": "Savolingizga toʻliq javob beraman."}
+{"id": "rt-129", "set": "redteam", "kind": "miss", "register": "chat", "initial": "miss", "bad": "Rahmat, sizning xabaringiz uchun tashakkurlar bildiramiz.", "good": "Rahmat!"}
+{"id": "rt-130", "set": "redteam", "kind": "miss", "register": "chat", "initial": "miss", "bad": "Men bu masalani hal qilishga harakat qilaman.", "good": "Hal qilaman."}
+{"id": "rt-131", "set": "redteam", "kind": "miss", "register": "chat", "initial": "miss", "bad": "Javobimni quyida taqdim etaman.", "good": "Javob:"}
+{"id": "rt-132", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Soʻrovingiz muvaffaqiyatli qabul qilindi.", "good": "Soʻrov qabul qildik."}
+{"id": "rt-133", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Maʼlumotlaringiz tizim tomonidan saqlanadi.", "good": "Maʼlumotlaringizni tizimda saqlaymiz."}
+{"id": "rt-135", "set": "redteam", "kind": "miss", "register": "marketing", "initial": "miss", "bad": "Eng zamonaviy va innovatsion yechimlar sizni kutmoqda.", "good": "Zamonaviy yechimlar sizni kutmoqda."}
+{"id": "rt-136", "set": "redteam", "kind": "miss", "register": "marketing", "initial": "miss", "bad": "Individual yondashuv asosida xizmat koʻrsatamiz.", "good": "Ehtiyojingizga moslab xizmat beramiz."}
+{"id": "rt-137", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Keyingi qadamlar boʻyicha yoʻl-yoʻriq beriladi.", "good": "Keyingi qadamlarni aytamiz."}
+{"id": "rt-138", "set": "redteam", "kind": "miss", "register": "news", "initial": "miss", "bad": "Kelgusi davrda qoʻshimcha mablagʻlar ajratilishi rejalashtirilgan.", "good": "Kelgusi davrda qoʻshimcha pul ajratish rejalashtirilgan."}
+{"id": "rt-139", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Yangi binolar barpo etildi va foydalanishga topshirildi.", "good": "Yangi binolar qurilib, foydalanishga berildi."}
+{"id": "rt-143", "set": "redteam", "kind": "fp", "register": "news", "initial": "false-positive", "good": "Samarqandda tarixiy obida restavratsiya qilindi — tafsilotlar"}
+{"id": "rt-144", "set": "redteam", "kind": "fp", "register": "news", "initial": "false-positive", "good": "Quyidagi rejissyor yangi film suratga oldi — intervyu"}
+{"id": "rt-145", "set": "redteam", "kind": "fp", "register": "legal", "initial": "false-positive", "good": "Taraflar oʻz majburiyatlarini bajaradilar; buzilishi hal qilish tartibini belgilaydi."}
+{"id": "rt-149", "set": "redteam", "kind": "fp", "register": "academic", "initial": "false-positive", "good": "Ushbu boʻlimda natijalar tahlil qilinadi."}
+{"id": "rt-150", "set": "redteam", "kind": "fp", "register": "academic", "initial": "false-positive", "good": "Mazkur yondashuv bir qator tadqiqotlarda qoʻllangan."}
+{"id": "rt-151", "set": "redteam", "kind": "fp", "register": "news", "initial": "false-positive", "good": "Vazirlik tomonidan yangi yoʻriqnoma qabul qilindi."}
+{"id": "rt-152", "set": "redteam", "kind": "fp", "register": "news", "initial": "false-positive", "good": "Qoidalar hukumat tomonidan tasdiqlandi, deya maʼlum qilindi."}
+{"id": "rt-153", "set": "redteam", "kind": "fp", "register": "legal", "initial": "false-positive", "good": "Ariza koʻrib chiqiladi; natija xabar qilinadi; shartnoma imzolanadi."}
+{"id": "rt-154", "set": "redteam", "kind": "fp", "register": "official", "initial": "false-positive", "good": "Chora-tadbirlar rejalashtirildi va amalga oshirildi."}
+{"id": "rt-160", "set": "redteam", "kind": "fp", "register": "product", "initial": "false-positive", "good": "We visited Tashkent last summer and loved the food."}
+{"id": "rt-161", "set": "redteam", "kind": "fp", "register": "product", "initial": "false-positive", "good": "Bukhara is a UNESCO site; Samarkand too."}
+{"id": "rt-162", "set": "redteam", "kind": "fp", "register": "academic", "initial": "false-positive", "good": "Umumiy olganda, natijalar farazni qoʻllab-quvvatladi."}
+{"id": "rt-167", "set": "redteam", "kind": "fp", "register": "product", "initial": "false-positive", "good": "Sinab koʻring va natijani koʻring."}
+{"id": "rt-168", "set": "redteam", "kind": "fp", "register": "product", "initial": "false-positive", "good": "Urinib koʻring, ishlaydi."}
+{"id": "rt-172", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Chiroqlar yonib-oʻchadi; sozlamalarni tekshiring.", "good": "Chiroqlar yonib-oʻchadi. Sozlamalarni tekshiring."}
+{"id": "rt-177", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Kichik biznes subyektlari uchun chegirmalar mavjud.", "good": "Kichik biznes uchun chegirma bor."}
+{"id": "rt-178", "set": "redteam", "kind": "miss", "register": "news", "initial": "miss", "bad": "Tuman hududida yoʻl taʼmirlash ishlari bajarilmoqda.", "good": "Tumanda yoʻl taʼmirlanmoqda."}
+{"id": "rt-179", "set": "redteam", "kind": "miss", "register": "news", "initial": "miss", "bad": "Kamchiliklar oʻz vaqtida bartaraf etildi.", "good": "Kamchiliklar oʻz vaqtida tuzatildi."}
+{"id": "rt-180", "set": "redteam", "kind": "miss", "register": "news", "initial": "miss", "bad": "Dastur ijrosi toʻliq taʼminlandi.", "good": "Dastur toʻliq bajarildi."}
+{"id": "rt-181", "set": "redteam", "kind": "miss", "register": "news", "initial": "miss", "bad": "Reja koʻrsatkichlari hisobotga aks ettirildi.", "good": "Reja koʻrsatkichlari hisobotga kirdi."}
+{"id": "rt-182", "set": "redteam", "kind": "miss", "register": "chat", "initial": "miss", "bad": "Xabaringizni oldim va uni batafsil tahlil qildim.", "good": "Xabaringizni oʻqib chiqdim."}
+{"id": "rt-184", "set": "redteam", "kind": "miss", "register": "chat", "initial": "miss", "bad": "Muammoni hal qilishga harakat qilamiz.", "good": "Muammoni hal qilamiz."}
+{"id": "rt-185", "set": "redteam", "kind": "miss", "register": "chat", "initial": "miss", "bad": "Javobni quyida taqdim etaman.", "good": "Javob pastda."}
+{"id": "rt-186", "set": "redteam", "kind": "miss", "register": "chat", "initial": "miss", "bad": "Murojaatingiz uchun minnatdorchilik bildiramiz.", "good": "Rahmat!"}
+{"id": "rt-187", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Toʻlovingiz muvaffaqiyatli roʻyxatdan oʻtkazildi.", "good": "Toʻlov qabul qilindi."}
+{"id": "rt-188", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Buyurtma qabul qilinishi uchun shartlar bajarildi.", "good": "Buyurtma shartlari bajarildi, qabul qildik."}
+{"id": "rt-191", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Xavfsizlikni taʼminlash maqsadida yangi qoidalar joriy etildi.", "good": "Xavfsizlik uchun yangi qoida qoʻydik."}
+{"id": "rt-192", "set": "redteam", "kind": "miss", "register": "news", "initial": "miss", "bad": "Yangi maktab binosi barpo etildi.", "good": "Yangi maktab binosi qurildi."}
+{"id": "rt-193", "set": "redteam", "kind": "miss", "register": "news", "initial": "miss", "bad": "Kelgusi yilga qoʻshimcha xarajatlar ajratilishi rejalashtirilgan.", "good": "Kelgusi yilga qoʻshimcha pul ajratish rejalashtirilgan."}
+{"id": "rt-194", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Eskirgan uskunalar yangilari bilan almashtirildi va foydalanishga topshirildi.", "good": "Eskirgan uskunalarni yangilab, foydalanishga berdik."}
+{"id": "rt-195", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Yoʻl-yoʻriq beriladi va keyingi qadamlar belgilanadi.", "good": "Keyingi qadamlarni aytamiz."}
+{"id": "rt-197", "set": "redteam", "kind": "fp", "register": "news", "initial": "false-positive", "good": "Andijonda zilzila qayd etildi — tafsilotlar"}
+{"id": "rt-198", "set": "redteam", "kind": "fp", "register": "news", "initial": "false-positive", "good": "Yangi yoʻriqnoma tasdiqlandi — hujjat"}
+{"id": "rt-199", "set": "redteam", "kind": "fp", "register": "legal", "initial": "false-positive", "good": "Taraflar oʻzaro kelishuvga erishadilar; nizolar sud tartibida koʻriladi."}
+{"id": "rt-202", "set": "redteam", "kind": "fp", "register": "academic", "initial": "false-positive", "good": "Ushbu tadqiqot doirasida uch guruh qamrab olindi."}
+{"id": "rt-204", "set": "redteam", "kind": "fp", "register": "legal", "initial": "false-positive", "good": "Shartnoma muddati uzaytiriladi; qoʻshimcha shartlar kiritiladi."}
+{"id": "rt-207", "set": "redteam", "kind": "fp", "register": "product", "initial": "false-positive", "good": "The Khiva trip was unforgettable."}
+{"id": "rt-208", "set": "redteam", "kind": "fp", "register": "academic", "initial": "false-positive", "good": "Umumiy olganda, tadqiqot farazni tasdiqladi."}
+{"id": "rt-209", "set": "redteam", "kind": "fp", "register": "product", "initial": "false-positive", "good": "Sinab koʻring, ishlaydi."}
+{"id": "rt-212", "set": "redteam", "kind": "miss", "register": "product", "initial": "miss", "bad": "Sizning xabaringiz muvaffaqiyatli qayta ishlandi.", "good": "Xabaringizni koʻrib chiqdik."}

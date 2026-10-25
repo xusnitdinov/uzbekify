@@ -1,0 +1,40 @@
+{"id": "x-001", "set": "codemixed", "bad": "Men bugun meeting qildim va boss bilan gaplashdim.", "good": "Men bugun yigʻilish qildim va rahbar bilan gaplashdim."}
+{"id": "x-002", "set": "codemixed", "bad": "Deadline yaqinlashmoqda, task ni complete qilishim kerak.", "good": "Muddat yaqinlashmoqda, vazifani tugatishim kerak."}
+{"id": "x-003", "set": "codemixed", "bad": "Project ni update qilib, team ga send qilaman.", "good": "Loyihani yangilab, jamoaga yuboraman."}
+{"id": "x-004", "set": "codemixed", "bad": "Feedback berishingiz kerak, lekin check qilib keyin.", "good": "Fikr bildirishingiz kerak, lekin tekshirib keyin."}
+{"id": "x-005", "set": "codemixed", "bad": "Karoche, bugun meeting yoʻq, vapshe dam olamiz.", "good": "Qisqasi, bugun yigʻilish yoʻq, dam olamiz."}
+{"id": "x-006", "set": "codemixed", "bad": "Report ni skachat qilib, boss ga peredat qil.", "good": "Hisobotni yuklab olib, rahbarga uzat."}
+{"id": "x-007", "set": "codemixed", "bad": "Mening account im bloklangan, support ga yozdim.", "good": "Akkauntim bloklangan, yordam xizmatiga yozdim."}
+{"id": "x-008", "set": "codemixed", "bad": "Ilova update keldi, lekin hali ishlamayapti.", "good": "Ilova yangilandi, lekin hali ishlamayapti."}
+{"id": "x-009", "set": "codemixed", "bad": "Login qilib, parol ni change qilishingiz kerak.", "good": "Kirib, parolni oʻzgartirishingiz kerak."}
+{"id": "x-010", "set": "codemixed", "bad": "Buyurtma zakaz boʻldi, skidka ham qoʻshildi.", "good": "Buyurtma berildi, chegirma ham qoʻshildi."}
+{"id": "x-011", "set": "codemixed", "bad": "Bankaga borib, plastik ni olib, balance ni tekshirdim.", "good": "Bankka borib, kartani olib, balansni tekshirdim."}
+{"id": "x-012", "set": "codemixed", "bad": "Nomer ingizni yozing, code ni yuboramiz.", "good": "Raqamingizni yozing, kodni yuboramiz."}
+{"id": "x-013", "set": "codemixed", "bad": "File ni open qilib, text ni edit qiling.", "good": "Faylni ochib, matnni tahrirlang."}
+{"id": "x-014", "set": "codemixed", "bad": "Save qilishni unutmang, keyin share qilamiz.", "good": "Saqlashni unutmang, keyin ulashamiz."}
+{"id": "x-015", "set": "codemixed", "bad": "Bu app zoʻr, download qilib sinab koʻring.", "good": "Bu ilova zoʻr, yuklab olib sinab koʻring."}
+{"id": "x-016", "set": "codemixed", "bad": "Wi-Fi ga ulaning va cookie larni qabul qiling.", "good": "Wi-Fiʼga ulaning va cookie sozlamalarini qabul qiling."}
+{"id": "x-017", "set": "codemixed", "bad": "Email ingizni kiriting va OTP ni kuting.", "good": "Email manzilingizni kiriting va OTP kodini kuting."}
+{"id": "x-018", "set": "codemixed", "bad": "Promokod ni enter qilsangiz, discount oling.", "good": "Promokodni kiritsangiz, chegirma olasiz."}
+{"id": "x-019", "set": "codemixed", "bad": "Order status ni check qilib, delivery ni kuting.", "good": "Buyurtma holatini tekshirib, yetkazib berishni kuting."}
+{"id": "x-020", "set": "codemixed", "bad": "Account ni delete qilish uchun support ga call qiling.", "good": "Hisobni oʻchirish uchun yordam xizmatiga qoʻngʻiroq qiling."}
+{"id": "x-021", "set": "codemixed", "bad": "Toʻlov muvaffaqiyatli, спасибо!", "good": "Toʻlov muvaffaqiyatli oʻtdi, rahmat!"}
+{"id": "x-022", "set": "codemixed", "bad": "Xato: файл topilmadi.", "good": "Xato: fayl topilmadi."}
+{"id": "x-023", "set": "codemixed", "bad": "Parol неверный, qayta urining.", "good": "Parol notoʻgʻri, qayta urinib koʻring."}
+{"id": "x-024", "set": "codemixed", "bad": "Buyurtma доставляется, kuting.", "good": "Buyurtma yetkazilmoqda, kuting."}
+{"id": "x-025", "set": "codemixed", "bad": "Balans пополняется bir necha daqiqada.", "good": "Balans bir necha daqiqada toʻldiriladi."}
+{"id": "x-026", "set": "codemixed", "bad": "Ilova обновлена, yangi versiya.", "good": "Ilova yangilandi."}
+{"id": "x-027", "set": "codemixed", "bad": "Kod отправлен raqamingizga.", "good": "Kod raqamingizga yuborildi."}
+{"id": "x-028", "set": "codemixed", "bad": "Sessiya истекла, qayta kiring.", "good": "Sessiya tugadi, qayta kiring."}
+{"id": "x-029", "set": "codemixed", "bad": "Rasm сохранена galereyada.", "good": "Rasm galereyaga saqlandi."}
+{"id": "x-030", "set": "codemixed", "bad": "SMS не отправлено, qayta urinib koʻring.", "good": "SMS yuborilmadi, qayta urinib koʻring."}
+{"id": "x-031", "set": "codemixed", "bad": "Profilобновлен muvaffaqiyatli.", "good": "Profil muvaffaqiyatli yangilandi."}
+{"id": "x-032", "set": "codemixed", "bad": "Buyurtmaпринята, rahmat.", "good": "Buyurtma qabul qilindi, rahmat."}
+{"id": "x-033", "set": "codemixed", "bad": "Toʻlovотменен sababsiz.", "good": "Toʻlov bekor qilindi."}
+{"id": "x-034", "set": "codemixed", "bad": "Karoche, men bugun boss bilan meeting qildim va project ni ship qilishga qaror qildiklar.", "good": "Qisqasi, men bugun rahbar bilan yigʻilish qildim va loyihani ishga tushirishga qaror qildik."}
+{"id": "x-035", "set": "codemixed", "bad": "Deadline boʻyicha task ni check qilib, feedback ni send qiling, muvofiq ravishda update ham boʻladi.", "good": "Muddat boʻyicha vazifani tekshirib, fikringizni yuboring. Yangilanish ham boʻladi."}
+{"id": "x-036", "set": "codemixed", "bad": "Hurmatli foydalanuvchi, sizning account ingiz bloklandi, support ga murojaat qiling.", "good": "Akkauntingiz bloklandi, yordam xizmatiga murojaat qiling."}
+{"id": "x-037", "set": "codemixed", "bad": "Ilova umuman ishlamayapti: login yoʻq, payment yoʻq, vapshe hammasi buzuq.", "good": "Ilova umuman ishlamayapti: kirish ham, toʻlov ham ishlamaydi."}
+{"id": "x-038", "set": "codemixed", "bad": "Meeting start qilamizmi yoki kutasizmi, karoche qaror sizniki.", "good": "Yigʻilishni boshlaymizmi yoki kutamizmi, qaror sizniki."}
+{"id": "x-039", "set": "codemixed", "bad": "Yangi feature ship boʻldi, vibe tekshirib koʻring, kruto chiqdi.", "good": "Yangi imkoniyat ishga tushdi, sinab koʻring, juda yoqdi."}
+{"id": "x-040", "set": "codemixed", "bad": "Report ni udalit qilib, yangi file ni skachat qilasizmi?", "good": "Hisobotni oʻchirib, yangi faylni yuklab olasizmi?"}

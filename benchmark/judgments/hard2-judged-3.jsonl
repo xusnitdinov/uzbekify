@@ -1,0 +1,60 @@
+{"id":"hd2-41","slot":"slot1","pass":true,"reason":"Text untouched, official register, proper ʻ marks; approx_input 1.0"}
+{"id":"hd2-41","slot":"slot2","pass":true,"reason":"Text untouched, official register, proper ʻ marks; approx_input 1.0"}
+{"id":"hd2-41","slot":"slot3","pass":false,"reason":"Tutuq belgisi downgraded to straight ' in so'm — incorrect mark for formal bank text"}
+{"id":"hd2-42","slot":"slot1","pass":true,"reason":"Unchanged, official tone intact; taklif/amal qiladi/birlashtirilmaydi all present"}
+{"id":"hd2-42","slot":"slot2","pass":true,"reason":"Unchanged, official tone intact; required terms present"}
+{"id":"hd2-42","slot":"slot3","pass":true,"reason":"Unchanged, official tone intact; required terms present"}
+{"id":"hd2-43","slot":"slot1","pass":true,"reason":"oilaviy used, no familiya; clean minimal rendering"}
+{"id":"hd2-43","slot":"slot2","pass":true,"reason":"oilaviy used, no familiya; clean minimal rendering"}
+{"id":"hd2-43","slot":"slot3","pass":false,"reason":"Em dash plus added clause not in source — AI-style embellishment (also straight ' in a'zolari)"}
+{"id":"hd2-44","slot":"slot1","pass":true,"reason":"2019-yildan beri ... ishlaydi — correct aspect form"}
+{"id":"hd2-44","slot":"slot2","pass":true,"reason":"2019-yildan beri ... ishlaydi — correct aspect form"}
+{"id":"hd2-44","slot":"slot3","pass":true,"reason":"Correct form; 'bu yerda' a natural variant of 'shu yerda'"}
+{"id":"hd2-45","slot":"slot1","pass":true,"reason":"No moment*; 'bir zumda' natural replacement; proper ʻ"}
+{"id":"hd2-45","slot":"slot2","pass":true,"reason":"No moment*; natural imperative, lint clean; proper ʻ"}
+{"id":"hd2-45","slot":"slot3","pass":false,"reason":"Straight ' in To'lov — incorrect tutuq belgisi"}
+{"id":"hd2-46","slot":"slot1","pass":false,"reason":"'Zahmatingiz boʻlsa' breaks the idiom — should be 'boʻlmasa'; meaning inverted (if you have trouble, send)"}
+{"id":"hd2-46","slot":"slot2","pass":true,"reason":"Formal-but-simple request tone; yubor present; no over-formal traps"}
+{"id":"hd2-46","slot":"slot3","pass":true,"reason":"Simple polite iltimos request; natural and correct"}
+{"id":"hd2-47","slot":"slot1","pass":true,"reason":"mish-mish kept, uncertainty preserved, colloquial voice"}
+{"id":"hd2-47","slot":"slot2","pass":false,"reason":"Em dash after 'tarqaldi' — dash tell (plus straight ' marks)"}
+{"id":"hd2-47","slot":"slot3","pass":true,"reason":"mish-mish kept, uncertainty kept, proper ʻ marks"}
+{"id":"hd2-48","slot":"slot1","pass":true,"reason":"dolzarb used, no aktual*; meaning preserved in natural paraphrase"}
+{"id":"hd2-48","slot":"slot2","pass":false,"reason":"Drifts to 'eng dolzarb mavzularidan biri' (stronger claim) and repeats mavzu — clumsy"}
+{"id":"hd2-48","slot":"slot3","pass":true,"reason":"Clean naturalization; dolzarb kept, meaning intact"}
+{"id":"hd2-49","slot":"slot1","pass":true,"reason":"Spelling fixed (yeyapti, developerlarga, Cyrillic а), quirky word order kept — voice preserved"}
+{"id":"hd2-49","slot":"slot2","pass":false,"reason":"eyepti 'fixed' to eyapti — still nonstandard; error not actually corrected"}
+{"id":"hd2-49","slot":"slot3","pass":false,"reason":"Beyond spelling fix: reordered clause and swapped developerlarga→dasturchilarga, losing the user's voice"}
+{"id":"hd2-50","slot":"slot1","pass":true,"reason":"Only guru'dan→guruhdan fixed, marks normalized, lowercase no-period style kept"}
+{"id":"hd2-50","slot":"slot2","pass":false,"reason":"Kept straight ' marks (bo'ladimi, yo'qmi, so'rab) — incorrect tutuq belgisi"}
+{"id":"hd2-50","slot":"slot3","pass":false,"reason":"Capital Ertaga and final period go beyond the single permitted fix ('qolganini tegmang')"}
+{"id":"hd2-51","slot":"slot1","pass":true,"reason":"Apostrophes fixed to ʻ, nothing else touched"}
+{"id":"hd2-51","slot":"slot2","pass":false,"reason":"Task was apostrophe/spelling check; straight ' left unchanged"}
+{"id":"hd2-51","slot":"slot3","pass":false,"reason":"Capital Y and final period beyond 'apostrof va imlo tekshiruvidan boshqa hech narsa'"}
+{"id":"hd2-52","slot":"slot1","pass":false,"reason":"Reworked the garbled word into 'hamon zoʻr' plus capital/period/! — beyond the one-word spelling fix"}
+{"id":"hd2-52","slot":"slot2","pass":false,"reason":"'ham ozu' does not fix the garbled word (should be hamyonbop)"}
+{"id":"hd2-52","slot":"slot3","pass":true,"reason":"Exactly one word fixed to hamyonbop; rest untouched, style preserved"}
+{"id":"hd2-53","slot":"slot1","pass":true,"reason":"Apostrophes fixed to ʻ; content and casual voice untouched"}
+{"id":"hd2-53","slot":"slot2","pass":false,"reason":"Straight ' kept — the apostrophe check was not done"}
+{"id":"hd2-53","slot":"slot3","pass":true,"reason":"Apostrophes fixed, meaning identical; sentence capital is standard imlo, content untouched"}
+{"id":"hd2-54","slot":"slot1","pass":true,"reason":"Only punctuation fixed (period after toza); lowercase opening style preserved"}
+{"id":"hd2-54","slot":"slot2","pass":false,"reason":"Capitalized opening word Yangi — not a tinish belgisi, beyond punctuation-only scope"}
+{"id":"hd2-54","slot":"slot3","pass":false,"reason":"Same: capitalized opening word beyond the punctuation-only fix"}
+{"id":"hd2-55","slot":"slot1","pass":true,"reason":"All dashes removed naturally; maqsad/xizmat/narx/tanlov kept; farovonligingiz corrected"}
+{"id":"hd2-55","slot":"slot2","pass":true,"reason":"No dashes; natural flow; all keywords kept (mild intensifiers acceptable)"}
+{"id":"hd2-55","slot":"slot3","pass":true,"reason":"No dashes; natural; keywords kept"}
+{"id":"hd2-56","slot":"slot1","pass":true,"reason":"Time ranges converted to dan...gacha; numeric 10-50 hyphen acceptable; proper ʻ"}
+{"id":"hd2-56","slot":"slot2","pass":true,"reason":"Ranges converted naturally; no dash violation; proper ʻ"}
+{"id":"hd2-56","slot":"slot3","pass":false,"reason":"so'mdan/so'mgacha use straight ' — incorrect tutuq belgisi"}
+{"id":"hd2-57","slot":"slot1","pass":true,"reason":"Dashes removed; content faithful (chegirma, 15-yanvar, Joylar kept)"}
+{"id":"hd2-57","slot":"slot2","pass":false,"reason":"Invents a call to action 'bugun roʻyxatdan oʻting' not present in source"}
+{"id":"hd2-57","slot":"slot3","pass":true,"reason":"Dashes removed; natural rework, meaning kept"}
+{"id":"hd2-58","slot":"slot1","pass":true,"reason":"Chat tone, no dashes, kino/19:00/Chilonzor all kept"}
+{"id":"hd2-58","slot":"slot2","pass":true,"reason":"Natural chat rendering, no dashes, details kept"}
+{"id":"hd2-58","slot":"slot3","pass":true,"reason":"Same; exclamation fits chat register"}
+{"id":"hd2-59","slot":"slot1","pass":true,"reason":"Official tone, dash-free, Buyurtma/Narx kept, kechirim formula natural"}
+{"id":"hd2-59","slot":"slot2","pass":false,"reason":"Straight ' in so'm/so'raymiz — incorrect marks in formal letter"}
+{"id":"hd2-59","slot":"slot3","pass":true,"reason":"Official, dash-free, proper ʻ; Narx label fine"}
+{"id":"hd2-60","slot":"slot1","pass":true,"reason":"Dashes removed; wry 'kafolatlangan, deyarli' nuance preserved"}
+{"id":"hd2-60","slot":"slot2","pass":true,"reason":"Same; natural connective 'esa' keeps rhythm varied"}
+{"id":"hd2-60","slot":"slot3","pass":true,"reason":"Natural synonym choices (sodda, bosqichlar); meaning kept, no dashes"}

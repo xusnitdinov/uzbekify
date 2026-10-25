@@ -1,0 +1,43 @@
+{
+  "name": "uzbek-humanizer-cli",
+  "version": "1.6.0",
+  "description": "Install uzbek-humanizer (+ /uzbek-humanize slash) Agent Skills into Cursor, Claude, Codex, and more",
+  "bin": {
+    "uzhumanizer": "bin/uzhumanizer.js"
+  },
+  "type": "module",
+  "files": [
+    "bin",
+    "lib",
+    "skill",
+    "skills",
+    "scripts/sync-skill.mjs",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "sync-skill": "node scripts/sync-skill.mjs",
+    "prepack": "node scripts/sync-skill.mjs",
+    "prepublishOnly": "node scripts/sync-skill.mjs"
+  },
+  "keywords": [
+    "uzbek",
+    "agent-skills",
+    "cursor",
+    "claude",
+    "humanizer",
+    "i18n"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xusnitdinov/uzbek-humanizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xusnitdinov/uzbek-humanizer/issues"
+  },
+  "homepage": "https://github.com/xusnitdinov/uzbek-humanizer#readme",
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,60 @@
+{"id":"h3h-01","slot":"slot1","pass":false,"reason":"copied robot lines verbatim: tashkil etilgan, qabul qilinadi, joylashtiriladi; also ~100 words < 180"}
+{"id":"h3h-01","slot":"slot2","pass":false,"reason":"navbat avtomatik taqsimlanadi kept verbatim; ~75 words < 180"}
+{"id":"h3h-01","slot":"slot3","pass":false,"reason":"robot lines kept: tashkil etilgan, qabul qilinadi, taqsimlanadi all present"}
+{"id":"h3h-02","slot":"slot1","pass":false,"reason":"stipendiyalar belgilangan tartibda tayinlanadi kept; em dashes used; ~70 words < 150"}
+{"id":"h3h-02","slot":"slot2","pass":false,"reason":"belgilangan tartibda kept verbatim; em dash; ~85 words < 150"}
+{"id":"h3h-02","slot":"slot3","pass":false,"reason":"drop-clean and dash-free but only ~43 words, far below 150 minimum"}
+{"id":"h3h-03","slot":"slot1","pass":true,"reason":"all 10 points in fresh active wording, no drop hits, no dashes, varied rhythm across 5 paragraphs"}
+{"id":"h3h-03","slot":"slot2","pass":false,"reason":"a'zolik kartasi sovg'alar bilan ta'minlanadi kept verbatim; multiple em dashes"}
+{"id":"h3h-03","slot":"slot3","pass":false,"reason":"yangi filiallar ochilishi ham rejalashtirilgan kept verbatim"}
+{"id":"h3h-04","slot":"slot1","pass":true,"reason":"official register intact, all content terms kept, ortho normalized to ʻ"}
+{"id":"h3h-04","slot":"slot2","pass":true,"reason":"official register intact, content kept, ortho normalized to ʻ"}
+{"id":"h3h-04","slot":"slot3","pass":false,"reason":"task is ortho check but left straight apostrophes (ko'rsatkichlar) unfixed, unlike ʻ-normalized siblings"}
+{"id":"h3h-05","slot":"slot1","pass":false,"reason":"xatolar tuzatildi kept verbatim in first bullet"}
+{"id":"h3h-05","slot":"slot2","pass":false,"reason":"kept Tezlik oshirildi, muammo tuzatildi, mustahkamlandi verbatim"}
+{"id":"h3h-05","slot":"slot3","pass":true,"reason":"active human voice, concrete per-item changes, drop-clean, varied line rhythm"}
+{"id":"h3h-06","slot":"slot1","pass":false,"reason":"natural and drop-clean but ~50 words < 140 and barely rewritten"}
+{"id":"h3h-06","slot":"slot2","pass":false,"reason":"test sinovlari o'tkaziladi kept verbatim; em dashes throughout"}
+{"id":"h3h-06","slot":"slot3","pass":false,"reason":"o'tkaziladi kept verbatim; em dash; ~90 words < 140"}
+{"id":"h3h-07","slot":"slot1","pass":true,"reason":"official alert + plain what-to-do layer kept separate; kart/kod present"}
+{"id":"h3h-07","slot":"slot2","pass":true,"reason":"two clean layers, natural plain explanation; SMS/kart present"}
+{"id":"h3h-07","slot":"slot3","pass":true,"reason":"official warning + simple action note; kart/kod present; lint ok"}
+{"id":"h3h-08","slot":"slot1","pass":true,"reason":"three chat stages present, jadval/dars content kept; parent line slightly stiff but human"}
+{"id":"h3h-08","slot":"slot2","pass":true,"reason":"labeled turns, official part stays official, parent question very natural"}
+{"id":"h3h-08","slot":"slot3","pass":true,"reason":"natural three-stage exchange, jadval/dars kept, chat voice right"}
+{"id":"h3h-09","slot":"slot1","pass":false,"reason":"no manzil/vaqt/taom/buyurtma wording at all; em dash in CTA line"}
+{"id":"h3h-09","slot":"slot2","pass":false,"reason":"no keep-word match (ta'mi is not taom); em dash; literal ... address placeholder"}
+{"id":"h3h-09","slot":"slot3","pass":true,"reason":"manzil line official, aroma description vivid, soft CTA; no dashes"}
+{"id":"h3h-10","slot":"slot1","pass":false,"reason":"em dashes in both official address line and staff comfort line"}
+{"id":"h3h-10","slot":"slot2","pass":false,"reason":"em dash before tashlab ketmang; literal ... in address"}
+{"id":"h3h-10","slot":"slot3","pass":true,"reason":"official notice, staff comfort line in chat voice, no dashes, manzil/ofis kept"}
+{"id":"h3h-11","slot":"slot1","pass":true,"reason":"confirmation plus packing list in flowing prose, no bullets, natural"}
+{"id":"h3h-11","slot":"slot2","pass":true,"reason":"official confirm then plain nima olib borish kerak; no bullets"}
+{"id":"h3h-11","slot":"slot3","pass":true,"reason":"concise natural letter, sayohat/olib kept, no bullets"}
+{"id":"h3h-12","slot":"slot1","pass":true,"reason":"official line, plain explainer, CTA all present and natural"}
+{"id":"h3h-12","slot":"slot2","pass":true,"reason":"three clean tones, natural phrasing, navbat/tizim kept"}
+{"id":"h3h-12","slot":"slot3","pass":true,"reason":"meta-labels slightly mechanical but within 2-tell budget; all three tones present"}
+{"id":"h3h-13","slot":"slot1","pass":true,"reason":"aka chat voice, app/crash/pul natural, concrete pending-payment explanation"}
+{"id":"h3h-13","slot":"slot2","pass":true,"reason":"warm chat reply confirming issue, app crasheadi/pul natural"}
+{"id":"h3h-13","slot":"slot3","pass":true,"reason":"chat voice, code-mix natural, concrete refund timeline"}
+{"id":"h3h-14","slot":"slot1","pass":true,"reason":"terms kept, clear newbie explanation in chat voice"}
+{"id":"h3h-14","slot":"slot2","pass":true,"reason":"terse natural dev chat, build/break/main kept, actionable"}
+{"id":"h3h-14","slot":"slot3","pass":true,"reason":"natural, terms kept, concrete debugging steps"}
+{"id":"h3h-15","slot":"slot1","pass":true,"reason":"honest natural reply, settings kept, within lint budget"}
+{"id":"h3h-15","slot":"slot2","pass":true,"reason":"natural mixed voice, settings/english kept, apology human"}
+{"id":"h3h-15","slot":"slot3","pass":true,"reason":"natural, concrete workaround, settings/english kept"}
+{"id":"h3h-16","slot":"slot1","pass":true,"reason":"warranty/kafolat mix natural, chat voice, exclusions clear"}
+{"id":"h3h-16","slot":"slot2","pass":true,"reason":"natural chat, warranty/kafolat alternation smooth"}
+{"id":"h3h-16","slot":"slot3","pass":true,"reason":"short natural chat answer with warranty/kafolat"}
+{"id":"h3h-17","slot":"slot1","pass":true,"reason":"punchy natural post, brunch/kids menu kept"}
+{"id":"h3h-17","slot":"slot2","pass":true,"reason":"concrete menu details, natural, terms kept"}
+{"id":"h3h-17","slot":"slot3","pass":true,"reason":"natural, terms kept, CTA present"}
+{"id":"h3h-18","slot":"slot1","pass":true,"reason":"lively announcement, seed/hiring/linkedin kept, no drop hits"}
+{"id":"h3h-18","slot":"slot2","pass":true,"reason":"natural, terms kept, no drop hits"}
+{"id":"h3h-18","slot":"slot3","pass":true,"reason":"natural, terms kept, no drop hits"}
+{"id":"h3h-19","slot":"slot1","pass":true,"reason":"single Latin, ʻ marks correct, customer quote + chat admin reply"}
+{"id":"h3h-19","slot":"slot2","pass":true,"reason":"Latin with correct ʻ, natural quote and admin reply"}
+{"id":"h3h-19","slot":"slot3","pass":false,"reason":"straight apostrophes (mablag', ko'ramiz) instead of ʻ; script_latin requires correct marks"}
+{"id":"h3h-20","slot":"slot1","pass":true,"reason":"Latin with correct ʻ, 9/suv kept, terse mahalla notice"}
+{"id":"h3h-20","slot":"slot2","pass":false,"reason":"straight apostrophes (bo'lmaydi, to'ldirib, o'rnatiladi) instead of ʻ"}
+{"id":"h3h-20","slot":"slot3","pass":true,"reason":"correct ʻ marks, neighborly tone, 9/suv kept"}

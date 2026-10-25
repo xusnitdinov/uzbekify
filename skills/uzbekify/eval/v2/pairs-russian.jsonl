@@ -1,0 +1,50 @@
+{"id": "r-001", "set": "russian", "bad": "Karoche, bugun testni topshiramiz.", "good": "Qisqasi, bugun testni topshiramiz."}
+{"id": "r-002", "set": "russian", "bad": "Normalni ishlagan ekansiz, rahmat.", "good": "Yaxshi ishlagansiz, rahmat."}
+{"id": "r-003", "set": "russian", "bad": "Bu kruto chiqdi!", "good": "Bu zoʻr chiqdi!"}
+{"id": "r-004", "set": "russian", "bad": "Tipa shunday qilib qilamiz.", "good": "Shunday qilib qilamiz."}
+{"id": "r-005", "set": "russian", "bad": "Vapshe ishlamayapti bu funksiya.", "good": "Bu funksiya umuman ishlamayapti."}
+{"id": "r-006", "set": "russian", "bad": "Ladno, keyinroq qilamiz.", "good": "Yaxshi, keyinroq qilamiz."}
+{"id": "r-007", "set": "russian", "bad": "Blin, yana xato chiqdi.", "good": "Voy, yana xato chiqdi."}
+{"id": "r-008", "set": "russian", "bad": "Zakaz holatini tekshirish uchun bosing.", "good": "Buyurtma holatini tekshirish uchun bosing."}
+{"id": "r-009", "set": "russian", "bad": "Skidka faqat bugun kuchida.", "good": "Chegirma faqat bugun kuchida."}
+{"id": "r-010", "set": "russian", "bad": "Plastik maʼlumotlarini kiriting.", "good": "Karta maʼlumotlarini kiriting."}
+{"id": "r-011", "set": "russian", "bad": "Bu mashennik pulingizni oladi.", "good": "Bu firibgar pulingizni oladi."}
+{"id": "r-012", "set": "russian", "bad": "Telefon nomeringizni yozing.", "good": "Telefon raqamingizni yozing."}
+{"id": "r-013", "set": "russian", "bad": "Registratsiya tugmasini bosing.", "good": "Roʻyxatdan oʻtish tugmasini bosing."}
+{"id": "r-014", "set": "russian", "bad": "Pilesos uchun chegirma boshlandi.", "good": "Changyutgich uchun chegirma boshlandi."}
+{"id": "r-015", "set": "russian", "bad": "Eski xabarlarni udalit qilib qoʻying.", "good": "Eski xabarlarni oʻchirib qoʻying."}
+{"id": "r-016", "set": "russian", "bad": "Qoʻshiqni skachat qilmoqchiman.", "good": "Qoʻshiqni yuklab olmoqchiman."}
+{"id": "r-017", "set": "russian", "bad": "Birga posmotret qilamizmi?", "good": "Birga koʻrib chiqamizmi?"}
+{"id": "r-018", "set": "russian", "bad": "Hujjatni otpravit qilib yuboring.", "good": "Hujjatni yuborib qoʻying."}
+{"id": "r-019", "set": "russian", "bad": "Ilovani otkryt qilib boʻlmadi.", "good": "Ilovani ochib boʻlmadi."}
+{"id": "r-020", "set": "russian", "bad": "Proverit qilib, keyin javob beraman.", "good": "Tekshirib, keyin javob beraman."}
+{"id": "r-021", "set": "russian", "bad": "Narxlar oshdi, muvofiq ravishda xarajatlar ham oshdi.", "good": "Narxlar oshdi, xarajatlar ham oshdi."}
+{"id": "r-022", "set": "russian", "bad": "Kompaniya savdoni oshirdi, oʻz navbatida bozor ulushi ham oshdi.", "good": "Kompaniya savdoni oshirdi, bozor ulushi ham oshdi."}
+{"id": "r-023", "set": "russian", "bad": "Hozirgi kunda yoshlar koʻproq onlayn xarid qiladi.", "good": "Hozir yoshlar koʻproq onlayn xarid qiladi."}
+{"id": "r-024", "set": "russian", "bad": "Taʼlim sifatiga katta eʼtibor berildi.", "good": "Taʼlim sifatiga eʼtibor qaratildi."}
+{"id": "r-025", "set": "russian", "bad": "Yangi qoidalar belgilab berildi.", "good": "Yangi qoidalar belgilandi."}
+{"id": "r-026", "set": "russian", "bad": "Reja doirasida koʻpgina ishlar amalga oshirish jarayonida.", "good": "Reja boʻyicha koʻp ishlar bajarilmoqda."}
+{"id": "r-027", "set": "russian", "bad": "Tadbirkorlar tomonidan eʼtibor berilishi talab qilinadi.", "good": "Tadbirkorlar eʼtibor berishi kerak."}
+{"id": "r-028", "set": "russian", "bad": "Bu masala tegishli tashkilotlar tomonidan koʻrib chiqildi.", "good": "Tegishli tashkilotlar masalani koʻrib chiqdi."}
+{"id": "r-029", "set": "russian", "bad": "Mavjud boʻlgan imkoniyatlar roʻyxatini koʻring.", "good": "Mavjud imkoniyatlar roʻyxatini koʻring."}
+{"id": "r-030", "set": "russian", "bad": "Tadbirda ishtirok etish uchun ariza topshirilishi lozim, muvofiq ravishda tasdiqlanadi.", "good": "Tadbirda ishtirok etish uchun ariza topshirish kifoya."}
+{"id": "r-031", "set": "russian", "bad": "Faqatgina bugun, albatta ham, chegirma bor.", "good": "Faqat bugun chegirma bor."}
+{"id": "r-032", "set": "russian", "bad": "Yetarli darajada yaxshi emas natija.", "good": "Natija yetarli emas."}
+{"id": "r-033", "set": "russian", "bad": "Juda koʻp sonli xatolar topildi.", "good": "Koʻp xato topildi."}
+{"id": "r-034", "set": "russian", "bad": "Barcha tomonlama qoʻllab-quvvatlash taʼminlandi.", "good": "Barcha tomondan qoʻllab-quvvatlandik."}
+{"id": "r-035", "set": "russian", "bad": "Hisobot menejer tomonidan yuborildi.", "good": "Menejer hisobotni yubordi."}
+{"id": "r-036", "set": "russian", "bad": "Qaror direktor tomonidan qabul qilindi.", "good": "Direktor qarorni qabul qildi."}
+{"id": "r-037", "set": "russian", "bad": "Dastur IT boʻlimi tomonidan oʻrnatildi.", "good": "IT boʻlimi dasturni oʻrnatdi."}
+{"id": "r-038", "set": "russian", "bad": "Toʻlovlar moliya boʻlimi tomonidan koʻrib chiqiladi.", "good": "Moliya boʻlimi toʻlovlarni koʻrib chiqadi."}
+{"id": "r-039", "set": "russian", "bad": "Reja boʻyicha ishlar boʻyicha hisobot boʻyicha gaplashamiz.", "good": "Reja va hisobot boʻyicha gaplashamiz."}
+{"id": "r-040", "set": "russian", "bad": "Ariza qabul qilindi. Maʼlumotlar tekshirildi. Toʻlov amalga oshirildi. Hisobot yuborildi.", "good": "Arizani qabul qildik, maʼlumotlarni tekshirdik, toʻlovni amalga oshirdik va hisobotni yubordik."}
+{"id": "r-041", "set": "russian", "bad": "Yangi qoidalar eʼlon qilindi, tizim yangilandi, foydalanuvchilar xabardor qilindi.", "good": "Yangi qoidalarni eʼlon qildik, tizimni yangiladik, foydalanuvchilarga xabar berdik."}
+{"id": "r-042", "set": "russian", "bad": "Tadbirda taʼminlandi, tashkil etildi, oʻtkazildi va yakunlandi.", "good": "Tadbir oʻtkazilib, yakunlandi."}
+{"id": "r-043", "set": "russian", "bad": "Chora-tadbirlar amalga oshirildi va taʼminlandi.", "good": "Choralar koʻrildi."}
+{"id": "r-044", "set": "russian", "bad": "Shuning uchun ham shu sababli kechikdik.", "good": "Shuning uchun kechikdik."}
+{"id": "r-045", "set": "russian", "bad": "Boshqa soʻzlar bilan aytganda, bu ishlamaydi.", "good": "Yaʼni bu ishlamaydi."}
+{"id": "r-046", "set": "russian", "bad": "Bir tomondan qimmat, boshqa tomondan sifatsiz.", "good": "Bir tomondan qimmat, ikkinchi tomondan sifatsiz."}
+{"id": "r-047", "set": "russian", "bad": "Yakuniy xulosa qilib aytganda, hammasi yaxshi.", "good": "Qisqasi, hammasi yaxshi."}
+{"id": "r-048", "set": "russian", "bad": "Buning natijasida sifatida natija yaxshilandi.", "good": "Natijada sifat yaxshilandi."}
+{"id": "r-049", "set": "russian", "bad": "Xuddi shu tarzda, aynan shu sababli ham kechikdik.", "good": "Shu sababli kechikdik."}
+{"id": "r-050", "set": "russian", "bad": "Birinchi navbatda maʼlumot, birinchi navbatda tahlil, birinchi navbatda natija.", "good": "Avval maʼlumot, soʻng tahlil, oxiri natija."}

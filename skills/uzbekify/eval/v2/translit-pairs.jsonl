@@ -1,0 +1,52 @@
+{"id": "t-001", "set": "translit", "cyr": "маъно", "lat": "maʼno"}
+{"id": "t-002", "set": "translit", "cyr": "таъсир", "lat": "taʼsir"}
+{"id": "t-003", "set": "translit", "cyr": "санъат", "lat": "sanʼat"}
+{"id": "t-004", "set": "translit", "cyr": "объект", "lat": "obyekt"}
+{"id": "t-005", "set": "translit", "cyr": "субъект", "lat": "subyekt"}
+{"id": "t-006", "set": "translit", "cyr": "объявление", "lat": "obyavleniye"}
+{"id": "t-007", "set": "translit", "cyr": "функция", "lat": "funksiya"}
+{"id": "t-008", "set": "translit", "cyr": "конференция", "lat": "konferensiya"}
+{"id": "t-009", "set": "translit", "cyr": "акция", "lat": "aksiya"}
+{"id": "t-010", "set": "translit", "cyr": "концерт", "lat": "konsert"}
+{"id": "t-011", "set": "translit", "cyr": "концерти", "lat": "konserti"}
+{"id": "t-012", "set": "translit", "cyr": "цех", "lat": "tsex"}
+{"id": "t-013", "set": "translit", "cyr": "цирк", "lat": "tsirk"}
+{"id": "t-014", "set": "translit", "cyr": "провокация", "lat": "provokasiya"}
+{"id": "t-015", "set": "translit", "cyr": "ёзув", "lat": "yozuv"}
+{"id": "t-016", "set": "translit", "cyr": "ёл", "lat": "yol"}
+{"id": "t-017", "set": "translit", "cyr": "мой", "lat": "moy"}
+{"id": "t-018", "set": "translit", "cyr": "тётя", "lat": "tyotya"}
+{"id": "t-019", "set": "translit", "cyr": "юқори", "lat": "yuqori"}
+{"id": "t-020", "set": "translit", "cyr": "ютимли", "lat": "yutimli"}
+{"id": "t-021", "set": "translit", "cyr": "яна", "lat": "yana"}
+{"id": "t-022", "set": "translit", "cyr": "ярим", "lat": "yarim"}
+{"id": "t-023", "set": "translit", "cyr": "Зоя", "lat": "Zoya"}
+{"id": "t-024", "set": "translit", "cyr": "ер", "lat": "yer"}
+{"id": "t-025", "set": "translit", "cyr": "етти", "lat": "yetti"}
+{"id": "t-026", "set": "translit", "cyr": "ешингиз", "lat": "yeshingiz"}
+{"id": "t-027", "set": "translit", "cyr": "Европа", "lat": "Yevropa"}
+{"id": "t-028", "set": "translit", "cyr": "Еркин", "lat": "Yerkin"}
+{"id": "t-029", "set": "translit", "cyr": "мен", "lat": "men"}
+{"id": "t-030", "set": "translit", "cyr": "келди", "lat": "keldi"}
+{"id": "t-031", "set": "translit", "cyr": "эълон", "lat": "eʼlon"}
+{"id": "t-032", "set": "translit", "cyr": "этимолог", "lat": "etimolog"}
+{"id": "t-033", "set": "translit", "cyr": "батальон", "lat": "batalyon"}
+{"id": "t-034", "set": "translit", "cyr": "семья", "lat": "semya"}
+{"id": "t-035", "set": "translit", "cyr": "только", "lat": "tolko"}
+{"id": "t-036", "set": "translit", "cyr": "щётка", "lat": "shyotka"}
+{"id": "t-037", "set": "translit", "cyr": "товарищ", "lat": "tovarish"}
+{"id": "t-038", "set": "translit", "cyr": "ўзбек", "lat": "oʻzbek"}
+{"id": "t-039", "set": "translit", "cyr": "тоʻғри", "lat": "toʻgʻri"}
+{"id": "t-040", "set": "translit", "cyr": "ғоя", "lat": "gʻoya"}
+{"id": "t-041", "set": "translit", "cyr": "қабул", "lat": "qabul"}
+{"id": "t-042", "set": "translit", "cyr": "Фарғона", "lat": "Fargʻona"}
+{"id": "t-043", "set": "translit", "cyr": "ҳозир", "lat": "hozir"}
+{"id": "t-044", "set": "translit", "cyr": "Тошкент", "lat": "Toshkent"}
+{"id": "t-045", "set": "translit", "cyr": "Муҳаммад", "lat": "Muhammad"}
+{"id": "t-046", "set": "translit", "cyr": "ЎЗБЕКИСТОН", "lat": "OʻZBEKISTON"}
+{"id": "t-047", "set": "translit", "cyr": "ЕВРОПА", "lat": "YEVROPA"}
+{"id": "t-048", "set": "translit", "cyr": "Тошкентда ўтган анжуман яхши натижа берди.", "lat": "Toshkentda oʻtgan anjuman yaxshi natija berdi."}
+{"id": "t-049", "set": "translit", "cyr": "Мен китоб ўқидим, у ҳам ўқийди.", "lat": "Men kitob oʻqidim, u ham oʻqiydi."}
+{"id": "t-050", "set": "translit", "cyr": "Ёшлар томонidan ўтказилган тадбирда маъруза ўқилди, функция ва консерт ҳам бўлди.", "lat": "Yoshlar tomonidan oʻtkazilgan tadbirda maʼruza oʻqildi, funksiya va konsert ham boʻldi."}
+{"id": "t-051", "set": "translit", "cyr": "Институтига бориб, объектларни кўрдим.", "lat": "Institutiga borib, obyektlarni koʻrdim."}
+{"id": "t-052", "set": "translit", "cyr": "Юсуф Юлдошев Москва шаҳрига юборилди.", "lat": "Yusuf Yuldoshev Moskva shahriga yuborildi."}

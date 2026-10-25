@@ -1,0 +1,60 @@
+{"id": "hard-01", "checks": [{"type": "drop", "re": "amalga oshiriladi|ta'minlan|taqdim etiladi|rejalashtirilgan|mazkur", "why": "officialese must go"}, {"type": "lint_clean"}, {"type": "keep", "re": "\\b(rahmat|yangi|darslar|o'quv|guruh)", "why": "content preserved"}, {"type": "approx_len", "min": 150, "max": 400, "why": "stays a real announcement"}]}
+{"id": "hard-02", "checks": [{"type": "drop", "re": "muvofiq ravishda|o'z navbatida", "why": "RU connectors out"}, {"type": "keep", "re": "\\b(banka|karta|mijoz)", "why": "domain words stay"}, {"type": "lint_ok", "max": 2}]}
+{"id": "hard-03", "checks": [{"type": "no_dash"}, {"type": "lint_clean"}, {"type": "keep", "re": "(yetkaz|keldi|narx)", "why": "facts stay"}]}
+{"id": "hard-04", "checks": [{"type": "drop", "re": "ta'minlanadi|olib borilmoqda|hisoblanadi|amalga oshiriladi", "why": "report-verbs to active"}, {"type": "no_dash"}, {"type": "varied_rhythm", "why": "not all sentences same length"}]}
+{"id": "hard-05", "checks": [{"type": "drop", "re": "Siz (har kuni|testlarni|natijalarni|xatolaringizni) ", "why": "template opener must break"}, {"type": "varied_rhythm"}, {"type": "lint_clean"}]}
+{"id": "hard-06", "checks": [{"type": "drop", "re": "ta'minlanadi|amalga oshiriladi|qayd etiladi", "why": "passive report"}, {"type": "no_dash"}, {"type": "keep", "re": "(baz|monitoring|yuklama)", "why": "tech terms stay"}]}
+{"id": "hard-07", "checks": [{"type": "keep", "re": "(yana o|chiqmad|ish qilm)", "why": "quote stays raw"}, {"type": "keep", "re": "(rahbar|ariza|norozil|murojaat)", "why": "formal frame present"}, {"type": "drop", "re": "\\bmazkur\\b", "why": "casual parts must not gain officialese"}]}
+{"id": "hard-08", "checks": [{"type": "keep", "re": "(so'rayman|choralar)", "why": "quote verbatim"}, {"type": "register_chat", "why": "reply is chat"}, {"type": "no_dash"}]}
+{"id": "hard-09", "checks": [{"type": "keep", "re": "(chegirma|bepul|yangi)", "why": "marketing line"}, {"type": "keep", "re": "(maxfiylik|shart|siyosat)", "why": "legal line"}, {"type": "no_dash"}]}
+{"id": "hard-10", "checks": [{"type": "keep", "re": "👇", "why": "pointer"}, {"type": "no_bullet", "why": "no bullet lists in posts"}]}
+{"id": "hard-11", "checks": [{"type": "keep", "re": "Taqiqlanadi", "why": "formal word must survive"}, {"type": "lint_ok", "max": 3}]}
+{"id": "hard-12", "checks": [{"type": "keep", "re": "(Hurmat|Assalomu)", "why": "formal frame"}, {"type": "keep", "re": "(yubord|chiqd|bo'ld)", "why": "chat layer"}, {"type": "no_dash"}]}
+{"id": "hard-13", "checks": [{"type": "keep", "re": "(wifi|pixel|click)", "why": "real loans stay"}, {"type": "lint_ok", "max": 3}, {"type": "no_dash"}]}
+{"id": "hard-14", "checks": [{"type": "keep", "re": "(patch|meta|tier)", "why": "gaming loans stay"}, {"type": "keep", "re": "(chiqd|o'zgardi|pastda)", "why": "uzbek frame"}]}
+{"id": "hard-15", "checks": [{"type": "keep", "re": "(React|remote|resume|HR)", "why": "real EN terms stay"}, {"type": "drop", "re": "(ta'minlanadi|amalga oshiriladi)", "why": "no officialese"}]}
+{"id": "hard-16", "checks": [{"type": "keep", "re": "(app|payment|refund)", "why": "loans stay"}, {"type": "lint_ok", "max": 2}]}
+{"id": "hard-17", "checks": [{"type": "keep", "re": "expired", "why": "user loan stays or is kept naturally"}, {"type": "register_chat"}]}
+{"id": "hard-18", "checks": [{"type": "keep", "re": "brend", "why": "assimilated loan stays"}, {"type": "lint_ok", "max": 2}]}
+{"id": "hard-19", "checks": [{"type": "keep", "re": "(Salom|boʻlmadi|qilsam)", "why": "content stays"}, {"type": "script_latin", "why": "no Cyrillic leak"}, {"type": "lint_ok", "max": 2}]}
+{"id": "hard-20", "checks": [{"type": "script_latin"}, {"type": "keep", "re": "(Doʻstlar|boʻladi)", "why": "words stay"}, {"type": "lint_ok", "max": 2}]}
+{"id": "hard-21", "checks": [{"type": "script_latin"}, {"type": "drop", "re": "\\bmazkur\\b|\\bushbu\\b", "why": "no officialese gained"}, {"type": "keep", "re": "(savol|javob|rahbar|director)", "why": "content"}]}
+{"id": "hard-22", "checks": [{"type": "keep", "re": "(блокланд|ўзим)", "why": "Cyrillic quote stays"}, {"type": "no_dash"}]}
+{"id": "hard-23", "checks": [{"type": "script_latin"}, {"type": "lint_ok", "max": 1}, {"type": "keep", "re": "(hammasi|boʻladi)", "why": "proverb stays"}]}
+{"id": "hard-24", "checks": [{"type": "script_latin"}, {"type": "lint_clean"}, {"type": "keep", "re": "(post|chiqd|oʻqing)", "why": "content"}]}
+{"id": "hard-25", "checks": [{"type": "keep", "re": "-ku", "why": "particle stays"}, {"type": "register_chat"}]}
+{"id": "hard-26", "checks": [{"type": "keep", "re": "donat", "why": "real slang loan"}, {"type": "drop", "re": "\\b(ship|vibe)\\b", "why": "banned EN slang"}]}
+{"id": "hard-27", "checks": [{"type": "keep", "re": "(qash|qichig)", "why": "idiom explained via itself"}, {"type": "lint_ok", "max": 2}]}
+{"id": "hard-28", "checks": [{"type": "keep", "re": "-ku", "why": "particle"}, {"type": "register_chat"}]}
+{"id": "hard-29", "checks": [{"type": "lint_ok", "max": 2}, {"type": "keep", "re": "(tulki|boʻri)", "why": "characters"}]}
+{"id": "hard-30", "checks": [{"type": "keep", "re": "(Eshitdim|mish)", "why": "flavor"}, {"type": "register_chat"}]}
+{"id": "hard-31", "checks": [{"type": "varied_rhythm", "why": "symmetry must break"}, {"type": "drop", "re": "va (natija|biz ham|xursand)", "why": "'va' spam reduced"}]}
+{"id": "hard-32", "checks": [{"type": "drop", "re": "(Agar qulay bo'l)", "why": "over-politeness repeated"}, {"type": "lint_ok", "max": 1}]}
+{"id": "hard-33", "checks": [{"type": "drop", "re": "Eng (tez|arzon|qulay|ishonchli)", "why": "superlative spam"}]}
+{"id": "hard-34", "checks": [{"type": "varied_rhythm"}, {"type": "keep", "re": "(shartnoma|tomon)", "why": "domain"}]}
+{"id": "hard-35", "checks": [{"type": "drop", "re": "(Rahmat, xabar|Rahmat, savol|Rahmat, javob)", "why": "template gratitude"}, {"type": "register_chat"}]}
+{"id": "hard-36", "checks": [{"type": "drop", "re": "bilan bog'lanishingiz mumkin", "why": "template frame"}, {"type": "varied_rhythm"}]}
+{"id": "hard-37", "checks": [{"type": "keep", "re": "(ijro etilishi lozim|mazkur|qarori)", "why": "official register must stay"}, {"type": "register_official"}]}
+{"id": "hard-38", "checks": [{"type": "keep", "re": "(ushbu ariza|so'rayman)", "why": "formal frame"}, {"type": "register_official"}]}
+{"id": "hard-39", "checks": [{"type": "keep", "re": "(Konstitutsiyasiga muvofiq|teng huquqli)", "why": "legal wording"}, {"type": "approx_input", "min": 0.85, "why": "must stay basically unchanged"}]}
+{"id": "hard-40", "checks": [{"type": "drop", "re": "\\baka\\b", "why": "casual address out of formal"}, {"type": "register_official"}]}
+{"id": "hard-41", "checks": [{"type": "keep", "re": "(maxfiy|uchinchi shaxs)", "why": "legal terms"}, {"type": "lint_ok", "max": 2}, {"type": "no_dash"}]}
+{"id": "hard-42", "checks": [{"type": "keep", "re": "(lozim|yuboriladi)", "why": "register stays"}, {"type": "register_official"}]}
+{"id": "hard-43", "checks": [{"type": "drop", "re": "\\baktual\\b", "why": "false friend"}, {"type": "keep", "re": "(dolzarb|haqiqiy)", "why": "correct translation"}]}
+{"id": "hard-44", "checks": [{"type": "keep", "re": "kerak edi", "why": "counterfactual modality"}]}
+{"id": "hard-45", "checks": [{"type": "keep", "re": "ekan", "why": "evidential -ekan stays"}]}
+{"id": "hard-46", "checks": [{"type": "drop", "re": "Hurmatli foydalanuvchi", "why": "brochure opener out"}, {"type": "keep", "re": "(tekshirib|maʼlumot)", "why": "content"}]}
+{"id": "hard-47", "checks": [{"type": "keep", "re": "(yildan beri|yashayap)", "why": "ongoing aspect"}]}
+{"id": "hard-48", "checks": [{"type": "drop", "re": "(mushuk|itlar)", "why": "literal translation must not appear"}, {"type": "keep", "re": "(yomg|sel)", "why": "natural image"}]}
+{"id": "hard-49", "checks": [{"type": "approx_input", "min": 0.8, "why": "native text — minimal edits"}, {"type": "keep", "re": "(gap yoʻq|zoʻr)", "why": "native flavor stays"}]}
+{"id": "hard-50", "checks": [{"type": "approx_input", "min": 0.85, "why": "native"}, {"type": "keep", "re": "rahmat"}]}
+{"id": "hard-51", "checks": [{"type": "approx_input", "min": 0.75, "why": "tone must stay"}, {"type": "keep", "re": "(bemalol|menga juda zoʻr)", "why": "voice"}]}
+{"id": "hard-52", "checks": [{"type": "approx_input", "min": 0.75, "why": "native"}, {"type": "keep", "re": "(ochilmayapti|kirolmayapman)", "why": "native verbs"}]}
+{"id": "hard-53", "checks": [{"type": "approx_input", "min": 0.8, "why": "word choice must stay"}, {"type": "keep", "re": "(ma'lum boʻlsin|svet)", "why": "mahalla voice"}]}
+{"id": "hard-54", "checks": [{"type": "approx_input", "min": 0.85, "why": "native"}, {"type": "keep", "re": "(yaxwi|eku)", "why": "spoken forms stay"}]}
+{"id": "hard-55", "checks": [{"type": "no_dash", "why": "zero dashes"}, {"type": "keep", "re": "(yanvard|chegirma)", "why": "facts"}]}
+{"id": "hard-56", "checks": [{"type": "no_dash"}, {"type": "keep", "re": "(doʻkon|Chilonzor|40)", "why": "facts"}]}
+{"id": "hard-57", "checks": [{"type": "no_dash", "why": "en-dash ranges → to'g'ri yozuv"}, {"type": "keep", "re": "(daqiqa|ming)", "why": "facts"}]}
+{"id": "hard-58", "checks": [{"type": "no_dash"}, {"type": "keep", "re": "(tekshir|tuzat)", "why": "steps stay"}]}
+{"id": "hard-59", "checks": [{"type": "no_dash"}, {"type": "register_chat"}, {"type": "keep", "re": "(ertaga|soat)", "why": "content"}]}
+{"id": "hard-60", "checks": [{"type": "no_dash"}, {"type": "keep", "re": "(kechik|qaytar|almashtir)", "why": "demands stay"}]}

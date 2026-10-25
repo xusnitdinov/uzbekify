@@ -1,0 +1,60 @@
+{"id": "hd2-21", "slot": "slot1", "pass": true, "reason": "Latin only, correct ʻ in koʻrinadi; natural push line"}
+{"id": "hd2-21", "slot": "slot2", "pass": true, "reason": "Latin only, correct ʻ; concise natural push"}
+{"id": "hd2-21", "slot": "slot3", "pass": false, "reason": "script_latin fails: ASCII ' in ko'rinib (wrong tutuq mark) plus dash"}
+{"id": "hd2-22", "slot": "slot1", "pass": true, "reason": "Correct ʻ everywhere; chatty; keeps ertaga/oʻzgarish"}
+{"id": "hd2-22", "slot": "slot2", "pass": false, "reason": "script_latin fails: all apostrophes ASCII ' (to'g'ri, bo'ladi)"}
+{"id": "hd2-22", "slot": "slot3", "pass": true, "reason": "Correct ʻ marks; chat tone; ertaga/oʻzgarish kept"}
+{"id": "hd2-23", "slot": "slot1", "pass": true, "reason": "Faithful transliteration + mahalla tone; correct ʻ"}
+{"id": "hd2-23", "slot": "slot2", "pass": false, "reason": "script_latin fails: ASCII ' in so'm; also drifts from source wording"}
+{"id": "hd2-23", "slot": "slot3", "pass": true, "reason": "Exact natural transliteration; rahmat/pul kept; no marks needed"}
+{"id": "hd2-24", "slot": "slot1", "pass": true, "reason": "Single Latin, bank-SMS standard incl. security line; clean"}
+{"id": "hd2-24", "slot": "slot2", "pass": true, "reason": "Single Latin, official bank tone; clean"}
+{"id": "hd2-24", "slot": "slot3", "pass": true, "reason": "Single Latin, clean and natural"}
+{"id": "hd2-25", "slot": "slot1", "pass": true, "reason": "-ku echoed, chatty humor, natural"}
+{"id": "hd2-25", "slot": "slot2", "pass": true, "reason": "-ku echoed twice; chatty, humorous"}
+{"id": "hd2-25", "slot": "slot3", "pass": true, "reason": "-ku echoed; chat register kept"}
+{"id": "hd2-26", "slot": "slot1", "pass": true, "reason": "kamera/zoʻr/batareya gʻirt past kept; no ship/vibe; 2 sentences"}
+{"id": "hd2-26", "slot": "slot2", "pass": true, "reason": "All required content kept; banned slang absent"}
+{"id": "hd2-26", "slot": "slot3", "pass": true, "reason": "Content kept; no ship/vibe; 2 sentences"}
+{"id": "hd2-27", "slot": "slot1", "pass": true, "reason": "Maqol used verbatim and naturally; friend tone"}
+{"id": "hd2-27", "slot": "slot2", "pass": true, "reason": "Maqol present with natural gloss; lint within max 2"}
+{"id": "hd2-27", "slot": "slot3", "pass": true, "reason": "Maqol present; short natural chat"}
+{"id": "hd2-28", "slot": "slot1", "pass": false, "reason": "keep -ku fails: no -ku tone echo anywhere in reply"}
+{"id": "hd2-28", "slot": "slot2", "pass": false, "reason": "keep -ku fails: no -ku echo (user tone not returned)"}
+{"id": "hd2-28", "slot": "slot3", "pass": true, "reason": "-ku echoed (yetib bermaydi-ku); time + bonus code + humor conceded"}
+{"id": "hd2-29", "slot": "slot1", "pass": true, "reason": "Correct fable logic both ways; natural moral; lint within max 2"}
+{"id": "hd2-29", "slot": "slot2", "pass": false, "reason": "Garbled 'tulki bo'g'izini yetkazolmay', 'tamasha qoldi'; 3 dashes — lint exceeds max 2"}
+{"id": "hd2-29", "slot": "slot3", "pass": true, "reason": "3 sentences, correct logic, childlike tone, natural moral with ekan"}
+{"id": "hd2-30", "slot": "slot1", "pass": true, "reason": "eshitdim-u ishonmadim + doʻkon kept; chatty; 2 sentences"}
+{"id": "hd2-30", "slot": "slot2", "pass": true, "reason": "Tone phrase and do'kon kept; chat register"}
+{"id": "hd2-30", "slot": "slot3", "pass": true, "reason": "Tone phrase kept; chatty, natural"}
+{"id": "hd2-31", "slot": "slot1", "pass": true, "reason": "Anaphora removed; genuinely varied lengths and shapes"}
+{"id": "hd2-31", "slot": "slot2", "pass": false, "reason": "drop violated: keeps 'Biz sifatga/vaqtni/doim' openings; garbled clause about bilim"}
+{"id": "hd2-31", "slot": "slot3", "pass": false, "reason": "Anaphora gone but 4 uniform two-clause sentences of 6-8 words — still metronomic"}
+{"id": "hd2-32", "slot": "slot1", "pass": false, "reason": "drop violated: contains 'yordam beradi'"}
+{"id": "hd2-32", "slot": "slot2", "pass": true, "reason": "Exact 3 short / 2 medium / 1 long; natural"}
+{"id": "hd2-32", "slot": "slot3", "pass": true, "reason": "Clear length variety 3-13 words; no banned phrase"}
+{"id": "hd2-33", "slot": "slot1", "pass": true, "reason": "No Albatta!; four varied openings; service-chat tone"}
+{"id": "hd2-33", "slot": "slot2", "pass": true, "reason": "No Albatta!; openings differ; service tone preserved"}
+{"id": "hd2-33", "slot": "slot3", "pass": true, "reason": "No Albatta!; varied openings; helpful chat voice"}
+{"id": "hd2-34", "slot": "slot1", "pass": true, "reason": "No bo'ladi endings; official register kept"}
+{"id": "hd2-34", "slot": "slot2", "pass": true, "reason": "Varied endings incl. active qilamiz; official"}
+{"id": "hd2-34", "slot": "slot3", "pass": true, "reason": "No bo'ladi; formal notice register intact"}
+{"id": "hd2-35", "slot": "slot1", "pass": true, "reason": "Short + medium + question; coherent natural chat"}
+{"id": "hd2-35", "slot": "slot2", "pass": true, "reason": "Short + medium + question; lively chat voice"}
+{"id": "hd2-35", "slot": "slot3", "pass": true, "reason": "Uneven lengths, question ending; reads as natural exchange"}
+{"id": "hd2-36", "slot": "slot1", "pass": true, "reason": "No birinchidan/ikkinchidan/uchinchidan; connectors Avval/Soʻng/Yakunda; keep met"}
+{"id": "hd2-36", "slot": "slot2", "pass": true, "reason": "Natural connectors (Eng avvalo/Uning ustiga/Va nihoyat); keep met"}
+{"id": "hd2-36", "slot": "slot3", "pass": true, "reason": "Avval/Undan keyin/Nihoyat; list preserved, template gone"}
+{"id": "hd2-37", "slot": "slot1", "pass": true, "reason": "Cyrillic о fixed (yuborildi); proper ʼ; otherwise untouched official text"}
+{"id": "hd2-37", "slot": "slot2", "pass": true, "reason": "Same minimal correct fix; register intact"}
+{"id": "hd2-37", "slot": "slot3", "pass": false, "reason": "Fixed о but downgraded ʼ to ASCII ' — unrequested change, wrong mark for a court document"}
+{"id": "hd2-38", "slot": "slot1", "pass": true, "reason": "Apostrophes corrected to proper ʼ/ʻ; no simplification"}
+{"id": "hd2-38", "slot": "slot2", "pass": true, "reason": "Same correct imlo fix; official wording untouched"}
+{"id": "hd2-38", "slot": "slot3", "pass": false, "reason": "Task was apostrophe check; left ASCII ta'til/bo'limiga — the requested fix was not applied"}
+{"id": "hd2-39", "slot": "slot1", "pass": true, "reason": "Left verbatim; no apostrophes in text so nothing to change; official"}
+{"id": "hd2-39", "slot": "slot2", "pass": true, "reason": "Verbatim, unchanged; register fine"}
+{"id": "hd2-39", "slot": "slot3", "pass": true, "reason": "Verbatim, unchanged; register fine"}
+{"id": "hd2-40", "slot": "slot1", "pass": true, "reason": "murojaat/koʻrib chiqiladi kept; official, clear letter"}
+{"id": "hd2-40", "slot": "slot2", "pass": true, "reason": "Required phrases kept; official register with human touch"}
+{"id": "hd2-40", "slot": "slot3", "pass": true, "reason": "Content and official voice kept; proper closing"}

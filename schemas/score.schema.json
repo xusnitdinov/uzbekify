@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://uzbekify.dev/schemas/score.schema.json",
+  "title": "uzpro score --json output",
+  "type": "object",
+  "required": ["score", "band", "deductions", "humanVoiceBonus", "humanVoiceSignals", "findings"],
+  "properties": {
+    "score": { "type": "integer", "minimum": 0, "maximum": 100 },
+    "band": { "type": "string" },
+    "deductions": { "type": "array", "items": { "type": "object", "required": ["family", "points", "findings"] } },
+    "humanVoiceBonus": { "type": "integer" },
+    "humanVoiceSignals": { "type": "array", "items": { "type": "string" } },
+    "findings": { "type": "array" }
+  }
+}

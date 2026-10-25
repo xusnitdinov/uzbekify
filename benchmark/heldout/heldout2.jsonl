@@ -1,0 +1,150 @@
+{"id": "h2-001", "category": "chat", "task": "Support chat: user's parcel marked delivered but never arrived. Answer in 2 short chat messages, promise a courier trace.", "reference": null}
+{"id": "h2-002", "category": "chat", "task": "Friend texts: 'shaharga kelaman javonga'. You're happy, offer to meet at Amir Temur square. Natural chat reply.", "reference": null}
+{"id": "h2-003", "category": "chat", "task": "Write the 2-message reply of a pharmacy admin to 'dori bazarda topilmidi ekan' — say it arrives Thursday, offer to reserve.", "reference": null}
+{"id": "h2-004", "category": "chat", "task": "Group chat: someone shares a fake news link. Warn politely it's fake with the real source, chat tone, 1-2 lines.", "reference": null}
+{"id": "h2-005", "category": "chat", "task": "Tenant texts the landlord: heating broke, it's cold. Write the landlord's natural reply promising a plumber tomorrow morning.", "reference": null}
+{"id": "h2-006", "category": "chat", "task": "Reply in chat register: your niece got into university on scholarship — congratulate warmly and specifically.", "reference": null}
+{"id": "h2-007", "category": "chat", "task": "Customer in DM: 'navbat qancha kutish kk?' — write the shop admin's honest reply: about 20 minutes right now.", "reference": null}
+{"id": "h2-008", "category": "chat", "task": "Telegram post for a neighborhood cleanup, Sunday 9:00, meet at the mosque gate: 2 short lines, chat tone.", "reference": "Batafsil 👇👇👇"}
+{"id": "h2-009", "category": "chat", "task": "A friend asks to return the money today — you already sent it 5 minutes ago, screenshot attached. Write your 1-line reply.", "reference": null}
+{"id": "h2-010", "category": "chat", "task": "Support reply (chat register): user typed the wrong number when topping up, sent 100k to the wrong account. Steps: contact support with the receipt, money is traceable.", "reference": null}
+{"id": "h2-011", "category": "chat", "task": "Write what a minibus driver texts his regular passengers: route changed due to road works, same time tomorrow. One line.", "reference": null}
+{"id": "h2-012", "category": "chat", "task": "A user thanks your bot effusively: 'juda katta rahmat, siz odam emassiz farishtasiz!'. Write a warm 1-line bot reply.", "reference": null}
+{"id": "h2-013", "category": "chat", "task": "Your neighbor asks to watch their kid for 2 hours. You agree, ask what snack they like. Natural chat exchange, 2 messages.", "reference": null}
+{"id": "h2-014", "category": "chat", "task": "Gym buddy: 'ertaga tong 7da salonga?' You propose 8 instead, you'll pick them up. Chat register.", "reference": null}
+{"id": "h2-015", "category": "chat", "task": "A colleague warns about a phishing email going around. Thank them and say you got it too and deleted it. Chat register.", "reference": null}
+{"id": "h2-016", "category": "chat", "task": "Customer: 'qaytarish mumkinmi, olganimizdan keyin 1 kun otdi?' — reply per policy 14 days, chat tone, 2 messages.", "reference": null}
+{"id": "h2-017", "category": "chat", "task": "Write the natural reply to 'tug'ilgan kuning muborak bo'lsin aka!!!' from a younger cousin.", "reference": null}
+{"id": "h2-018", "category": "chat", "task": "School parents' group: teacher posts that tomorrow's field trip is moved to Thursday. Parents ask if lunch is included. Write the teacher's 2-line answer.", "reference": null}
+{"id": "h2-019", "category": "chat", "task": "Friend can't decide between two phones. You own one of them; give an honest one-line recommendation.", "reference": null}
+{"id": "h2-020", "category": "chat", "task": "A user reports the app crashed during payment, money left the card. Chat reply: money auto-returns within 24h, apologize once.", "reference": null}
+{"id": "h2-021", "category": "chat", "task": "Neighbor asks if you heard the noise last night. You slept through it. One natural line.", "reference": null}
+{"id": "h2-022", "category": "chat", "task": "Write the babysitter's evening update text to the parents: kid ate, played, asleep since 21:00. Warm, 2 lines.", "reference": null}
+{"id": "h2-023", "category": "chat", "task": "Teammate: 'hisobotni ertaga topshirsam bo'ladimi?' Boss mode but human: yes, but send before noon. Chat register.", "reference": null}
+{"id": "h2-024", "category": "chat", "task": "A user asks if the app works in Nukus. Confirm yes, mention one nearby feature. 1-2 lines.", "reference": null}
+{"id": "h2-025", "category": "chat", "task": "Friend shares concert ticket win: '2 ta chipta yutdim!!!'. Reply with genuine excitement + ask who's going. Chat register.", "reference": null}
+{"id": "h2-026", "category": "chat", "task": "Customer asks for an invoice with company details (STIR). Admin reply: send STIR and name, invoice tomorrow morning. Chat register.", "reference": null}
+{"id": "h2-027", "category": "chat", "task": "Your brother texts from the airport: flight delayed 3 hours. Sympathize + practical tip. 2 short messages.", "reference": null}
+{"id": "h2-028", "category": "chat", "task": "Group chat: vote between two designs (A: yashil, B: ko'k). Write the designer's call for votes, casual, 2 lines.", "reference": null}
+{"id": "h2-029", "category": "chat", "task": "Reply to 'aka shu darslikning pdf-i bormi?' — you have it, will forward tonight. One line.", "reference": null}
+{"id": "h2-030", "category": "chat", "task": "Support: user accidentally deleted a note. Good news: trash keeps it 30 days, here's how to restore. Chat register, 2 messages.", "reference": null}
+{"id": "h2-031", "category": "ui", "task": "Localize for a parking app: 'Zone 12 selected', 'Park', '1 hour free with this receipt', 'Extend parking'.", "reference": null}
+{"id": "h2-032", "category": "ui", "task": "Bank app transfer screen: recipient card ending 4455, amount field hint 'Min 10 000 soʻm', Send button. Uzbek, 3 strings.", "reference": null}
+{"id": "h2-033", "category": "ui", "task": "Error state for a video app: video unavailable in your region + link to available regions. Title + 1 line.", "reference": null}
+{"id": "h2-034", "category": "ui", "task": "Localize for a chess app: 'Your move', 'Draw offered', 'Opponent left the game', 'Rematch'.", "reference": null}
+{"id": "h2-035", "category": "ui", "task": "Empty state for a bookmarks screen: nothing saved yet, save articles to read offline. 2 short lines.", "reference": null}
+{"id": "h2-036", "category": "ui", "task": "Onboarding permission text for camera access (QR scanning): why needed + Later / Allow buttons. Uzbek.", "reference": null}
+{"id": "h2-037", "category": "ui", "task": "Localize: 'Sync in progress…', 'Last synced 5 min ago', 'Sync failed — check connection'.", "reference": null}
+{"id": "h2-038", "category": "ui", "task": "Ride-cancel dialog: cancel fee 5 000 soʻm applies after 2 minutes. Warn + Keep ride / Cancel buttons.", "reference": null}
+{"id": "h2-039", "category": "ui", "task": "Push notification for a diary app: gentle evening reminder to write today's entry. One line, max 70 chars.", "reference": null}
+{"id": "h2-040", "category": "ui", "task": "Success toast after enabling two-factor auth. One friendly line.", "reference": null}
+{"id": "h2-041", "category": "ui", "task": "Localize for a marketplace app: 'Seller answered your question', 'Open chat', 'Item saved'.", "reference": null}
+{"id": "h2-042", "category": "ui", "task": "Accessibility settings copy: larger text, high contrast, screen-reader support. 3 short strings.", "reference": null}
+{"id": "h2-043", "category": "ui", "task": "Data-usage warning for a music app: streaming uses ~50 MB/hour, download over Wi-Fi instead. 2 lines.", "reference": null}
+{"id": "h2-044", "category": "ui", "task": "Localize a donation flow: 'Choose amount', 'Give monthly', 'Your 30 000 soʻm buys 5 school meals'.", "reference": null}
+{"id": "h2-045", "category": "ui", "task": "Update-completed screen for a notes app: 3-line changelog (dark mode, folders, faster search).", "reference": null}
+{"id": "h2-046", "category": "ui", "task": "Localize: 'Your trial ends in 3 days', 'Keep your data — subscribe', 'Remind me later'.", "reference": null}
+{"id": "h2-047", "category": "ui", "task": "Refund status screen: request received, decision within 48 hours, money returns to the same card. 3 lines.", "reference": null}
+{"id": "h2-048", "category": "ui", "task": "Localize a family-safety app: 'Adam arrived at school', 'Battery 15% on Adam's phone', 'Call Adam'.", "reference": null}
+{"id": "h2-049", "category": "ui", "task": "Deep-link error: this link is expired or belongs to another account. Title + 1 helpful line.", "reference": null}
+{"id": "h2-050", "category": "ui", "task": "Localize for a plant-care app: 'Water Monstera today', 'Monstera is thirsty', 'Skip today'.", "reference": null}
+{"id": "h2-051", "category": "ui", "task": "Voucher redemption success: 3-month premium unlocked, expires 2026-03-01. One warm line + one fact line.", "reference": null}
+{"id": "h2-052", "category": "ui", "task": "Localize: 'Rate this app', 'Send feedback', 'Thanks — you help us improve'. Product register.", "reference": null}
+{"id": "h2-053", "category": "ui", "task": "Invite-collaborator flow for a lists app: share by link, friend joins your shopping list. 2 strings + button.", "reference": null}
+{"id": "h2-054", "category": "ui", "task": "Localize for a taxi fleet app (driver side): 'Order accepted', 'Customer is waiting', 'Earnings today: 340 000 soʻm'.", "reference": null}
+{"id": "h2-055", "category": "ui", "task": "Write the Uzbek string set for choosing a language on first launch: title, 'Uzbek' option, 'Continue'.", "reference": null}
+{"id": "h2-056", "category": "mkt", "task": "Hero line for a courier-service site: across Tashkent in 90 minutes, live tracking. 7 words max.", "reference": null}
+{"id": "h2-057", "category": "mkt", "task": "Instagram caption for a family bakery's new tandoor bread: baked at 5am, still warm by 7. 2 lines.", "reference": null}
+{"id": "h2-058", "category": "mkt", "task": "Ad for language evening courses for adults: small groups, twice a week after work. 2 lines + CTA.", "reference": null}
+{"id": "h2-059", "category": "mkt", "task": "Landing subline for a babysitting platform: verified sitters, hourly booking, reviews. One sentence.", "reference": null}
+{"id": "h2-060", "category": "mkt", "task": "SMS promo (160 chars) for a bookstore: free tote bag on orders over 150k this weekend.", "reference": null}
+{"id": "h2-061", "category": "mkt", "task": "Rewrite the human-unfriendly banner 'Siz uchun eng yaxshi takliflar shu yerdagi eng past narxlarda' into one clean line.", "reference": null}
+{"id": "h2-062", "category": "mkt", "task": "Two-line pitch for a SaaS booking tool for barbers: empty chairs become appointments.", "reference": null}
+{"id": "h2-063", "category": "mkt", "task": "Social post for a cat cafe opening in Tashkent: 20 cats, coffee, booking link. Playful but clean.", "reference": null}
+{"id": "h2-064", "category": "mkt", "task": "Website microcopy for a pharmacy chain: 'Order by 20:00 — next-morning pickup'. One line.", "reference": null}
+{"id": "h2-065", "category": "mkt", "task": "App-store description opener for a taxi app for women drivers and passengers: safety-first, 2 lines.", "reference": null}
+{"id": "h2-066", "category": "mkt", "task": "Banner for a sports goods sale: winter skis and boards up to 35% off, this week only. One line + CTA.", "reference": null}
+{"id": "h2-067", "category": "mkt", "task": "Loyalty email for a phone-repair chain: free screen check, 90-day warranty on fixes. 3 short lines.", "reference": null}
+{"id": "h2-068", "category": "mkt", "task": "Launch post for a local cheese brand: farm milk, 3 kinds, sold in Korzinka. 2 lines.", "reference": null}
+{"id": "h2-069", "category": "mkt", "task": "Referral post for a cleaning service: invite a neighbor, both get one free general clean. 2 lines.", "reference": null}
+{"id": "h2-070", "category": "mkt", "task": "Ad headline (max 6 words) for an online lawyer consult: answer within 15 minutes.", "reference": null}
+{"id": "h2-071", "category": "mkt", "task": "Facebook post for a computer school's kids' robotics course: Saturdays, ages 8-12, first lesson free.", "reference": null}
+{"id": "h2-072", "category": "mkt", "task": "Describe a co-working space's day pass to freelancers: 40k soʻm, coffee included, meeting rooms by the hour. 2 lines.", "reference": null}
+{"id": "h2-073", "category": "mkt", "task": "Charity post: support the city animal shelter — food and medicine list below, every little helps. 3 lines.", "reference": "Batafsil 👇👇👇"}
+{"id": "h2-074", "category": "mkt", "task": "Two test headlines for an online-movie service: watch on any device, cancel anytime.", "reference": null}
+{"id": "h2-075", "category": "mkt", "task": "Rewrite robotic banner text into human marketing: 'Innovatsion platforma orqali professional xizmatlardan foydalaning!'", "reference": null}
+{"id": "h2-076", "category": "mkt", "task": "Seasonal campaign line for a tea brand: winter evenings, 5 new blends. One cozy sentence.", "reference": null}
+{"id": "h2-077", "category": "mkt", "task": "B2B line for a logistics company: dedicated manager, daily reports, every region covered. One sentence.", "reference": null}
+{"id": "h2-078", "category": "mkt", "task": "Instagram bio (under 150 chars) for a handmade soap shop: natural oils, small batches, Tashkent, delivery.", "reference": null}
+{"id": "h2-079", "category": "mkt", "task": "Ad for driving school automatic-car package: 20 lessons, exam support, payment in parts. 2 lines.", "reference": null}
+{"id": "h2-080", "category": "mkt", "task": "Product page opener for ergonomic chairs: back pain, remote work, 5-year warranty. 2 sentences.", "reference": null}
+{"id": "h2-081", "category": "en2uz", "task": "Translate UI: 'We value your privacy. Choose which cookies to allow.'", "reference": null}
+{"id": "h2-082", "category": "en2uz", "task": "Translate for a hospital site: 'Visiting hours are daily from 14:00 to 17:00.'", "reference": null}
+{"id": "h2-083", "category": "en2uz", "task": "Translate chat-style: 'omw, 10 mins'", "reference": null}
+{"id": "h2-084", "category": "en2uz", "task": "Translate a recipe intro: 'This dough needs to rest overnight — don't rush it.'", "reference": null}
+{"id": "h2-085", "category": "en2uz", "task": "Translate UI error: 'Payment declined by your bank. Contact your bank or try another card.'", "reference": null}
+{"id": "h2-086", "category": "en2uz", "task": "Translate the advice idiom: 'The early bird catches the worm' — as a note on a morning-sale banner.", "reference": null}
+{"id": "h2-087", "category": "en2uz", "task": "Translate support: 'Could you send a screenshot of the error? It will help us fix it faster.' (human tone)", "reference": null}
+{"id": "h2-088", "category": "en2uz", "task": "Translate a library rule: 'Return books on time — other readers are waiting.'", "reference": null}
+{"id": "h2-089", "category": "en2uz", "task": "Translate formal: 'We confirm receipt of your documents and will respond within five business days.'", "reference": null}
+{"id": "h2-090", "category": "en2uz", "task": "Translate checkout note: 'Gift wrapping available for 5 000 soʻm.'", "reference": null}
+{"id": "h2-091", "category": "en2uz", "task": "Translate a traffic alert: 'Bridge closed for maintenance until Friday, use the detour.'", "reference": null}
+{"id": "h2-092", "category": "en2uz", "task": "Translate a store sign: 'No entry after closing time.'", "reference": null}
+{"id": "h2-093", "category": "en2uz", "task": "Translate a teacher's note: 'Please sign the diary and return it tomorrow.'", "reference": null}
+{"id": "h2-094", "category": "en2uz", "task": "Translate: 'The deadline moved to next Monday — same requirements.' (team chat)", "reference": null}
+{"id": "h2-095", "category": "en2uz", "task": "Translate a booking detail: 'Airport pickup, driver will hold a name sign.'", "reference": null}
+{"id": "h2-096", "category": "en2uz", "task": "Translate to a peer, polite but equal: 'Can you cover my shift on Thursday? I'll return the favor.'", "reference": null}
+{"id": "h2-097", "category": "en2uz", "task": "Translate a warranty line: 'The warranty covers manufacturing defects only.'", "reference": null}
+{"id": "h2-098", "category": "en2uz", "task": "Translate: 'Winter tires are mandatory from December 1.' (news brief)", "reference": null}
+{"id": "h2-099", "category": "en2uz", "task": "Translate a power-bank manual warning: 'Do not charge the device unattended overnight.'", "reference": null}
+{"id": "h2-100", "category": "en2uz", "task": "Translate a travel caption: 'Sunrise over the mountains — worth every early alarm.'", "reference": null}
+{"id": "h2-101", "category": "en2uz", "task": "Translate a course ad: 'Design portfolio in 10 weeks — learn by doing, mentor feedback every week.'", "reference": null}
+{"id": "h2-102", "category": "en2uz", "task": "Translate: 'Your table is ready. Please see the host.'", "reference": null}
+{"id": "h2-103", "category": "en2uz", "task": "Translate a museum line: 'Photography without flash is permitted.'", "reference": null}
+{"id": "h2-104", "category": "en2uz", "task": "Translate: 'This size just came back in stock — limited quantity.'", "reference": null}
+{"id": "h2-105", "category": "en2uz", "task": "Translate a friendly line: 'Take an umbrella — the sky looks suspicious.'", "reference": null}
+{"id": "h2-106", "category": "ru2uz", "task": "Переведите (продукт): «Ваш номер подтверждён. Добро пожаловать!»", "reference": null}
+{"id": "h2-107", "category": "ru2uz", "task": "Переведите (новости): «В Ташкенте открылась новая станция метро,报道 передает корреспондент.» — без слова «报道»", "reference": null}
+{"id": "h2-108", "category": "ru2uz", "task": "Переведите (новости): «В Ташкенте открылась новая станция метро, передает наш корреспондент.»", "reference": null}
+{"id": "h2-109", "category": "ru2uz", "task": "Переведите (акция): «При заказе от двух пицц — третья в подарок.»", "reference": null}
+{"id": "h2-110", "category": "ru2uz", "task": "Переведите (заявление): «Прошу перевести мою дочь в первый класс по месту жительства.»", "reference": null}
+{"id": "h2-111", "category": "ru2uz", "task": "Переведите (реклама): «Свежая выпечка каждое утро — попробуйте нашу новинку.»", "reference": null}
+{"id": "h2-112", "category": "ru2uz", "task": "Переведите (UI): «Сессия истекла. Войдите снова.»", "reference": null}
+{"id": "h2-113", "category": "ru2uz", "task": "Переведите смысл: «Слово не воробей, вылетит — не поймаешь.» (совет осторожнее с обещаниями)", "reference": null}
+{"id": "h2-114", "category": "ru2uz", "task": "Переведите (инструкция): «Снимите защитную плёнку перед первым использованием.»", "reference": null}
+{"id": "h2-115", "category": "ru2uz", "task": "Переведите (поддержка): «К сожалению, товара нет на складе, но мы можем уведомить вас о поступлении.»", "reference": null}
+{"id": "h2-116", "category": "ru2uz", "task": "Переведите (объявление): «С 1 июня изменяется график работы поликлиники.»", "reference": null}
+{"id": "h2-117", "category": "ru2uz", "task": "Переведите (меню): «Плов с перепелиным яйцом, подаётся с ачичуком.»", "reference": null}
+{"id": "h2-118", "category": "ru2uz", "task": "Переведите (банк): «Пополнение на 200 000 сум зачислено. Баланс: 350 000 сум.»", "reference": null}
+{"id": "h2-119", "category": "ru2uz", "task": "Переведите (расписание): «Автобус 33 ходит каждые 15 минут в часы пик.»", "reference": null}
+{"id": "h2-120", "category": "ru2uz", "task": "Переведите (погода): «Ночью возможен туман, видимость снизится.»", "reference": null}
+{"id": "h2-121", "category": "ru2uz", "task": "Переведите дружелюбно (телеграм): «С наступающим! Пусть новый год принесёт только хорошее!»", "reference": null}
+{"id": "h2-122", "category": "ru2uz", "task": "Переведите (официально): «Заявления принимаются в электронном виде через единый портал.»", "reference": null}
+{"id": "h2-123", "category": "ru2uz", "task": "Переведите (доставка): «Посылка прибыла в ваш район, ожидайте звонка курьера.»", "reference": null}
+{"id": "h2-124", "category": "ru2uz", "task": "Переведите (пословица-совет): «Тише едешь — дальше будешь.» (при подготовке к экзамену)", "reference": null}
+{"id": "h2-125", "category": "ru2uz", "task": "Переведите (курьер): «Я у вашего подъезда, третий этаж, домофон не работает?»", "reference": null}
+{"id": "h2-126", "category": "formal", "task": "Ariza: Elektr ta'minoti kompaniyasiga hisob-fakturadagi xatoni to'g'irlash haqida (iyun oyida 2 marta yechib olingan).", "reference": null}
+{"id": "h2-127", "category": "formal", "task": "Direktorga 3 kunga bepul kun so'rash: singlisining to'yi Samarqandda.", "reference": null}
+{"id": "h2-128", "category": "formal", "task": "Universitet dekanligiga ma'lumotnoma so'rovi: o'qishni bitirgani to'g'risida, ishga kirish uchun.", "reference": null}
+{"id": "h2-129", "category": "formal", "task": "Qo'shni ustidan emas, mahalla komitesiga: qo'shni xorovoziga reaksiya, odob bilan hal so'rash.", "reference": null}
+{"id": "h2-130", "category": "formal", "task": "Internet provayderga rasmiy shikoyat: 20 kun ishlamadi, pul qaytarish yoki shartnoma bekor qilish talabi.", "reference": null}
+{"id": "h2-131", "category": "formal", "task": "Xodimlar uchun yangi konveyerni o'rnatish haqida ichki buyruq loyihasi (ishlab chiqarish boshlig'i nomidan).", "reference": null}
+{"id": "h2-132", "category": "formal", "task": "Mehmonxona xodimlariga tashakkur xati: konferensiya guruhimizga qulaylik qildingizlar.", "reference": null}
+{"id": "h2-133", "category": "formal", "task": "Hokimiyatga murojaat: bolalar maydonchasi jihozlarining holati, ba'zi ustunlar siniq.", "reference": null}
+{"id": "h2-134", "category": "formal", "task": "Sudga bo'lmagan, sug'urta kompaniyasiga rasmiy xat: sug'urta hodisasi bo'yicha to'lov muddati o'tdi.", "reference": null}
+{"id": "h2-135", "category": "formal", "task": "Tuman ta'lim bo'limiga: maktab kutubxonasiga yangi adabiyotlar so'rovi, ota-onalar hay'ati nomidan.", "reference": null}
+{"id": "h2-136", "category": "formal", "task": "Ishga kirish uchun rezyumega hamroh xat (cover letter): marketing mutaxassisi, 3 yillik tajriba.", "reference": null}
+{"id": "h2-137", "category": "formal", "task": "Yashash joyini o'zgartirgani haqida ma'lumotnoma so'rov: mahalla fuqarolar yig'iniga.", "reference": null}
+{"id": "h2-138", "category": "formal", "task": "O'quv markazga shikoyat: to'lov qilingan kurs boshlanmadi, guruh shakllanmadi, pul qaytarilishini so'rash.", "reference": null}
+{"id": "h2-139", "category": "formal", "task": "Kommunal xizmatga hisob-kitobni qayta tekshirish arizasi: ko'rsatkichlar hisobdan chetda.", "reference": null}
+{"id": "h2-140", "category": "formal", "task": "Bolalar bog'chasi rahbariga minnatdorchilik + changni tozalash jadvalini taklif qilish (ota-ona nomidan).", "reference": null}
+{"id": "h2-141", "category": "news", "task": "News brief: a new pedestrian bridge over Anhor canal opens next month, 180 meters, two elevators.", "reference": null}
+{"id": "h2-142", "category": "news", "task": "Report: 1,200 new jobs created in Navoi industrial zone this year, mostly electronics.", "reference": null}
+{"id": "h2-143", "category": "news", "task": "Weather: dust storm warning for tomorrow afternoon, visibility under 1 km, drivers advised.", "reference": null}
+{"id": "h2-144", "category": "news", "task": "Sports: Uzbek gymnast wins gold at the Asian championship, first medal of the tournament for the team.", "reference": null}
+{"id": "h2-145", "category": "news", "task": "Culture: national library digitizes 50,000 old photographs, free online access from Monday.", "reference": null}
+{"id": "h2-146", "category": "news", "task": "Economy: remittances grew 12% year over year in the third quarter, central bank data.", "reference": null}
+{"id": "h2-147", "category": "news", "task": "Education: 300 schools get new computer labs under the national program by year end.", "reference": null}
+{"id": "h2-148", "category": "news", "task": "Transport: city bike-sharing expands to 40 new stations in Tashkent, prices unchanged.", "reference": null}
+{"id": "h2-149", "category": "news", "task": "Social: free English courses launch for 5,000 rural students, registration via the portal.", "reference": null}
+{"id": "h2-150", "category": "news", "task": "Health: flu vaccination campaign starts Monday, 400 clinics, priority for seniors.", "reference": null}

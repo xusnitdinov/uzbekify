@@ -1,0 +1,60 @@
+{"id": "hd2-01", "slot": "slot1", "pass": false, "reason": "em dashes x2; 96 words, below 180-word floor"}
+{"id": "hd2-01", "slot": "slot2", "pass": false, "reason": "em dashes x4; 138 words, below 180-word floor"}
+{"id": "hd2-01", "slot": "slot3", "pass": false, "reason": "clean but only 62 words, far below 180-word floor"}
+{"id": "hd2-02", "slot": "slot1", "pass": false, "reason": "robot word kept: 'rejalashtirilgan' in last line"}
+{"id": "hd2-02", "slot": "slot2", "pass": false, "reason": "drops hit: ko'rsatadi, rejalashtirilgan; em dashes x2"}
+{"id": "hd2-02", "slot": "slot3", "pass": false, "reason": "drops hit: tashkil etilgan, rejalashtirilgan; em dashes x2"}
+{"id": "hd2-03", "slot": "slot1", "pass": false, "reason": "'yo'lga qo'yilgan' kept verbatim; em dash"}
+{"id": "hd2-03", "slot": "slot2", "pass": false, "reason": "'yo'lga qo'yilgan' kept verbatim; em dashes x2"}
+{"id": "hd2-03", "slot": "slot3", "pass": true, "reason": "drops avoided, no dashes, natural varied rhythm"}
+{"id": "hd2-04", "slot": "slot1", "pass": true, "reason": "facts kept, formal report voice, genuinely reworked"}
+{"id": "hd2-04", "slot": "slot2", "pass": false, "reason": "near-verbatim copy of robot source, nothing livened"}
+{"id": "hd2-04", "slot": "slot3", "pass": true, "reason": "facts kept, proper official prose"}
+{"id": "hd2-05", "slot": "slot1", "pass": true, "reason": "drops avoided, no dashes, short natural chunks"}
+{"id": "hd2-05", "slot": "slot2", "pass": false, "reason": "em dash used as dash in 'ko'rinadi — oldingi hafta'"}
+{"id": "hd2-05", "slot": "slot3", "pass": false, "reason": "em dashes x2 (opener, 'qo'ydik — qisqacha')"}
+{"id": "hd2-06", "slot": "slot1", "pass": false, "reason": "em dashes x3 used as dashes"}
+{"id": "hd2-06", "slot": "slot2", "pass": false, "reason": "robot word kept: 'jihozlangan'"}
+{"id": "hd2-06", "slot": "slot3", "pass": false, "reason": "'jihozlangan' and 'rasmiylashtiriladi' kept; em dash"}
+{"id": "hd2-07", "slot": "slot1", "pass": true, "reason": "official layer + chat reminder, both distinct, no dashes"}
+{"id": "hd2-07", "slot": "slot2", "pass": true, "reason": "two clear layers, no dashes, chat note lands"}
+{"id": "hd2-07", "slot": "slot3", "pass": false, "reason": "em-dash divider line and '25-oktabr — kechikib'"}
+{"id": "hd2-08", "slot": "slot1", "pass": true, "reason": "official, congratulatory, promo lines distinct and natural"}
+{"id": "hd2-08", "slot": "slot2", "pass": true, "reason": "official, congratulatory, promo layers distinct"}
+{"id": "hd2-08", "slot": "slot3", "pass": true, "reason": "official, warm, promo layers distinct"}
+{"id": "hd2-09", "slot": "slot1", "pass": true, "reason": "quote verbatim, warm chat reply"}
+{"id": "hd2-09", "slot": "slot2", "pass": true, "reason": "quote verbatim, chat tone"}
+{"id": "hd2-09", "slot": "slot3", "pass": true, "reason": "quote verbatim, chat tone"}
+{"id": "hd2-10", "slot": "slot1", "pass": false, "reason": "markdown dash bullets; em dash in closing line"}
+{"id": "hd2-10", "slot": "slot2", "pass": false, "reason": "markdown dash bullets; em dash in closing"}
+{"id": "hd2-10", "slot": "slot3", "pass": true, "reason": "numbered list, no dashes, both tones kept"}
+{"id": "hd2-11", "slot": "slot1", "pass": true, "reason": "official SMS + plain explainer"}
+{"id": "hd2-11", "slot": "slot2", "pass": true, "reason": "SMS + plain explanation, natural"}
+{"id": "hd2-11", "slot": "slot3", "pass": true, "reason": "SMS + concrete plain explanation"}
+{"id": "hd2-12", "slot": "slot1", "pass": true, "reason": "official address + warm line, no dashes"}
+{"id": "hd2-12", "slot": "slot2", "pass": false, "reason": "em dash as dash; dubious word 'sharipalar'"}
+{"id": "hd2-12", "slot": "slot3", "pass": true, "reason": "two layers, no dashes"}
+{"id": "hd2-13", "slot": "slot1", "pass": false, "reason": "misreads issue: says QR failed, customer said QR passed"}
+{"id": "hd2-13", "slot": "slot2", "pass": true, "reason": "chat tone, addresses promo code failure"}
+{"id": "hd2-13", "slot": "slot3", "pass": true, "reason": "chat tone, concrete fix, loans kept"}
+{"id": "hd2-14", "slot": "slot1", "pass": true, "reason": "loans kept, junior-level explanation, chat"}
+{"id": "hd2-14", "slot": "slot2", "pass": true, "reason": "loans kept, explains deploy/hotfix naturally"}
+{"id": "hd2-14", "slot": "slot3", "pass": true, "reason": "loans kept, chat, explains for junior"}
+{"id": "hd2-15", "slot": "slot1", "pass": true, "reason": "answers price + ads, natural tone"}
+{"id": "hd2-15", "slot": "slot2", "pass": true, "reason": "answers both; 2 mild tells within max 2"}
+{"id": "hd2-15", "slot": "slot3", "pass": true, "reason": "answers both; 2 mild tells at limit"}
+{"id": "hd2-16", "slot": "slot1", "pass": true, "reason": "user words kept, chat tone"}
+{"id": "hd2-16", "slot": "slot2", "pass": true, "reason": "asks location, code-mix kept, chat"}
+{"id": "hd2-16", "slot": "slot3", "pass": true, "reason": "terse chat, code-mix kept"}
+{"id": "hd2-17", "slot": "slot1", "pass": true, "reason": "lunch kept, delivery paraphrased naturally"}
+{"id": "hd2-17", "slot": "slot2", "pass": true, "reason": "loans kept, tidy mixed post"}
+{"id": "hd2-17", "slot": "slot3", "pass": true, "reason": "structured mixed post, loans kept"}
+{"id": "hd2-18", "slot": "slot1", "pass": true, "reason": "loans kept, no corporate tone"}
+{"id": "hd2-18", "slot": "slot2", "pass": true, "reason": "loans kept, natural ad copy"}
+{"id": "hd2-18", "slot": "slot3", "pass": true, "reason": "loans kept; 'tarqoq jamoa' slightly off but fine"}
+{"id": "hd2-19", "slot": "slot1", "pass": true, "reason": "all Latin, proper ʻ marks, chat tone"}
+{"id": "hd2-19", "slot": "slot2", "pass": false, "reason": "straight apostrophes (o'chirib, bo'ladi), not proper ʻ"}
+{"id": "hd2-19", "slot": "slot3", "pass": true, "reason": "all Latin, proper ʻ marks, chat tone"}
+{"id": "hd2-20", "slot": "slot1", "pass": true, "reason": "Latin with proper ʻ marks"}
+{"id": "hd2-20", "slot": "slot2", "pass": false, "reason": "straight apostrophes in Yig'ilish/bo'lib, not ʻ"}
+{"id": "hd2-20", "slot": "slot3", "pass": true, "reason": "Latin with proper ʻ marks"}

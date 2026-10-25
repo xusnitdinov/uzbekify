@@ -1,0 +1,70 @@
+{"id":"hard-08","better":"A","reason":"Warmer, more human chat voice ('dedingiz, tushundim', 'bemalol yozing') with the formal quote kept verbatim."}
+{"id":"hard-54","better":"B","reason":"Only B performs the required fix of 'yaxwi' to 'yaxshi'; A leaves the error untouched."}
+{"id":"ho-148","better":"B","reason":"Tighter news phrasing 'Toshkent–Nukus yoʻnalishidagi' with the natural 'Chiptalar ... boshlanadi'."}
+{"id":"ho-146","better":"A","reason":"'Oldingi darajada qoldirdi' is the standard central-bank phrase; B's 'oʻzgarmas qoldirdi' sounds slightly off."}
+{"id":"ho-041","better":"B","reason":"'Balansingiz 50 000 soʻmga toʻldirildi. Rahmat!' reads like polished, friendly app copy."}
+{"id":"ho-116","better":"B","reason":"'Soat 9:00 dan' and 'sababli' are the more natural everyday phrasing for a notice."}
+{"id":"ho-117","better":"B","reason":"'Obinon' for lepyoshka and 'uy lapshasi qoʻshilgan mash shoʻrvasi' sound like a real Uzbek cafe menu."}
+{"id":"ho-110","better":"A","reason":"Standard formal petition phrasing; B's 'Sizdan ... berishingizni soʻrayman' is non-standard inside an ariza."}
+{"id":"ho-145","better":"B","reason":"Flows better: 'qayta ishga tushdi' and the seat count integrated into one sentence."}
+{"id":"ho-094","better":"A","reason":"'Xona oʻsha' is exactly how a person says 'same room' in team chat; B's 'oʻzgarmaydi' is stiff."}
+{"id":"ho-030","better":"A","reason":"Looser human rhythm ('Olganman oʻzim, oʻrtacha ekan ... yoʻqdek'); B feels slightly structured."}
+{"id":"ho-069","better":"A","reason":"'Shoʻrvaga non choʻktirsangiz, tushlik hal boʻldi' is genuinely native ad voice; B's variants are more template."}
+{"id":"ho-078","better":"B","reason":"'3% qaytib boradi' and '1,5 mln' sound like real Uzbek marketing, and the birthday perk adds human warmth."}
+{"id":"hard-13","better":"B","reason":"Correctly fixes 'oʻtdi' with the proper apostrophe while keeping the code-mix; A leaves the misspelling 'otdi'."}
+{"id":"hard-57","better":"B","reason":"'Tushlik tanaffusi' and '25-35 ming soʻm' keep the meaning clear while fixing the dashes."}
+{"id":"ho-088","better":"A","reason":"'Ogʻirliklarni joyiga qoʻying' is real gym phrasing; B's 'yuklamalarni ... qoʻyib qoʻying' is clunky."}
+{"id":"ho-120","better":"A","reason":"'Harorat +14 dan +18 gacha' is how forecasts are actually phrased; B's '+14…+18 daraja' is a calque."}
+{"id":"ho-057","better":"A","reason":"A says 'yakshanbagacha' (Sunday) as the task requires; B wrongly says Saturday ('shanbagacha')."}
+{"id":"ho-048","better":"B","reason":"Concrete, warm product copy ('sevimli matnlarni oflayn saqlab qoʻying') beats A's generic line."}
+{"id":"ho-118","better":"B","reason":"Avoids A's awkward 'uch marta ... uchun' pile-up and uses the standard 'PIN-kod'."}
+{"id":"hard-34","better":"A","reason":"Preserves the original content including the legal-dept line; B invents payment details not in the source."}
+{"id":"ho-140","better":"A","reason":"Complete formal application with proper structure and details; B is vague and ends oddly with 'arizachi'."}
+{"id":"ho-096","better":"A","reason":"'Vaqtingiz boʻlganda ... ketasizmi?' is the right polite-neutral tone; 'zahmatingiz boʻlmasa' is a broken idiom."}
+{"id":"ho-112","better":"tie","reason":"Both are equally standard, natural UI error microcopy."}
+{"id":"ho-023","better":"B","reason":"'Kechikibdi' evidential and concrete '3-5 ish kuni' sound human; A doubles 'uzr/kechirim' awkwardly."}
+{"id":"hard-26","better":"B","reason":"Punchier teen voice with 'soʻrayverishadi' and the very native closer 'Shu qismi tuzatsa, gap yoʻq'."}
+{"id":"ho-064","better":"A","reason":"'10% arzonlashdi' plus the urgent 'Hoziroq koʻrish' reads livelier than B's neutral lines."}
+{"id":"ho-061","better":"B","reason":"Telegraphic 'bepul baholash, soʻng qatʼiy narx' is how a real ad headline sounds."}
+{"id":"ho-018","better":"B","reason":"'Berib turadigan boʻlsang' and 'hozir tashlayman' are exactly how friends text about lending money."}
+{"id":"ho-121","better":"A","reason":"Simpler, chatty 'sizlar zoʻrsiz!'; B is wordier and the dash feels less like chat."}
+{"id":"ho-029","better":"A","reason":"'Chiqsangiz boʻladi' makes one smooth, natural driver line; B's conditional is stiffer."}
+{"id":"ho-133","better":"B","reason":"Names an exact intersection as the task demands; A only offers placeholder street names."}
+{"id":"ho-127","better":"A","reason":"Correct formal 'ozod qilishingizni soʻrayman' with a full ariza layout; B misuses 'kechirishingizni'."}
+{"id":"ho-097","better":"B","reason":"'Ushbu' fits the legal-lite register better than the bare 'Bu'."}
+{"id":"hard-41","better":"B","reason":"Clearer three-step logic ending 'maxfiy holda saqlanadi'; still formal but more complete."}
+{"id":"ho-144","better":"B","reason":"More polished news style: 'xalqaro', 'nafar shaxmatchi bellashdi', attribution by tournament results."}
+{"id":"hard-33","better":"A","reason":"Varied sentence rhythm and a natural CTA; B's 'ilova ishlatishga qulay' is clunky."}
+{"id":"hard-07","better":"B","reason":"Fuller formal narrative with the raw chat quote intact; A has the redundant 'yorugʻlik chirogʻi'."}
+{"id":"ho-021","better":"tie","reason":"The two candidates are word-for-word identical."}
+{"id":"ho-035","better":"A","reason":"More concrete, benefit-led onboarding lines ('Oy yakunida tushunarli hisobot') with consistent voice."}
+{"id":"ho-122","better":"tie","reason":"Same clause; 'paytdan boshlab' versus 'paytdan' is a negligible difference in equal quality."}
+{"id":"ho-124","better":"B","reason":"Keeps the full proverb meaning 'that can be done today'; A drops that clause."}
+{"id":"ho-072","better":"A","reason":"'Fikrlari jamlangan' is a cleaner neutral section intro; B trails off with 'oʻqishingiz mumkin'."}
+{"id":"hard-51","better":"tie","reason":"Identical strings; the source post already contains no errors to fix."}
+{"id":"ho-111","better":"B","reason":"The dash gives the tagline ad-like rhythm; A's comma splice is flat."}
+{"id":"ho-033","better":"A","reason":"'Hozircha' plus the motivating 'birinchi darsni boshlang' is stronger empty-state copy."}
+{"id":"ho-087","better":"A","reason":"'Uzr, noqulay boʻldi' is human support chat; B stays formal with 'kechiramiz ... ishlamoqda'."}
+{"id":"ho-091","better":"A","reason":"'Yoʻllar muz bosishi' is the vivid, idiomatic weather phrasing a native would use."}
+{"id":"hard-14","better":"A","reason":"Authentic gamer voice ('nerf yedi', 'mainingiz qaysi qatorda ekan'); B is tamer and more explanatory."}
+{"id":"hard-19","better":"A","reason":"'Menda muammo bor, ilova ...' with the kept chat-style 'Nma' sounds like a real person's message."}
+{"id":"ho-101","better":"B","reason":"Better ad rhythm with the dash and the standard 'boʻlib oʻtadi' for classes."}
+{"id":"ho-055","better":"B","reason":"Modern product voice: 'yubordik', the question form 'Kod kelmadi?', tight lines."}
+{"id":"ho-074","better":"B","reason":"Smoother lines ('alohida eʼtibor bor'); A's 'eʼtibor yetadi' is an off collocation."}
+{"id":"hard-22","better":"B","reason":"Direct, empathetic reply that still keeps the Cyrillic quote; a cleaner deliverable than A's narrative."}
+{"id":"ho-082","better":"A","reason":"'Maʼlum qilishicha' collocates best with officials in Uzbek news attribution."}
+{"id":"ho-150","better":"B","reason":"'Solishtiruvchi ilovani ishga tushirdi' and '800 ta dorixona' are smoother news phrasing."}
+{"id":"ho-090","better":"A","reason":"Standard Uzbek spelling 'aksiyalar'; B's 'aktsiyalar' is a Russian-spelling leak."}
+{"id":"hard-53","better":"B","reason":"Same faithful copy of the words, but fully punctuated with the final period added."}
+{"id":"ho-126","better":"A","reason":"Clean, complete murojaat; B has odd collocations ('tezligi past ishlamoqda') and an 'obunachi' sign-off."}
+{"id":"hard-47","better":"tie","reason":"Both use the correct '-yapman' form; 'shu yerda' and 'bu yerda' are equally natural."}
+{"id":"ho-011","better":"B","reason":"Teaser-style channel post that sells the episode while staying under the 15-word limit."}
+{"id":"ho-013","better":"B","reason":"'Doʻstlar' opener with a firm 'takrorlansa, bloklanadi' matches the firm-but-human warning brief."}
+{"id":"hard-10","better":"B","reason":"Clearly separates the two news sentences from the plain-language explanation; A blends them vaguely."}
+{"id":"hard-45","better":"A","reason":"'Eshitishimcha ... ketgan ekan' keeps the hearsay tone; 'Koʻrinishidan' is a visual-inference calque."}
+{"id":"ho-002","better":"B","reason":"Informal 'tashlab tur' fits the friend register; A slips into the formal 'turing'."}
+{"id":"ho-138","better":"A","reason":"Precise termination notice with the formal 'Shu boisdan' connector and full letter layout."}
+{"id":"ho-016","better":"A","reason":"'Issiq-issiq' and 'marhamat' are exactly a bakery owner's Saturday WhatsApp voice."}
+{"id":"ho-113","better":"A","reason":"'Vaʼda qilish bilan ish bitmaydi' is a real idiomatic equivalent; B is a stiff word-for-word calque."}
+{"id":"ho-093","better":"B","reason":"'Sezilarli yaxshilanishga erishdi' matches the teacher-note register and the source meaning precisely."}
+{"id":"hard-06","better":"B","reason":"Genuinely livelier developer prose with cause-effect links; A stays list-like in rhythm."}

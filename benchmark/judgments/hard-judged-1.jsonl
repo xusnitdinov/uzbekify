@@ -1,0 +1,60 @@
+{"id":"hard-01","slot":"slot1","pass":false,"reason":"Only ~82 words, under the 150-word minimum; a real announcement would be fuller"}
+{"id":"hard-01","slot":"slot2","pass":false,"reason":"Keeps 'rejalashtirilgan' verbatim ('ochilishi rejalashtirilgan'), exactly the officialese the drop list bans"}
+{"id":"hard-01","slot":"slot3","pass":false,"reason":"Keeps 'rejalashtirilgan' ('ko'paytirilishi rejalashtirilgan'); final paragraph still reads like the report original"}
+{"id":"hard-02","slot":"slot1","pass":true,"reason":"RU connectors gone, karta/mijoz kept, bank-legal tone preserved with natural flow"}
+{"id":"hard-02","slot":"slot2","pass":true,"reason":"Bank register kept, added plain examples; one copied tell ('yuqorida qayd etilganidek') within lint limit"}
+{"id":"hard-02","slot":"slot3","pass":false,"reason":"Barely humanized: 'qat'iy rioya qilingan holda amalga oshiriladi', 'taqdim etiladi', 'bu maqsadda' still robot officialese, over lint budget"}
+{"id":"hard-03","slot":"slot1","pass":true,"reason":"Concrete dates and details, uneven rhythm, no dash, narx/yetkaz kept"}
+{"id":"hard-03","slot":"slot2","pass":true,"reason":"Natural reviewer voice with specifics, no dash anywhere, facts kept"}
+{"id":"hard-03","slot":"slot3","pass":true,"reason":"Rich concrete detail (battery, camera, support), no dash, sounds like a real buyer"}
+{"id":"hard-04","slot":"slot1","pass":true,"reason":"Report verbs gone, sentence lengths varied, no dash"}
+{"id":"hard-04","slot":"slot2","pass":true,"reason":"Lively narrative, clearly varied paragraphs and rhythm, drop patterns absent"}
+{"id":"hard-04","slot":"slot3","pass":true,"reason":"Active voice, mixed short and long sentences, no dash"}
+{"id":"hard-05","slot":"slot1","pass":true,"reason":"'Siz ... mumkin' template broken, imperative mentor voice, varied beats"}
+{"id":"hard-05","slot":"slot2","pass":true,"reason":"Colloquial mentor tone, alternating short and long sentences, no template openers"}
+{"id":"hard-05","slot":"slot3","pass":true,"reason":"Full mentor voice with concrete tips, rhythm varied, no banned openers"}
+{"id":"hard-06","slot":"slot1","pass":true,"reason":"Passives turned active ('qayd etadi', 'yo'naltiradi'), baz/monitoring/yuklama kept, no dash"}
+{"id":"hard-06","slot":"slot2","pass":true,"reason":"Concise and active, all tech terms kept, no dash"}
+{"id":"hard-06","slot":"slot3","pass":true,"reason":"Developer-friendly concrete detail; 'amalga oshadi' is intransitive, not the banned passive"}
+{"id":"hard-07","slot":"slot1","pass":true,"reason":"Telegram quote left raw verbatim, ARIZA frame formal, no 'mazkur'"}
+{"id":"hard-07","slot":"slot2","pass":true,"reason":"Quote untouched and raw, formal request intact, no 'mazkur'"}
+{"id":"hard-07","slot":"slot3","pass":true,"reason":"Quote stays raw, 'noroziligi' frame present, formal part clean"}
+{"id":"hard-08","slot":"slot1","pass":true,"reason":"Quote verbatim, warm chat tone ('dedingiz, tushundim'), no dash"}
+{"id":"hard-08","slot":"slot2","pass":true,"reason":"Chat register right, quote intact, human touch at the end"}
+{"id":"hard-08","slot":"slot3","pass":true,"reason":"Quote verbatim, natural quick chat reply, no dash"}
+{"id":"hard-09","slot":"slot1","pass":false,"reason":"No promo content (chegirma/bepul/yangi) in the slogan; legal line also lacks privacy/terms content"}
+{"id":"hard-09","slot":"slot2","pass":false,"reason":"Slogan has no promo content (chegirma/bepul/yangi); legal line is fine in spirit"}
+{"id":"hard-09","slot":"slot3","pass":false,"reason":"Slogan has no promo content (chegirma/bepul/yangi); legal line fine ('maxfiylik siyosati')"}
+{"id":"hard-10","slot":"slot1","pass":true,"reason":"Two news sentences plus one plain explainer plus 👇, registers not mixed"}
+{"id":"hard-10","slot":"slot2","pass":true,"reason":"Right structure, no bullets, pointer present"}
+{"id":"hard-10","slot":"slot3","pass":true,"reason":"News + simplified explainer + 👇, tone split clean, no bullets"}
+{"id":"hard-11","slot":"slot1","pass":true,"reason":"'Taqiqlanadi' kept as the deliberate formal punchline, chat voice throughout"}
+{"id":"hard-11","slot":"slot2","pass":true,"reason":"Formal word embedded naturally in casual warning"}
+{"id":"hard-11","slot":"slot3","pass":true,"reason":"Firm but chatty, 'Taqiqlanadi' intact, natural escalation"}
+{"id":"hard-12","slot":"slot1","pass":true,"reason":"Formal open and close, casual middle ('pul ham hisobga tushdi'), no dash"}
+{"id":"hard-12","slot":"slot2","pass":true,"reason":"Three layers felt, 'bo'ldi' chat core present, no dash"}
+{"id":"hard-12","slot":"slot3","pass":true,"reason":"Layers present ('Xo'sh, oddiy qilib aytganda...') though middle opens a bit passive"}
+{"id":"hard-13","slot":"slot1","pass":true,"reason":"Only spelling and punctuation fixed ('o'tdi'), wifi/pixel/file/click/xaxa intact"}
+{"id":"hard-13","slot":"slot2","pass":true,"reason":"Loans kept, light smoothing harmless, no dash"}
+{"id":"hard-13","slot":"slot3","pass":false,"reason":"Left 'otdi' uncorrected; the task was precisely to fix spelling"}
+{"id":"hard-14","slot":"slot1","pass":true,"reason":"patch/meta/tier kept, Uzbek frame solid, natural post"}
+{"id":"hard-14","slot":"slot2","pass":true,"reason":"Authentic gamer slang ('nerf yedi'), uzbek verbs ('chiqdi', 'o'zgardi') kept"}
+{"id":"hard-14","slot":"slot3","pass":true,"reason":"EN loans intact, sentences stay Uzbek and natural"}
+{"id":"hard-15","slot":"slot1","pass":true,"reason":"Compact and natural; CV covers resume content, React/remote/HR kept, no officialese"}
+{"id":"hard-15","slot":"slot2","pass":true,"reason":"Natural uzbek-english mix with concrete terms, rezume covers resume, zero officialese"}
+{"id":"hard-15","slot":"slot3","pass":true,"reason":"Ixcham and clean, all EN terms kept"}
+{"id":"hard-16","slot":"slot1","pass":true,"reason":"SIZ tone, app/payment/refund kept un-translated, apology natural"}
+{"id":"hard-16","slot":"slot2","pass":true,"reason":"Casual-polite reply, loans intact, within lint limit"}
+{"id":"hard-16","slot":"slot3","pass":true,"reason":"Loans kept (payment/refund), polite SIZ reply; skips the app praise but register is right"}
+{"id":"hard-17","slot":"slot1","pass":true,"reason":"'expired' kept naturally, clear reissue steps, chat voice"}
+{"id":"hard-17","slot":"slot2","pass":true,"reason":"Detailed process, warm chat register, 'expired' intact"}
+{"id":"hard-17","slot":"slot3","pass":false,"reason":"Never explains the new-card process, just defers to an operator; task required the process"}
+{"id":"hard-18","slot":"slot1","pass":true,"reason":"'brend' kept, clean compact bio"}
+{"id":"hard-18","slot":"slot2","pass":true,"reason":"Natural phrasing, brend intact"}
+{"id":"hard-18","slot":"slot3","pass":true,"reason":"Prose bio is fine, 'brend' and 'ok' preserved"}
+{"id":"hard-19","slot":"slot1","pass":true,"reason":"All Latin, correct ʻ marks (toʻgʻri, boʻlmadi), meaning kept, no Cyrillic leak"}
+{"id":"hard-19","slot":"slot2","pass":true,"reason":"Latin with proper ʻ marks; 'Nma' kept as chat voice, acceptable"}
+{"id":"hard-19","slot":"slot3","pass":false,"reason":"ASCII apostrophes (to'g'ri, o'chirib, bo'lmadi) instead of correct ʻ marks"}
+{"id":"hard-20","slot":"slot1","pass":true,"reason":"Correct ʻ marks throughout, text preserved, dash removed naturally"}
+{"id":"hard-20","slot":"slot2","pass":true,"reason":"Only marks fixed, most faithful to source ('xammasi' left as written is fine)"}
+{"id":"hard-20","slot":"slot3","pass":true,"reason":"Marks correct, added «» quotes harmless, meaning intact"}

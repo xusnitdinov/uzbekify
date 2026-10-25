@@ -1,0 +1,1650 @@
+{
+  "generated": "2026-10-23T21:16:14.606Z",
+  "entries": [
+    {
+      "id": "calque-1",
+      "bad": "ship qilmoq / ship it",
+      "good": "topshirmoq / chiqarmoq / ishga tushirmoq",
+      "why": "EN fandom verb never nativized",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-2",
+      "bad": "vibe",
+      "good": "kayfiyat / muhit / taassurot",
+      "why": "Meaning depends on context; no fixed loan",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-3",
+      "bad": "vibe check",
+      "good": "holatni tekshirish / koʻrib chiqish",
+      "why": "Meme compound",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-4",
+      "bad": "portladi (feature blew up = was great)",
+      "good": "juda yoqdi / zoʻr chiqdi",
+      "why": "Internet calque; \"portladi\" means exploded",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-5",
+      "bad": "teammate",
+      "good": "guruhdosh / jamoadosh / hamkasb",
+      "why": "EN team-speak",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-6",
+      "bad": "Systems brain",
+      "good": "tizimli fikrlash / mantiqni tushunish",
+      "why": "AI cosplay phrase",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-7",
+      "bad": "hard mode",
+      "good": "qiyin rejim / qiyinroq variant",
+      "why": "Gaming calque",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-8",
+      "bad": "Dream mode",
+      "good": "orzular rejimi",
+      "why": "Calque; usually rewrite to plain product language",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-9",
+      "bad": "crush it!",
+      "good": "zoʻr uddalang! / yaxshi bajaring!",
+      "why": "Motivation-speak calque",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-10",
+      "bad": "MVP (banter sense)",
+      "good": "eng foydali oʻyinchi",
+      "why": "Sports meme kept raw",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-11",
+      "bad": "cringe",
+      "good": "noqulay / gʻalati tuyuldi",
+      "why": "Register-fit the translation",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-12",
+      "bad": "literally",
+      "good": "rostdan ham / aynan",
+      "why": "Usually removable intensifier",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-13",
+      "bad": "random",
+      "good": "tasodifiy / kutilmagan",
+      "why": "Two senses, neither borrowed",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-14",
+      "bad": "mindset",
+      "good": "qarash / yondashuv",
+      "why": "Self-help calque",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-15",
+      "bad": "ghost qilmoq",
+      "good": "javob bermay qolmoq / yoʻqolmoq",
+      "why": "Dating-slang calque",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-16",
+      "bad": "flex qilmoq",
+      "good": "koʻrsatmoq / maqtanmoq",
+      "why": "Slang calque",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-17",
+      "bad": "salty boʻlmoq",
+      "good": "xafa boʻlmoq / ranjimoq",
+      "why": "Slang calque",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-18",
+      "bad": "GOAT",
+      "good": "barcha vaqtlardagi eng buyugʻi",
+      "why": "Only in sports content, then define once",
+      "class": "1. EN cool-slang paste (always rewrite)"
+    },
+    {
+      "id": "calque-19",
+      "bad": "check qilmoq",
+      "good": "tekshirmoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-20",
+      "bad": "update qilmoq",
+      "good": "yangilamoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-21",
+      "bad": "support qilmoq",
+      "good": "qoʻllab-quvvatlamoq / yordam bermoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-22",
+      "bad": "select qilmoq",
+      "good": "belgilamoq / tanlamoq",
+      "why": "Quiz Uzbek uses belgilang",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-23",
+      "bad": "save qilmoq",
+      "good": "saqlamoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-24",
+      "bad": "share qilmoq",
+      "good": "ulashmoq / yubormoq",
+      "why": "Platform verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-25",
+      "bad": "click qilmoq",
+      "good": "bosmoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-26",
+      "bad": "cancel qilmoq",
+      "good": "bekor qilmoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-27",
+      "bad": "delete qilmoq",
+      "good": "oʻchirmoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-28",
+      "bad": "confirm qilmoq",
+      "good": "tasdiqlamoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-29",
+      "bad": "download qilmoq",
+      "good": "yuklab olmoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-30",
+      "bad": "upload qilmoq",
+      "good": "yuklamoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-31",
+      "bad": "login qilmoq / log in qilmoq",
+      "good": "kirmoq (tizimga)",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-32",
+      "bad": "logout qilmoq",
+      "good": "chiqmoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-33",
+      "bad": "send qilmoq",
+      "good": "yubormoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-34",
+      "bad": "skip qilmoq",
+      "good": "oʻtkazib yubormoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-35",
+      "bad": "book qilmoq",
+      "good": "band qilmoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-36",
+      "bad": "order qilmoq",
+      "good": "buyurtma bermoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-37",
+      "bad": "pay qilmoq",
+      "good": "toʻlamoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-38",
+      "bad": "install qilmoq",
+      "good": "oʻrnatmoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-39",
+      "bad": "restart qilmoq",
+      "good": "qayta ishga tushirmoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-40",
+      "bad": "scan qilmoq",
+      "good": "skanerlamoq",
+      "why": "Assimilated form exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-41",
+      "bad": "register qilmoq",
+      "good": "roʻyxatdan oʻtmoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-42",
+      "bad": "fix qilmoq",
+      "good": "tuzatmoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-43",
+      "bad": "apply qilmoq (promo)",
+      "good": "qoʻllamoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-44",
+      "bad": "clear qilmoq",
+      "good": "tozalamoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-45",
+      "bad": "edit qilmoq",
+      "good": "tahrirlamoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-46",
+      "bad": "create qilmoq",
+      "good": "yaratmoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-47",
+      "bad": "view qilmoq",
+      "good": "koʻrmoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-48",
+      "bad": "try qilmoq",
+      "good": "sinab koʻrmoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-49",
+      "bad": "start qilmoq",
+      "good": "boshlamoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-50",
+      "bad": "stop qilmoq",
+      "good": "toʻxtatmoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-51",
+      "bad": "follow qilmoq",
+      "good": "obuna boʻlmoq / kuzatib bormoq",
+      "why": "Platform verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-52",
+      "bad": "post qilmoq",
+      "good": "eʼlon qilmoq / yozmoq",
+      "why": "Native verb exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-53",
+      "bad": "block qilmoq",
+      "good": "bloklamoq",
+      "why": "Assimilated form exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-54",
+      "bad": "report qilmoq",
+      "good": "shikoyat qilmoq / haqida xabar bermoq",
+      "why": "Native phrase exists",
+      "class": "2. EN verb + qilmoq hybrids (use the Uzbek verb)"
+    },
+    {
+      "id": "calque-55",
+      "bad": "Siz eshikni yopishga qarshi emasmisiz?",
+      "good": "Iltimos, eshikni yopib qoʻying",
+      "why": "Literal \"would you mind\"",
+      "class": "3. Politeness and phrase calques"
+    },
+    {
+      "id": "calque-56",
+      "bad": "Men haqiqatan ham bu ilovani yoqtiraman",
+      "good": "Bu ilova menga juda yoqadi",
+      "why": "EN \"I like X\" structure",
+      "class": "3. Politeness and phrase calques"
+    },
+    {
+      "id": "calque-57",
+      "bad": "haqiqatan ham (filler)",
+      "good": "juda / (oʻchiring)",
+      "why": "AI intensity filler",
+      "class": "3. Politeness and phrase calques"
+    },
+    {
+      "id": "calque-58",
+      "bad": "Hurmatli foyydalanuvchi, …",
+      "good": "Assalomu alaykum! / (name)",
+      "why": "False formality boilerplate",
+      "class": "3. Politeness and phrase calques"
+    },
+    {
+      "id": "calque-59",
+      "bad": "Rahmat sizga oldindan",
+      "good": "Oldindan rahmat",
+      "why": "Calqued \"thank you in advance\"",
+      "class": "3. Politeness and phrase calques"
+    },
+    {
+      "id": "calque-60",
+      "bad": "Men Oʻzbekiston emasman",
+      "good": "Men Oʻzbekistondan emasman",
+      "why": "Truncated \"from\"",
+      "class": "3. Politeness and phrase calques"
+    },
+    {
+      "id": "calque-61",
+      "bad": "Siz notoʻgʻrisiz",
+      "good": "Fikringizga qoʻshilmayman",
+      "why": "EN \"you are wrong\" rudeness",
+      "class": "3. Politeness and phrase calques"
+    },
+    {
+      "id": "calque-62",
+      "bad": "Zahmat boʻlmasa, menga yordam bera olasizmi?",
+      "good": "Zahmatingiz boʻlmasa, yordam bering",
+      "why": "Stacked double-soft calque",
+      "class": "3. Politeness and phrase calques"
+    },
+    {
+      "id": "calque-63",
+      "bad": "Bir savolim bor edi: …",
+      "good": "Savolim bor edi / Soʻramoqchi edim",
+      "why": "\"I have a question\" filler — fine once, calque when every message opens with it",
+      "class": "3. Politeness and phrase calques"
+    },
+    {
+      "id": "calque-64",
+      "bad": "Siz bilan ishlashdan xursandmiz",
+      "good": "Siz bilan ishlash yoqimli",
+      "why": "Calqued \"happy to work with you\"; xursandmiz is fine once, not as every closer",
+      "class": "3. Politeness and phrase calques"
+    },
+    {
+      "id": "calque-65",
+      "bad": "Bilaman ki …",
+      "good": "Bilaman, … (comma)",
+      "why": "EN \"I know that…\" ki-chain",
+      "class": "3. Politeness and phrase calques"
+    },
+    {
+      "id": "calque-66",
+      "bad": "Siz uchun ham davom etadi",
+      "good": "Sizga ham tejamli / Siz ham foydalanasiz",
+      "why": "Calqued \"continues for you\"",
+      "class": "3. Politeness and phrase calques"
+    },
+    {
+      "id": "calque-67",
+      "bad": "Bu raketa ilmi emas",
+      "good": "Bu unchalik murakkab ish emas",
+      "why": "\"Not rocket science\"",
+      "class": "4. Idiom calques (paraphrase; never invent)"
+    },
+    {
+      "id": "calque-68",
+      "bad": "U chelakni tepdi",
+      "good": "U vafot etdi",
+      "why": "\"Kick the bucket\"",
+      "class": "4. Idiom calques (paraphrase; never invent)"
+    },
+    {
+      "id": "calque-69",
+      "bad": "Mushuklar va itlar yogʻmoqda",
+      "good": "Qattiq yomgʻir yogʻdi",
+      "why": "\"Raining cats and dogs\"",
+      "class": "4. Idiom calques (paraphrase; never invent)"
+    },
+    {
+      "id": "calque-70",
+      "bad": "Oyogʻingni sindir (omad tilash)",
+      "good": "Omad tilayman!",
+      "why": "\"Break a leg\"",
+      "class": "4. Idiom calques (paraphrase; never invent)"
+    },
+    {
+      "id": "calque-71",
+      "bad": "Loviyani toʻkdi",
+      "good": "Sirni ochdi",
+      "why": "\"Spill the beans\"",
+      "class": "4. Idiom calques (paraphrase; never invent)"
+    },
+    {
+      "id": "calque-72",
+      "bad": "Bu xamirdek oson",
+      "good": "Bu juda oson / xamirdan qil sugʻurgandek",
+      "why": "\"Piece of cake\" — the Uzbek idiom differs",
+      "class": "4. Idiom calques (paraphrase; never invent)"
+    },
+    {
+      "id": "calque-73",
+      "bad": "Vaqt pul degani",
+      "good": "Vaqt qimmat",
+      "why": "\"Time is money\" — no need for degani gloss",
+      "class": "4. Idiom calques (paraphrase; never invent)"
+    },
+    {
+      "id": "calque-74",
+      "bad": "Erta qush (early bird)",
+      "good": "Erta band qilganlarga chegirma",
+      "why": "Keep the offer, drop the idiom",
+      "class": "4. Idiom calques (paraphrase; never invent)"
+    },
+    {
+      "id": "calque-75",
+      "bad": "Torte ustiga krem",
+      "good": "Nur ustiga aʼlo nur",
+      "why": "\"Icing on the cake\" has an Uzbek equivalent",
+      "class": "4. Idiom calques (paraphrase; never invent)"
+    },
+    {
+      "id": "calque-76",
+      "bad": "Devlarning yelkasida turmoq",
+      "good": "ulkan olimlar yutib bergan asosda",
+      "why": "Calque of the Newton quote; paraphrase",
+      "class": "4. Idiom calques (paraphrase; never invent)"
+    },
+    {
+      "id": "calque-77",
+      "bad": "Oxirgi somon (last straw)",
+      "good": "sabr kosasi toʻldi / chidab boʻlmadi",
+      "why": "Different metaphor system",
+      "class": "4. Idiom calques (paraphrase; never invent)"
+    },
+    {
+      "id": "calque-78",
+      "bad": "Muzni sindirmoq (break the ice)",
+      "good": "muzni eritmoq / gap boshlamoq",
+      "why": "Half-calque; eritish is the native image",
+      "class": "4. Idiom calques (paraphrase; never invent)"
+    },
+    {
+      "id": "calque-79",
+      "bad": "Pardani yiqitmoq (drop the curtain)",
+      "good": "yakunlamoq / chekni qoʻymoq",
+      "why": "Calque",
+      "class": "4. Idiom calques (paraphrase; never invent)"
+    },
+    {
+      "id": "calque-80",
+      "bad": "Achchiq haqiqat (every use)",
+      "good": "Rostini aytsak",
+      "why": "\"Bitter truth\" is half-natural; one per text, usually replaceable",
+      "class": "4. Idiom calques (paraphrase; never invent)"
+    },
+    {
+      "id": "calque-81",
+      "bad": "Uyqusiz tungi kabi (of a meme)",
+      "good": "(paraphrase plainly)",
+      "why": "Do not localize memes literally; paraphrase or drop",
+      "class": "4. Idiom calques (paraphrase; never invent)"
+    },
+    {
+      "id": "calque-82",
+      "bad": "Daraxtning ildiziga yetmoq (get to the root)",
+      "good": "mohiyatiga yetmoq",
+      "why": "Calque",
+      "class": "4. Idiom calques (paraphrase; never invent)"
+    },
+    {
+      "id": "calque-83",
+      "bad": "innovatsion yechim",
+      "good": "yangi usul / soddalashtirilgan yoʻl",
+      "why": "Hype stack",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-84",
+      "bad": "imkoniyatlar olami",
+      "good": "barcha kerakli narsalar bir joyda",
+      "why": "Brochure noun-world",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-85",
+      "bad": "maksimal darajada",
+      "good": "imkon qadar / toʻliq",
+      "why": "Calqued \"maximally\"",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-86",
+      "bad": "Hayotingizni transformatsiya qiling",
+      "good": "Ishlaringizni yengillashtiring",
+      "why": "Hype verb",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-87",
+      "bad": "Kelajagingizni bugun boshlang",
+      "good": "Bugun boshlab koʻring",
+      "why": "Boilerplate CTA",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-88",
+      "bad": "Chegaralarni buzdingiz",
+      "good": "Oʻzingizga qulay yoʻlda ishlang",
+      "why": "\"Break boundaries\"",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-89",
+      "bad": "Keyingi darajali samaradorlik",
+      "good": "Ishlaringiz tez bitadi",
+      "why": "\"Next-level productivity\"",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-90",
+      "bad": "Sunʼiy intellekt bilan qudratlangan",
+      "good": "AI yordamida / AI bilan",
+      "why": "\"Powered by\" calque",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-91",
+      "bad": "Sinergiya platformasi",
+      "good": "(delete — name the product benefit)",
+      "why": "Synergy speak",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-92",
+      "bad": "Inqilobiy oʻzgarish",
+      "good": "katta yaxshilanish",
+      "why": "\"Revolutionary\"",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-93",
+      "bad": "Mislsiz tezlik",
+      "good": "Tezroq bitiring",
+      "why": "Unverifiable claim",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-94",
+      "bad": "Minglab odamlar tanlovi",
+      "good": "Koʻpchilik ishlatib koʻrgan",
+      "why": "Fake social proof",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-95",
+      "bad": "Foydalanuvchi tajribasini yaxshilash",
+      "good": "qulayroq qilish / yoqadigan qilish",
+      "why": "\"UX experience\" officialese",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-96",
+      "bad": "Eng yaxshi tajriba",
+      "good": "Ishlash qulay",
+      "why": "Claim-free version",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-97",
+      "bad": "Sizning ideal tanlovingiz",
+      "good": "Sizga mos variant",
+      "why": "Ad-speak",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-98",
+      "bad": "Eng yaxshi narxlarni kashf eting",
+      "good": "Narxlarni koʻring",
+      "why": "\"Discover\" + superlative",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-99",
+      "bad": "Bugun qoʻshiling — erta qush taklifi",
+      "good": "Bugun roʻyxatdan oʻting",
+      "why": "Two calques in one line",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-100",
+      "bad": "Boʻshliqni toʻldiring (fill the gap)",
+      "good": "Yetishmayotgan qismini toʻldiring",
+      "why": "Half-calque",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-101",
+      "bad": "Toʻliq potensialingizni oching",
+      "good": "Kuchingiz yetadigan ishni toping",
+      "why": "\"Unlock your potential\"",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-102",
+      "bad": "Muammosiz tajriba",
+      "good": "Xatosiz ishlaydi",
+      "why": "\"Seamless experience\"",
+      "class": "5. Marketing / brochure translationese"
+    },
+    {
+      "id": "calque-103",
+      "bad": "U oʻqidi kitobni kecha kutubxonada",
+      "good": "U kecha kutubxonada kitobni oʻqidi",
+      "why": "SOV; time+place before object+verb",
+      "class": "6. Structure and word-order shadows"
+    },
+    {
+      "id": "calque-104",
+      "bad": "Nima siz qilasiz?",
+      "good": "Siz nima qilasiz?",
+      "why": "WH stays in situ",
+      "class": "6. Structure and word-order shadows"
+    },
+    {
+      "id": "calque-105",
+      "bad": "Men haqiqatan ham bu … (opener)",
+      "good": "Bu … menga …",
+      "why": "EN subject-first rhythm",
+      "class": "6. Structure and word-order shadows"
+    },
+    {
+      "id": "calque-106",
+      "bad": "kitobining mening",
+      "good": "mening kitobim",
+      "why": "Possessor before possessed",
+      "class": "6. Structure and word-order shadows"
+    },
+    {
+      "id": "calque-107",
+      "bad": "Bu juda ham katta gap boʻlishi mumkin boʻlgan muammo",
+      "good": "Bu katta muammo boʻlishi mumkin",
+      "why": "Stacked \"could be\" calque",
+      "class": "6. Structure and word-order shadows"
+    },
+    {
+      "id": "calque-108",
+      "bad": "boshlash uchun boshlaymiz",
+      "good": "boshlaymiz",
+      "why": "\"To start, let's start\" recursion",
+      "class": "6. Structure and word-order shadows"
+    },
+    {
+      "id": "calque-109",
+      "bad": "bir har bir kishi",
+      "good": "har bir kishi / bitta kishi",
+      "why": "Double article calque",
+      "class": "6. Structure and word-order shadows"
+    },
+    {
+      "id": "calque-110",
+      "bad": "Toʻgʻri javobni select qiling pastda",
+      "good": "Toʻgʻri javobni belgilang",
+      "why": "\"below\" calque survives in EN stem",
+      "class": "6. Structure and word-order shadows"
+    },
+    {
+      "id": "calque-111",
+      "bad": "karoche",
+      "good": "qisqasi / xoʻsh / endi",
+      "why": "RU кстати/короче",
+      "class": "1. RU discourse fillers (default clean Uzbek bans them)"
+    },
+    {
+      "id": "calque-112",
+      "bad": "normalni / norm",
+      "good": "yaxshi / mayli / qoniqarli",
+      "why": "RU нормально",
+      "class": "1. RU discourse fillers (default clean Uzbek bans them)"
+    },
+    {
+      "id": "calque-113",
+      "bad": "kruto",
+      "good": "zoʻr / ajoyib",
+      "why": "RU круто",
+      "class": "1. RU discourse fillers (default clean Uzbek bans them)"
+    },
+    {
+      "id": "calque-114",
+      "bad": "chotki",
+      "good": "zoʻr / ajoyib",
+      "why": "RU чётко",
+      "class": "1. RU discourse fillers (default clean Uzbek bans them)"
+    },
+    {
+      "id": "calque-115",
+      "bad": "tipa",
+      "good": "goʻyo / masalan / shunga oʻxshash",
+      "why": "RU типа",
+      "class": "1. RU discourse fillers (default clean Uzbek bans them)"
+    },
+    {
+      "id": "calque-116",
+      "bad": "vapshe",
+      "good": "umuman / mutlaqo",
+      "why": "RU вообще",
+      "class": "1. RU discourse fillers (default clean Uzbek bans them)"
+    },
+    {
+      "id": "calque-117",
+      "bad": "ladno / ladna",
+      "good": "mayli / xoʻp",
+      "why": "RU ладно",
+      "class": "1. RU discourse fillers (default clean Uzbek bans them)"
+    },
+    {
+      "id": "calque-118",
+      "bad": "blin",
+      "good": "voy / (oʻchirish)",
+      "why": "RU блин",
+      "class": "1. RU discourse fillers (default clean Uzbek bans them)"
+    },
+    {
+      "id": "calque-119",
+      "bad": "poka",
+      "good": "keyin koʻrishguncha / xayr",
+      "why": "RU пока",
+      "class": "1. RU discourse fillers (default clean Uzbek bans them)"
+    },
+    {
+      "id": "calque-120",
+      "bad": "spasibo (in UZ sentence)",
+      "good": "rahmat",
+      "why": "Keep one language per sentence",
+      "class": "1. RU discourse fillers (default clean Uzbek bans them)"
+    },
+    {
+      "id": "calque-121",
+      "bad": "zakaz / zakas",
+      "good": "buyurtma",
+      "why": "RU заказ",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-122",
+      "bad": "skidka",
+      "good": "chegirma",
+      "why": "RU скидка",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-123",
+      "bad": "plastik (card)",
+      "good": "karta",
+      "why": "RU пластик",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-124",
+      "bad": "mashennik",
+      "good": "firibgar",
+      "why": "RU мошенник",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-125",
+      "bad": "nomer",
+      "good": "raqam",
+      "why": "RU номер",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-126",
+      "bad": "udalit qilmoq",
+      "good": "oʻchirmoq",
+      "why": "RU verb + qilmoq",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-127",
+      "bad": "skachat qilmoq",
+      "good": "yuklab olmoq",
+      "why": "RU verb + qilmoq",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-128",
+      "bad": "posmotret qilmoq",
+      "good": "koʻrmoq / koʻrib chiqmoq",
+      "why": "RU verb + qilmoq",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-129",
+      "bad": "sdelat qilmoq",
+      "good": "qilmoq",
+      "why": "RU verb + qilmoq (tautology)",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-130",
+      "bad": "peredat qilmoq",
+      "good": "uzatmoq / topshirmoq",
+      "why": "RU verb + qilmoq",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-131",
+      "bad": "otkryt qilmoq",
+      "good": "ochmoq",
+      "why": "RU verb + qilmoq",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-132",
+      "bad": "zakryt qilmoq",
+      "good": "yopmoq",
+      "why": "RU verb + qilmoq",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-133",
+      "bad": "proverit qilmoq",
+      "good": "tekshirmoq",
+      "why": "RU verb + qilmoq",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-134",
+      "bad": "otpravit qilmoq",
+      "good": "yubormoq",
+      "why": "RU verb + qilmoq",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-135",
+      "bad": "izmenit qilmoq",
+      "good": "oʻzgartirmoq",
+      "why": "RU verb + qilmoq",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-136",
+      "bad": "pilesos",
+      "good": "changyutgich",
+      "why": "RU пылесос; the assimilated word exists",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-137",
+      "bad": "registratsiya (button)",
+      "good": "roʻyxatdan oʻtish",
+      "why": "RU регистрация",
+      "class": "2. Colloquial RU nouns (product copy rewrites; user voice may keep)"
+    },
+    {
+      "id": "calque-138",
+      "bad": "muvofiq ravishda",
+      "good": "(kesib tashlang) / unga koʻra",
+      "why": "RU соответственно connector",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-139",
+      "bad": "oʻz navbatida",
+      "good": "(oʻchirish) / oʻz ketida",
+      "why": "RU в свою очередь — adds nothing",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-140",
+      "bad": "hozirgi kunda / hozirgi vaqtda",
+      "good": "hozir",
+      "why": "RU в настоящее время filler",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-141",
+      "bad": "katta eʼtibor berildi",
+      "good": "eʼtibor qaratildi",
+      "why": "RU уделено большое внимание",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-142",
+      "bad": "belgilab berildi",
+      "good": "belgilandi",
+      "why": "RU report pair",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-143",
+      "bad": "ochib berildi",
+      "good": "ochildi",
+      "why": "RU report pair",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-144",
+      "bad": "taʼkidlab berildi",
+      "good": "taʼkidlandi",
+      "why": "RU report pair",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-145",
+      "bad": "koʻrsatib berildi",
+      "good": "koʻrsatildi",
+      "why": "RU report pair",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-146",
+      "bad": "mavjud boʻlgan (everywhere)",
+      "good": "mavjud",
+      "why": "RU participial filler",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-147",
+      "bad": "amalga oshirish jarayonida",
+      "good": "bajarilmoqda / …-da",
+      "why": "Officialese stack",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-148",
+      "bad": "taʼsir koʻrsatmoq",
+      "good": "taʼsir qilmoq",
+      "why": "RU оказывать влияние",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-149",
+      "bad": "eʼtibor berishni talab qiladi",
+      "good": "muhim / eʼtibordan chetda qolmasin",
+      "why": "RU требует внимания",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-150",
+      "bad": "yoʻl qoʻyilmadi (zero events)",
+      "good": "sodir boʻlmadi / boʻlmadi",
+      "why": "Report cliché pair with \"qoidabuzarliklar\"",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-151",
+      "bad": "tegishli chora-tadbirlar amalga oshirildi",
+      "good": "chora koʻrildi",
+      "why": "Officialese tail",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-152",
+      "bad": "boʻyicha (3+ per paragraph)",
+      "good": "-da / toʻgʻrisida / (restructure)",
+      "why": "RU по spam",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-153",
+      "bad": "X tomonidan yuborildi (with agent known)",
+      "good": "X yubordi",
+      "why": "RU passive + tomonidan double marking",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-154",
+      "bad": "tegishli tashkilotlar tomonidan",
+      "good": "tegishli tashkilotlar",
+      "why": "tomonidan needs a real agent role",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-155",
+      "bad": "asosida (every sentence)",
+      "good": "-ga koʻra / (kesish)",
+      "why": "RU на основе filler",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-156",
+      "bad": "doirasida (every event)",
+      "good": "…-da / cheklovlarida",
+      "why": "RU в рамках filler",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-157",
+      "bad": "hisobiga",
+      "good": "tufayli / evaziga (by sense)",
+      "why": "RU за счёт",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-158",
+      "bad": "zarur boʻlgan taqdirda",
+      "good": "kerak boʻlsa",
+      "why": "RU в случае необходимости",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-159",
+      "bad": "yuqorida koʻrsatilgandek",
+      "good": "yuqoridagidek / oldingi bandda",
+      "why": "Paper connector",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-160",
+      "bad": "quyidagi misolda koʻrinib turganidek",
+      "good": "misolda koʻrinib turganidek",
+      "why": "Redundant demonstrative",
+      "class": "3. Officialese structural calques"
+    },
+    {
+      "id": "calque-161",
+      "bad": "menga boʻlgan sevgasi (RU-style genitive chains)",
+      "good": "uning menga boʻlgan muhabbati",
+      "why": "RU genitive chains; keep one -ning per chain",
+      "class": "4. RU syntax leaks into sentences"
+    },
+    {
+      "id": "calque-162",
+      "bad": "buning natijasida sifatida",
+      "good": "natijasida",
+      "why": "Double RU postposition stack",
+      "class": "4. RU syntax leaks into sentences"
+    },
+    {
+      "id": "calque-163",
+      "bad": "yetarli darajada yaxshi emas",
+      "good": "yetarli emas",
+      "why": "RU недостаточно хороший rhythm",
+      "class": "4. RU syntax leaks into sentences"
+    },
+    {
+      "id": "calque-164",
+      "bad": "juda koʻp sonli",
+      "good": "juda koʻp",
+      "why": "RU многочисленный calque",
+      "class": "4. RU syntax leaks into sentences"
+    },
+    {
+      "id": "calque-165",
+      "bad": "barcha tomonlama",
+      "good": "har tomondan",
+      "why": "RU всесторонний",
+      "class": "4. RU syntax leaks into sentences"
+    },
+    {
+      "id": "calque-166",
+      "bad": "faqatgina (both fillers)",
+      "good": "faqat",
+      "why": "Doubled focus particles",
+      "class": "4. RU syntax leaks into sentences"
+    },
+    {
+      "id": "calque-167",
+      "bad": "albatta ham",
+      "good": "albatta / ham",
+      "why": "RU конечно же stacking",
+      "class": "4. RU syntax leaks into sentences"
+    },
+    {
+      "id": "calque-168",
+      "bad": "Shuning uchun ham shu sababli…",
+      "good": "Shuning uchun…",
+      "why": "Doubled causal connector",
+      "class": "Connector calques and natural connectors"
+    },
+    {
+      "id": "calque-169",
+      "bad": "Bundan tashqari, qoʻshimcha",
+      "good": "Bundan tashqari…",
+      "why": "Doubled additive",
+      "class": "Connector calques and natural connectors"
+    },
+    {
+      "id": "calque-170",
+      "bad": "Bir tomondan … boshqa tomondan (calqued \"on the other hand\")",
+      "good": "bir tomondan … ikkinchi tomondan",
+      "why": "Pair the Uzbek way",
+      "class": "Connector calques and natural connectors"
+    },
+    {
+      "id": "calque-171",
+      "bad": "Shu bilan birga, ayni paytda",
+      "good": "Shu bilan birga…",
+      "why": "Doubled simultaneous connector",
+      "class": "Connector calques and natural connectors"
+    },
+    {
+      "id": "calque-172",
+      "bad": "avvalo, birinchidan ikkinchidan (mixed)",
+      "good": "Avvalo … Soʻng …",
+      "why": "Do not mix ordinal systems",
+      "class": "Connector calques and natural connectors"
+    },
+    {
+      "id": "calque-173",
+      "bad": "Yakuniy xulosa qilib aytganda",
+      "good": "Qisqasi",
+      "why": "Xulosa + qilib + aytganda stack",
+      "class": "Connector calques and natural connectors"
+    },
+    {
+      "id": "calque-174",
+      "bad": "Boshqa soʻzlar bilan aytganda",
+      "good": "Yaʼni",
+      "why": "Calqued \"in other words\"",
+      "class": "Connector calques and natural connectors"
+    },
+    {
+      "id": "calque-175",
+      "bad": "Koʻrinib turganidek, maʼlumki",
+      "good": "(oʻchirish)",
+      "why": "Doubled evidential opener",
+      "class": "Connector calques and natural connectors"
+    },
+    {
+      "id": "calque-176",
+      "bad": "Shuni taʼkidlash joizki",
+      "good": "Shuni aytish kerakki",
+      "why": "Paper formula; joizki is fine in legal only",
+      "class": "Connector calques and natural connectors"
+    },
+    {
+      "id": "calque-177",
+      "bad": "Xuddi shu tarzda",
+      "good": "Xuddi shunday",
+      "why": "Calqued sameness",
+      "class": "Connector calques and natural connectors"
+    },
+    {
+      "id": "calque-178",
+      "bad": "Aynan shu sababli ham",
+      "good": "Shu sababli",
+      "why": "Triple stacking",
+      "class": "Connector calques and natural connectors"
+    },
+    {
+      "id": "calque-179",
+      "bad": "oxirgi navbatda",
+      "good": "oxiri / yakunda",
+      "why": "RU в последнюю очередь sense drift",
+      "class": "Connector calques and natural connectors"
+    },
+    {
+      "id": "calque-180",
+      "bad": "Birinchi navbatda (3+ uses)",
+      "good": "Avval / Eng muhimi",
+      "why": "Repetitive officialese",
+      "class": "Connector calques and natural connectors"
+    },
+    {
+      "id": "calque-181",
+      "bad": "Boshqacha qilib aytadigan boʻlsak",
+      "good": "Yaʼni",
+      "why": "Long calque of \"in other words\"",
+      "class": "Connector calques and natural connectors"
+    },
+    {
+      "id": "calque-182",
+      "bad": "Vanihoyat, xulosa qilib",
+      "good": "Vanihoyat — (gap)",
+      "why": "Do not stack vanihoyat + xulosa",
+      "class": "Connector calques and natural connectors"
+    },
+    {
+      "id": "calque-183",
+      "bad": "Select the correct answer below → \"Toʻgʻri javobni pastda select qiling\"",
+      "good": "Toʻgʻri javobni belgilang",
+      "why": "Mixed EN stem + calque",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-184",
+      "bad": "Save qiling",
+      "good": "Saqlang",
+      "why": "EN stem",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-185",
+      "bad": "Submit the form → \"Formani submit qiling\"",
+      "good": "Formani yuboring",
+      "why": "EN stem",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-186",
+      "bad": "Are you sure delete? → \"Rostdan ham delete?\"",
+      "good": "Rostdan ham oʻchirmoqchimisiz?",
+      "why": "EN stem",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-187",
+      "bad": "Loading… → \"Loading boʻlmoqda\"",
+      "good": "Yuklanmoqda…",
+      "why": "Half-calque",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-188",
+      "bad": "No results → \"Natijalar yoʻq boʻldi\"",
+      "good": "Soʻrovingiz boʻyicha hech narsa topilmadi",
+      "why": "Calqued negation rhythm",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-189",
+      "bad": "Something went wrong → \"Bir narsa notoʻgʻri ketdi\"",
+      "good": "Xatolik yuz berdi",
+      "why": "Fixed idiom exists",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-190",
+      "bad": "Try again later → \"Keyinroq qayta urinib koʻringni bajaring\"",
+      "good": "Iltimos, keyinroq qayta urinib koʻring",
+      "why": "Verb-nominalization soup",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-191",
+      "bad": "Copy to clipboard → \"Klipbordga nusxa olingni qiling\"",
+      "good": "Buferga nusxa olish",
+      "why": "Suffix soup on a calque",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-192",
+      "bad": "Please wait → \"Iltimos, kutishni bajaring\"",
+      "good": "Bir oz kuting",
+      "why": "Nominalization calque",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-193",
+      "bad": "Order placed → \"Buyurtma joylashtirildi\"",
+      "good": "Buyurtma qabul qilindi",
+      "why": "\"Placed\" literal",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-194",
+      "bad": "Promo applied → \"Promo qoʻllanildi qildi\"",
+      "good": "Promokod qoʻllandi",
+      "why": "Suffix+qildi soup",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-195",
+      "bad": "Insufficient funds → \"Mablagʻlar yetarli emas holatda\"",
+      "good": "Mablagʻ yetarli emas",
+      "why": "Trailing holatda calque",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-196",
+      "bad": "Field is required → \"Maydon talab qilinadi\"",
+      "good": "Bu maydon toʻldirilishi shart",
+      "why": "Fixed formula",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-197",
+      "bad": "Back to home → \"Uyga qaytish\"",
+      "good": "Bosh sahifaga qaytish",
+      "why": "Literal \"home\"",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-198",
+      "bad": "Pickup point → \"Olib ketish nuqtasi\" (ok) / \"Pickup punkti\" (bad)",
+      "good": "Topshirish punkti",
+      "why": "Half-EN compound",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-199",
+      "bad": "Empty cart → \"Boʻsh savat bor\"",
+      "good": "Savat boʻsh",
+      "why": "Existential calque",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-200",
+      "bad": "Terms of use → \"Foydalanishning shartlari boʻyicha\"",
+      "good": "Foydalanish shartlari",
+      "why": "Genitive soup",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-201",
+      "bad": "Sizning murojaatingiz uchun minnatdorman",
+      "good": "Rahmat!",
+      "why": "One word, like a person",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-202",
+      "bad": "Xabaringiz uchun tashakkurlar bildiramiz",
+      "good": "Rahmat",
+      "why": "Plural ceremony on a single thanks",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-203",
+      "bad": "Javobni quyida taqdim etaman",
+      "good": "Javob:",
+      "why": "Presentation ceremony",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-204",
+      "bad": "Men buni hal qilishga harakat qilaman",
+      "good": "Hal qilaman",
+      "why": "'Will try to' hedging",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-205",
+      "bad": "…maʼlumot berishim mumkin",
+      "good": "…aytib beraman",
+      "why": "Frame without content",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-206",
+      "bad": "Xabaringizni koʻrib chiqdim va tahlil qildim",
+      "good": "Oʻqib chiqdim",
+      "why": "Analysis ceremony",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-207",
+      "bad": "Albatta, men buni tez orada…",
+      "good": "Tez orada…",
+      "why": "'Of course' filler",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-208",
+      "bad": "Ushbu maʼlumot sizga foydali boʻladi deb umid qilaman",
+      "good": "Foydali boʻldi deb oʻylayman",
+      "why": "Hope-frame closer",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-209",
+      "bad": "Sizning soʻrovingiz muvaffaqiyatli roʻyxatdan oʻtkazildi",
+      "good": "Roʻyxatdan oʻtdingiz",
+      "why": "Status ceremony",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-210",
+      "bad": "Men sizga… javob topdim va uni taqdim etaman",
+      "good": "Javobni topdim:",
+      "why": "Double ceremony",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-211",
+      "bad": "amaldagi qonunchilikka muvofiq",
+      "good": "qonunga koʻra",
+      "why": "Current-legislation frame",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-212",
+      "bad": "tadbirkorlik subyektlari",
+      "good": "tadbirkorlar",
+      "why": "Bureaucratic 'subjects'",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-213",
+      "bad": "viloyat hududida",
+      "good": "viloyatda",
+      "why": "'Territory of' padding",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-214",
+      "bad": "bartaraf etildi",
+      "good": "tuzatildi",
+      "why": "Report verb",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-215",
+      "bad": "ijrosi taʼminlandi",
+      "good": "bajarildi",
+      "why": "Fulfillment ceremony",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-216",
+      "bad": "aks ettirildi",
+      "good": "kirdi / koʻrsatildi",
+      "why": "Mirror-verb report",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-217",
+      "bad": "barpo etildi",
+      "good": "qurildi",
+      "why": "Construction report",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-218",
+      "bad": "hisobga olingan holda",
+      "good": "hisobga olib",
+      "why": "Absolute-clause calque",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-219",
+      "bad": "…oshirish maqsadida",
+      "good": "…uchun",
+      "why": "Purpose frame",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-220",
+      "bad": "ajratilishi rejalashtirilgan",
+      "good": "ajratishmoqchi",
+      "why": "Double-passive plan",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-221",
+      "bad": "xabar beriladi",
+      "good": "xabar qilamiz",
+      "why": "Impersonal report",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-222",
+      "bad": "yoʻl-yoʻriq beriladi",
+      "good": "aytamiz",
+      "why": "Guidance report",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-223",
+      "bad": "foydalanishga topshirildi",
+      "good": "foydalanishga berildi",
+      "why": "Handover ceremony",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-224",
+      "bad": "takliflar ilgari surildi",
+      "good": "taklif berdi",
+      "why": "State-news verb kit",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-225",
+      "bad": "belgilab olindi",
+      "good": "belgilandi",
+      "why": "'Belgilab berdi' family",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-226",
+      "bad": "Ishlanyapti — tez orada",
+      "good": "Ishlanyapti, tez orada",
+      "why": "Em dash → comma (output policy: never)",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-227",
+      "bad": "Natija — 30% tejamkorlik",
+      "good": "Natija: 30% tejamkorlik",
+      "why": "Dash → colon for reveal",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-228",
+      "bad": "Bir bosish — va tayyor",
+      "good": "Bir bosishda tayyor",
+      "why": "Dash → restructure",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-229",
+      "bad": "ochiladi -- yangi imkoniyat",
+      "good": "ochiladi, yangi imkoniyat",
+      "why": "Double-hyphen markdown habit",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-230",
+      "bad": "soʻz—soʻzga",
+      "good": "soʻzma-soʻz",
+      "why": "Glued dash compounds → hyphen",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-231",
+      "bad": "Salom; ketdik",
+      "good": "Salom, ketdik",
+      "why": "Semicolon in chat",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-232",
+      "bad": "• birinchi • ikkinchi (chatda)",
+      "good": "Birinchi… keyin ikkinchi…",
+      "why": "Bullet lists in chat",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-233",
+      "bad": "katta zamonaviy qulay platforma",
+      "good": "katta va qulay platforma",
+      "why": "Bare triple stack",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-234",
+      "bad": "eng zamonaviy va innovatsion yechim",
+      "good": "zamonaviy yechim",
+      "why": "Hype pair",
+      "class": "UI microcopy calques (quick table)"
+    },
+    {
+      "id": "calque-235",
+      "bad": "individual yondashuv asosida",
+      "good": "ehtiyojingizga moslab",
+      "why": "Brochure frame",
+      "class": "UI microcopy calques (quick table)"
+    }
+  ]
+}

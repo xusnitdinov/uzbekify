@@ -1,0 +1,60 @@
+{"id":"h4h-01","slot":"slot1","pass":true,"reason":"genuine human rewrite, all facts kept, 61 words in range, varied rhythm (3-10 word sentences), no banned phrases, no dashes"}
+{"id":"h4h-01","slot":"slot2","pass":false,"reason":"robot template only re-conjugated (ko'rsatamiz/joriy etamiz/oshirib boramiz = same calques in spirit); monotone rhythm (all sentences 4-6 words); 50 words below min 55"}
+{"id":"h4h-01","slot":"slot3","pass":false,"reason":"banned phrase 'joriy etiladi' appears verbatim ('5G joriy etiladi')"}
+{"id":"h4h-02","slot":"slot1","pass":true,"reason":"only spelling fixed (bulimi->bo'limi) plus harmless -miz, official register intact, >80% unchanged, plav/navbat/malaka kept"}
+{"id":"h4h-02","slot":"slot2","pass":false,"reason":"did nothing: planted misspelling 'bulimi' left unfixed, imlo tekshiruvi not performed"}
+{"id":"h4h-02","slot":"slot3","pass":true,"reason":"only spelling fixed (bulimi->bo'limi), official register intact, >80% unchanged"}
+{"id":"h4h-03","slot":"slot1","pass":true,"reason":"lively with human touches, facts kept, banned phrases absent (o'tkazilib turadi is not the banned form), 64 words, no dashes"}
+{"id":"h4h-03","slot":"slot2","pass":true,"reason":"lively conversational rewrite, banned phrases absent, 81 words, no dashes, all facts covered"}
+{"id":"h4h-03","slot":"slot3","pass":false,"reason":"robot text only re-conjugated (yaratgan/qabul qilamiz/o'tkazamiz = evasion of banned calques in spirit), 44 words below min 50, not lively"}
+{"id":"h4h-04","slot":"slot1","pass":true,"reason":"original contains no spelling errors, so unchanged is the correct spellcheck-only output; official register and kredit/depozit/reyting kept"}
+{"id":"h4h-04","slot":"slot2","pass":true,"reason":"original has no misspellings, unchanged text is correct, official register kept"}
+{"id":"h4h-04","slot":"slot3","pass":true,"reason":"original has no misspellings, unchanged text is correct, official register kept"}
+{"id":"h4h-05","slot":"slot1","pass":false,"reason":"banned 'tayyorlanadi' kept verbatim ('yangi mahsulotdan tayyorlanadi')"}
+{"id":"h4h-05","slot":"slot2","pass":false,"reason":"banned 'tayyorlanadi' kept verbatim in first sentence"}
+{"id":"h4h-05","slot":"slot3","pass":false,"reason":"banned 'tayyorlanadi' kept verbatim; also garbled word 'pirak' and repetitive 'taomlari...taomlari'"}
+{"id":"h4h-06","slot":"slot1","pass":true,"reason":"naturalized answers with varied lengths, buyurtma/yetkazib/to'lov/hisoblanadi all kept, no dashes"}
+{"id":"h4h-06","slot":"slot2","pass":true,"reason":"natural chat FAQ with fuller varied answers, all key content kept, no dashes"}
+{"id":"h4h-06","slot":"slot3","pass":false,"reason":"clipped monotone Q&A (every answer 3-5 words), barely naturalized, uniform rhythm fails varied_rhythm"}
+{"id":"h4h-07","slot":"slot1","pass":true,"reason":"official layer + plain-language layer both present, tarif/o'zgar kept, no dashes"}
+{"id":"h4h-07","slot":"slot2","pass":true,"reason":"proper official E'LON plus simple customer steps, tarif/o'zgar kept, no dashes"}
+{"id":"h4h-07","slot":"slot3","pass":true,"reason":"rasmiy qism + oddiy til layers present, tarif/o'zgar kept, no dashes"}
+{"id":"h4h-08","slot":"slot1","pass":true,"reason":"official announcement marker + chat-tone logistics, darslik/tarqatish kept, warm teacher voice"}
+{"id":"h4h-08","slot":"slot2","pass":true,"reason":"warm chat tone, darslik/tarqatish kept, arrival + time both covered"}
+{"id":"h4h-08","slot":"slot3","pass":true,"reason":"official layer appropriately formal, practical layer natural (yozing, topib beramiz), darslik/tarqatish kept"}
+{"id":"h4h-09","slot":"slot1","pass":false,"reason":"em dash used as dash ('tabriklaymiz — endi sizga ham yaqinroq')"}
+{"id":"h4h-09","slot":"slot2","pass":true,"reason":"manzil/ish vaqti/chegirma present, official address line + marketing line + CTA, no dashes"}
+{"id":"h4h-09","slot":"slot3","pass":true,"reason":"official E'LON with address/hours, celebratory discount line, CTA at end, no dashes"}
+{"id":"h4h-10","slot":"slot1","pass":true,"reason":"formal impersonal register, no 'aka', helpful official alternative offered"}
+{"id":"h4h-10","slot":"slot2","pass":true,"reason":"official polite register, no 'aka', clear procedure"}
+{"id":"h4h-10","slot":"slot3","pass":true,"reason":"official register throughout, no 'aka'; 'kassachek' slightly Russianized but tone holds"}
+{"id":"h4h-11","slot":"slot1","pass":true,"reason":"official schedule + warm coach quote + simple CTA, jadval/murabbiy kept, no bullets"}
+{"id":"h4h-11","slot":"slot2","pass":true,"reason":"three tones present, jadval/murabbiy/yoziling kept, prose not bullets"}
+{"id":"h4h-11","slot":"slot3","pass":true,"reason":"schedule + coach quote + CTA layers, jadval/murabbiy kept, no bullets"}
+{"id":"h4h-12","slot":"slot1","pass":true,"reason":"official doctor announcement + chat-tone convenience layer, shifokor/qabul kept, no dashes"}
+{"id":"h4h-12","slot":"slot2","pass":true,"reason":"formal layer + warm chat layer (Dilnoza opaga yozilish juda oson), shifokor/qabul/yozilish kept, no dashes"}
+{"id":"h4h-12","slot":"slot3","pass":false,"reason":"em dash used as dash ('qabul qila boshlaydi — 2026-yil')"}
+{"id":"h4h-13","slot":"slot1","pass":true,"reason":"empathetic chat tone, 'blocked' natural, support ignored-message acknowledged"}
+{"id":"h4h-13","slot":"slot2","pass":true,"reason":"'blocked' and 'bloklandi' naturally alternated exactly as task asks, chat tone"}
+{"id":"h4h-13","slot":"slot3","pass":true,"reason":"chat tone, blocked/bloklandi kept, actionable next step"}
+{"id":"h4h-14","slot":"slot1","pass":true,"reason":"production/monitorinka kept, natural senior-dev mentoring tone"}
+{"id":"h4h-14","slot":"slot2","pass":true,"reason":"terms kept, plausible technical explanation, natural informal register"}
+{"id":"h4h-14","slot":"slot3","pass":true,"reason":"production/monitoring kept, direct chat tone with task split"}
+{"id":"h4h-15","slot":"slot1","pass":true,"reason":"chef/service/ta'm kept, grateful natural reply with explanation, few lint issues"}
+{"id":"h4h-15","slot":"slot2","pass":true,"reason":"all content kept with concrete detail, natural mixed language, rhythm varied"}
+{"id":"h4h-15","slot":"slot3","pass":true,"reason":"chef/service/ta'm kept, natural tone, thin but acceptable chef note"}
+{"id":"h4h-16","slot":"slot1","pass":true,"reason":"chat tone, account + documents answered (hisob kept), practical detail"}
+{"id":"h4h-16","slot":"slot2","pass":true,"reason":"chat tone, document list present, helpful extras"}
+{"id":"h4h-16","slot":"slot3","pass":true,"reason":"chat tone informal singular, hisob/hujjat content covered"}
+{"id":"h4h-17","slot":"slot1","pass":true,"reason":"challenge/30 kun kept, natural short post with CTA"}
+{"id":"h4h-17","slot":"slot2","pass":true,"reason":"structured natural post, challenge/30 kun kept, concrete details"}
+{"id":"h4h-17","slot":"slot3","pass":true,"reason":"natural tone, challenge/30 kun kept, clear CTA"}
+{"id":"h4h-18","slot":"slot1","pass":true,"reason":"portfolio/Figma/Webflow kept, banned phrases absent, natural freelancer voice"}
+{"id":"h4h-18","slot":"slot2","pass":true,"reason":"terms kept, natural personal voice, no banned phrases"}
+{"id":"h4h-18","slot":"slot3","pass":true,"reason":"terms kept with project detail, natural, no banned phrases"}
+{"id":"h4h-19","slot":"slot1","pass":true,"reason":"single Latin with correct ʻ marks, chat tone, refund timing answered (paraphrase of qachon/qaytmadi content)"}
+{"id":"h4h-19","slot":"slot2","pass":true,"reason":"Latin script correct, warm chat tone, covers both did-not-return and when-it-returns"}
+{"id":"h4h-19","slot":"slot3","pass":false,"reason":"straight apostrophes (bo'ldi, To'lovni) instead of ʻ/ʼ break script_latin; officialese 'qaytarish amalga oshirilgan' in chat"}
+{"id":"h4h-20","slot":"slot1","pass":true,"reason":"correct Latin with ʻ (boʻladi), natural plain rendering, yarmarka/chaqiril kept"}
+{"id":"h4h-20","slot":"slot2","pass":false,"reason":"straight apostrophe in 'bo'ladi' instead of ʻ breaks script_latin mark correctness"}
+{"id":"h4h-20","slot":"slot3","pass":true,"reason":"correct ʻ marks, natural inviting tone, yarmarka kept (chaqiril rendered as hammaga ochiq)"}

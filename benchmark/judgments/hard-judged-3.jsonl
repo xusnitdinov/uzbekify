@@ -1,0 +1,60 @@
+{"id":"hard-41","slot":"slot1","pass":true,"reason":"uchinchi shaxs/maxfiy kept, SIZ register, 3 gap, no dash, natural legal tone"}
+{"id":"hard-41","slot":"slot2","pass":true,"reason":"terms kept, official but understandable, no dash; boilerplate closer acceptable in policy voice"}
+{"id":"hard-41","slot":"slot3","pass":true,"reason":"terms kept, concise, natural, no dash"}
+{"id":"hard-42","slot":"slot1","pass":true,"reason":"yakunlari correction applied; lozim/yuboriladi kept; officialese intact"}
+{"id":"hard-42","slot":"slot2","pass":true,"reason":"yakuniga ko'ra rework keeps official register and terms"}
+{"id":"hard-42","slot":"slot3","pass":false,"reason":"verbatim copy of input; no correction applied"}
+{"id":"hard-43","slot":"slot1","pass":true,"reason":"dolzarb used, no aktual, meaning kept"}
+{"id":"hard-43","slot":"slot2","pass":true,"reason":"haqiqiy used, no aktual, natural"}
+{"id":"hard-43","slot":"slot3","pass":true,"reason":"dolzarb used, no aktual, meaning kept"}
+{"id":"hard-44","slot":"slot1","pass":false,"reason":"qilganingiz kerak edi is a nonstandard calque; correct is qilishingiz kerak edi"}
+{"id":"hard-44","slot":"slot2","pass":true,"reason":"qilishingiz kerak edi — correct counterfactual modality"}
+{"id":"hard-44","slot":"slot3","pass":true,"reason":"correct counterfactual form, natural"}
+{"id":"hard-45","slot":"slot1","pass":true,"reason":"ketgan ekan kept; Ko'rinishidan natural evidential opener"}
+{"id":"hard-45","slot":"slot2","pass":true,"reason":"Eshitishimcha matches hearsay framing; ekan kept"}
+{"id":"hard-45","slot":"slot3","pass":true,"reason":"Eshitishicha + ketgan ekan, natural"}
+{"id":"hard-46","slot":"slot1","pass":true,"reason":"no formulaic opener, natural Iltimos opening, content kept"}
+{"id":"hard-46","slot":"slot2","pass":false,"reason":"Aziz foydalanuvchilarimiz! is the same brochure formula in spirit"}
+{"id":"hard-46","slot":"slot3","pass":true,"reason":"natural opener, content kept, added fix hint fits the context"}
+{"id":"hard-47","slot":"slot1","pass":true,"reason":"yildan beri + yashayapman, correct ongoing aspect"}
+{"id":"hard-47","slot":"slot2","pass":true,"reason":"correct ongoing aspect, natural word order"}
+{"id":"hard-47","slot":"slot3","pass":true,"reason":"correct ongoing aspect"}
+{"id":"hard-48","slot":"slot1","pass":true,"reason":"sel kabi yomg'ir — natural image, no literal animals"}
+{"id":"hard-48","slot":"slot2","pass":false,"reason":"yog'yor is a nonstandard verb form (yog'yapti/yog'ar)"}
+{"id":"hard-48","slot":"slot3","pass":true,"reason":"natural equivalent, no literal animals"}
+{"id":"hard-49","slot":"slot1","pass":true,"reason":"exact copy; input error-free, nothing to fix"}
+{"id":"hard-49","slot":"slot2","pass":false,"reason":"downgraded correct ʻ marks to straight ' and added period; unnecessary edits"}
+{"id":"hard-49","slot":"slot3","pass":true,"reason":"exact copy preserved"}
+{"id":"hard-50","slot":"slot1","pass":true,"reason":"untouched, native text preserved"}
+{"id":"hard-50","slot":"slot2","pass":true,"reason":"untouched"}
+{"id":"hard-50","slot":"slot3","pass":true,"reason":"only capital+period normalization, meaning and voice intact"}
+{"id":"hard-51","slot":"slot1","pass":true,"reason":"marks already correct, tone untouched"}
+{"id":"hard-51","slot":"slot2","pass":false,"reason":"wrote straight ' marks instead of ʻ; task was to fix the marks"}
+{"id":"hard-51","slot":"slot3","pass":true,"reason":"voice kept, marks correct"}
+{"id":"hard-52","slot":"slot1","pass":true,"reason":"Paymeʼga and yaxshi fixed with correct marks, rest kept exactly"}
+{"id":"hard-52","slot":"slot2","pass":false,"reason":"straight ' marks instead of ʻ/ʼ; orthography not actually corrected"}
+{"id":"hard-52","slot":"slot3","pass":false,"reason":"left yaxwi typo unfixed"}
+{"id":"hard-53","slot":"slot1","pass":true,"reason":"ertalab fixed, marks corrected to ʻ/ʼ, svet and word choice kept"}
+{"id":"hard-53","slot":"slot2","pass":false,"reason":"left straight ' marks; imlo/belgi correction incomplete"}
+{"id":"hard-53","slot":"slot3","pass":true,"reason":"fixes applied, mahalla voice kept"}
+{"id":"hard-54","slot":"slot1","pass":false,"reason":"changed spoken yaxwi to yaxshi; other letters must not be touched"}
+{"id":"hard-54","slot":"slot2","pass":true,"reason":"untouched, spoken forms preserved"}
+{"id":"hard-54","slot":"slot3","pass":false,"reason":"wrote o'zi with straight quote; apostrophe not corrected, period added"}
+{"id":"hard-55","slot":"slot1","pass":true,"reason":"dashes removed, facts kept, natural"}
+{"id":"hard-55","slot":"slot2","pass":true,"reason":"no dashes, facts kept"}
+{"id":"hard-55","slot":"slot3","pass":true,"reason":"no dashes, facts kept"}
+{"id":"hard-56","slot":"slot1","pass":true,"reason":"restructured with commas/periods, facts kept"}
+{"id":"hard-56","slot":"slot2","pass":true,"reason":"clean newsletter flow, no dashes"}
+{"id":"hard-56","slot":"slot3","pass":true,"reason":"natural connective lekin, no dashes"}
+{"id":"hard-57","slot":"slot1","pass":false,"reason":"kept hyphen ranges 9-18/13-14 — en-dash ranges not fixed to dan...gacha"}
+{"id":"hard-57","slot":"slot2","pass":true,"reason":"ranges written out as N dan M gacha, facts kept"}
+{"id":"hard-57","slot":"slot3","pass":false,"reason":"30-40 and 25-35 still hyphen ranges"}
+{"id":"hard-58","slot":"slot1","pass":true,"reason":"dashes gone, steps preserved, varied rhythm"}
+{"id":"hard-58","slot":"slot2","pass":true,"reason":"no dashes, meaning intact"}
+{"id":"hard-58","slot":"slot3","pass":false,"reason":"misspelled ohirida (should be oxirida)"}
+{"id":"hard-59","slot":"slot1","pass":true,"reason":"chat tone kept, no dashes"}
+{"id":"hard-59","slot":"slot2","pass":true,"reason":"chat tone kept, natural"}
+{"id":"hard-59","slot":"slot3","pass":true,"reason":"still reads as a chat message, content kept"}
+{"id":"hard-60","slot":"slot1","pass":true,"reason":"official register, no dashes, demands kept"}
+{"id":"hard-60","slot":"slot2","pass":true,"reason":"official register, demands kept"}
+{"id":"hard-60","slot":"slot3","pass":true,"reason":"esa fits official flow, demands kept"}

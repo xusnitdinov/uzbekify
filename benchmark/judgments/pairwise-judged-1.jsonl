@@ -1,0 +1,70 @@
+{"id": "hard-12", "better": "A", "reason": "A layers formal greeting, genuinely chat-style summary ('hammasi joyida') and formal closing cleanly; B slips bureaucratic phrasing ('muvaffaqiyatli amalga oshdi', 'mazkur manzilga') into the letter."}
+{"id": "ho-014", "better": "A", "reason": "A's 'Oldin koʻrsang aytsana' is exactly how a friend texts; B is correct but slightly more composed."}
+{"id": "hard-16", "better": "A", "reason": "A replies in short, natural code-mixed sentences like a real support admin; B is warmer but drags a heavy nominal chain."}
+{"id": "ho-034", "better": "A", "reason": "A renders the countdown fully in natural Uzbek; B's human 'yubordik' is offset by the untranslated '{seconds}s' unit."}
+{"id": "ho-037", "better": "A", "reason": "A keeps banner and CTA as separate UI strings with the standard 'saralash'; B merges banner and CTA and uses the less standard 'tartiblash'."}
+{"id": "hard-02", "better": "A", "reason": "A truly simplifies ('qonunga koʻra') while keeping the bank register; B stays close to the officialese it was asked to unwind."}
+{"id": "ho-006", "better": "A", "reason": "A answers the request naturally ('hoziroq tashlab beraman'); B misreads the exchange with 'qabul qilib oldim' and stiffer phrasing."}
+{"id": "hard-28", "better": "B", "reason": "B's short self-deprecating tease with '-ku' particles lands like real banter; A's 'mazaxing yetib qoldi' feels forced."}
+{"id": "ho-115", "better": "A", "reason": "A's 'Kechikkanimiz uchun uzr' is natural support speech; B's 'Kechikish uchun kechirasiz' is a broken polite imperative."}
+{"id": "ho-058", "better": "A", "reason": "A's bullets stay short yet concrete ('bir necha soniyada', 'har xariddan keshbek'); B is punchy but vaguer."}
+{"id": "ho-012", "better": "A", "reason": "A answers mom directly ('Yoʻq onijon, esdan chiqibdi, kechiring') in exactly the register people text their mothers; B is nearly as good but 'Kechir, ona' is a slightly less typical address."}
+{"id": "ho-068", "better": "A", "reason": "A nudges kindly and even mentions the streak ('seriyangiz uzilmasin'); B is fine but generic and stiffer at the end."}
+{"id": "ho-099", "better": "tie", "reason": "Identical except a comma versus a dash; both are equally correct manual Uzbek."}
+{"id": "ho-050", "better": "A", "reason": "A is tighter product copy ('javob toʻgʻri, asosiy imtihonga tayyorsiz'); B's 'yaxshi tayyorlanibsiz' feels padded."}
+{"id": "ho-134", "better": "A", "reason": "A is a complete, properly formatted formal letter with natural honorifics; B signs vaguely as 'mijoz' and has the awkward 'hal topmaganini'."}
+{"id": "ho-022", "better": "B", "reason": "B reciprocates the wish naturally ('Sizga ham omad tilayman'); A's 'Rahmat sizga ham' is a slightly off reply to a thank-you-plus-wish."}
+{"id": "ho-008", "better": "B", "reason": "B sounds like a real group announcement with the vocative 'Jamoa' and idiomatic 'ovozga qoʻyamiz'; A's 'Jamoa ovqati' is ambiguous."}
+{"id": "ho-026", "better": "B", "reason": "B acknowledges like a human ('adolatli gap') and commits clearly; A's 'eshitib turamiz' reads oddly as a feedback response."}
+{"id": "ho-044", "better": "A", "reason": "A uses the conventional question-form dialog title; B's gerund title is less natural for a confirmation dialog."}
+{"id": "ho-083", "better": "tie", "reason": "Both are flawless casual chat ('Gap yoʻq'/'Muammo emas', 'yozaver'/'yozib qoʻy') with no real gap in voice."}
+{"id": "hard-30", "better": "A", "reason": "A keeps the strelka tone with natural disbelief and invents no facts; B adds a specific 20-million price not in the brief."}
+{"id": "ho-032", "better": "A", "reason": "A's state form 'tugagan' fits an error screen and respects the one-line brief; B piles two options into a long line."}
+{"id": "ho-070", "better": "B", "reason": "B reads as one smooth human sentence with 'sovgʻa qiling'; A's elliptical 'unga 20 ming soʻm' is choppy."}
+{"id": "ho-130", "better": "A", "reason": "A follows the real ariza format (addressee, ILTIMOS, date, signature) with concrete risk details; B lacks the canonical structure and says the odd 'shamolli havoda'."}
+{"id": "ho-071", "better": "B", "reason": "B has the punchy event-poster rhythm ('Kirish bepul.' on its own line); A's 'yoga boʻladi' announcement style is flatter."}
+{"id": "ho-015", "better": "B", "reason": "B opens supportively and stays coherent; A's 'sababini tekshirdim' promises a reason that never comes."}
+{"id": "hard-01", "better": "A", "reason": "A turns the announcement into a vivid human voice at full length; B is clean but compresses away most of the content and warmth."}
+{"id": "ho-109", "better": "B", "reason": "B's conditional 'Xaridingiz 300 000 soʻmdan oshsa…' flows like a person wrote it; A is grammatical but more mechanical."}
+{"id": "hard-20", "better": "B", "reason": "B keeps the original rhythm closest and the quotes around 'boʻlishdi' clarify the sense; A's re-punctuation chops the sentence."}
+{"id": "hard-38", "better": "B", "reason": "B matches the canonical ariza layout (nomiga / ARIZA / signature) with authentic officialese; A's header order is unorthodox."}
+{"id": "ho-042", "better": "A", "reason": "A's polite 'boʻlsin … ham qatnashsin' sounds like friendly form copy; B's 'boʻlishi kerak' is stiffer."}
+{"id": "ho-040", "better": "A", "reason": "A keeps the button style consistent (both infinitives) and writes 'soat 10:30ga'; B mixes imperative and infinitive buttons."}
+{"id": "ho-043", "better": "B", "reason": "B uses the standard term 'Yoʻl haqqi'; A's bare 'Haqi' is clipped and less idiomatic."}
+{"id": "ho-007", "better": "A", "reason": "A pairs a greeting with two crisp diagnostic questions in genuine support-chat voice; B is capable but skips the greeting."}
+{"id": "ho-054", "better": "A", "reason": "A preserves 'cash on delivery' precisely ('Yetkazib berishda naqd toʻlash mumkin'); B drops the delivery context."}
+{"id": "hard-21", "better": "B", "reason": "B builds a full formal murojaat with proper officialese; A is correct but too skeletal for a 'rasmiy murojaat'."}
+{"id": "ho-051", "better": "B", "reason": "B states the error and then the required format ('koʻrinishida kiriting') like real form UX; A never names the problem."}
+{"id": "ho-149", "better": "A", "reason": "A spells 'Boʻzsuv' correctly with clean news syntax; B misspells the canal as 'Boʻzsu' and adds unsourced detail."}
+{"id": "hard-24", "better": "B", "reason": "B's 'hoziroq oʻqing!' preserves the urgent colloquial push tone of 'ҳозироқ'; A's 'hozir' loses that immediacy."}
+{"id": "ho-060", "better": "B", "reason": "B's subject and first line are punchier and name Black Friday with a clear deadline; A's first line runs on."}
+{"id": "ho-092", "better": "A", "reason": "A uses the standard retail term 'gigiyena vositalari'; B's 'shaxsiy gigiyena' is a calque-like officialese expansion."}
+{"id": "hard-05", "better": "A", "reason": "A sounds like a real mentor with particles and rhythm ('katta-katta emas, har kuni bas'); B is correct but flatter and more list-like."}
+{"id": "ho-046", "better": "A", "reason": "A splits the message into the usual ride-app card (arrival line plus car and plate); B merges it into one run-on push."}
+{"id": "hard-23", "better": "tie", "reason": "Both normalize to exactly the same natural sentence."}
+{"id": "ho-049", "better": "B", "reason": "B's 'qanday chiqdi? Xohlasangiz…' is warm and pressure-free; A is correct but colder than the brief wants."}
+{"id": "ho-003", "better": "B", "reason": "B reassures and asks exactly the right practical details; A's demand for a transaction number is too technical for this confused user."}
+{"id": "ho-010", "better": "tie", "reason": "Both are perfectly idiomatic friendly traffic replies with no separation in voice."}
+{"id": "ho-098", "better": "B", "reason": "B's fronted 'Faqat shu hafta:' gives natural promo urgency and cadence; A's 'hammasiga 2 ta oling' is clunkier."}
+{"id": "ho-063", "better": "B", "reason": "B sells the benefits with wit ('internet yoʻq joyda ham', 'Batareyani deyarli yemaydi'); A is accurate but generic."}
+{"id": "hard-49", "better": "tie", "reason": "The text is already natural, and both correctly leave it untouched."}
+{"id": "hard-50", "better": "tie", "reason": "Both correctly leave the already-natural customer comment unchanged."}
+{"id": "ho-142", "better": "A", "reason": "A is a clean two-sentence lead with standard 'paxta hosili' and attribution; B's 'yigʻimi' shifts the meaning and adds unsourced info."}
+{"id": "ho-056", "better": "B", "reason": "B's 'bitta obunada' hero line is sleek and idiomatic; A's 'yangilari qoʻshiladi' plus a bolted-on CTA is rougher."}
+{"id": "hard-55", "better": "A", "reason": "A restores natural verbs and the dative 'Aʼzolarga 20% chegirma'; B's tacked-on 'bor' reads clunky."}
+{"id": "ho-004", "better": "A", "reason": "A's 'boʻsh qoldirmang' adds live channel energy while both keep the emoji pointer; A simply sounds more like a host."}
+{"id": "ho-076", "better": "A", "reason": "A is candid and warm ('Sizga rostini aytamiz', 'qolaveradi') without redundancy; B doubles the promise line and 'Shaffof boʻlaylik' feels slightly translated."}
+{"id": "ho-119", "better": "B", "reason": "B's 'boʻlib oʻtadi' is the idiomatic schedule verb; A's bare 'oʻtadi' is fine but flatter."}
+{"id": "ho-019", "better": "B", "reason": "B opens like real support ('Xabar uchun rahmat') and 'tezroq aniqlaymiz' flows; A's 'yordam beramiz' is stiff."}
+{"id": "ho-075", "better": "A", "reason": "A's conditional 'VIN boʻlsa, istalgan detal topiladi' has the proverb-like tagline rhythm people actually say; B is standard but blander."}
+{"id": "ho-104", "better": "A", "reason": "A's 'oʻlchamingizda tugab qolgan' is the idiomatic way to say out-of-stock in your size; B's 'oʻzingizga mos oʻlchamda' is wordy."}
+{"id": "ho-136", "better": "B", "reason": "B delivers the concrete topic, day and time the brief asks for in flowing formal Uzbek; A leaves sana/vaqt as empty placeholders and opens with a comma after the salutation."}
+{"id": "hard-48", "better": "tie", "reason": "Both give the same correct natural equivalent, 'Sel kabi yomgʻir yogʻyapti.'"}
+{"id": "ho-024", "better": "B", "reason": "B's 'Doʻstlar' opener and 'kela qoʻying' sound like a real study-group DM; A's 'Eʼtibor bering' is announcement-ish."}
+{"id": "hard-46", "better": "A", "reason": "A keeps polite SIZ, avoids the formulaic opening, and adds a natural helpful follow-up; B is correct but bare."}
+{"id": "ho-067", "better": "A", "reason": "A packs the facts efficiently with the classic 'metrogacha piyoda masofada' and an actionable CTA; B is equally clean but slightly thinner."}
+{"id": "ho-084", "better": "A", "reason": "A keeps a complete main verb ('qaynatib pishiring') with the stirring woven in; B's converb chain ends awkwardly on 'aralashtirib turing'."}
+{"id": "hard-40", "better": "A", "reason": "A keeps the real content (week-long water cut) inside proper formal framing; B hollows the mazmun into placeholders, breaking the 'keep content' rule."}
+{"id": "hard-04", "better": "B", "reason": "B varies paragraph lengths with fully natural, grammatical phrasing; A slips on agreement ('Mutaxassislarimiz malakasini … oshirib boradi')."}
+{"id": "ho-062", "better": "B", "reason": "B is sensory and craft-authentic ('xanadan chiqqanidek'); A's 'naqshlari qoʻlda chizilgan' misdescribes Margʻilon ikat patterns."}
+{"id": "ho-086", "better": "B", "reason": "B renders the advice idiomatically and precisely ('investitsiyalarni bir necha yoʻnalishga boʻling'); A's 'xavfni … boʻlib qoʻying' splits the risk rather than the investment."}

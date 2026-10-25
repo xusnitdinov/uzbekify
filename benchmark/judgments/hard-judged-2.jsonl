@@ -1,0 +1,60 @@
+{"id":"hard-21","slot":"slot1","pass":false,"reason":"gains officialese 'mazkur' which the drop rule bans; rest is clean Latin with proper ʻ"}
+{"id":"hard-21","slot":"slot2","pass":false,"reason":"straight apostrophe in bo'yicha (script row demands correct ʻ); colloquial 'kutyapman' wrong for a formal note"}
+{"id":"hard-21","slot":"slot3","pass":true,"reason":"clean Latin, proper ʻ, no mazkur/ushbu, savol/javob kept, formal closing intact"}
+{"id":"hard-22","slot":"slot1","pass":true,"reason":"Cyrillic quote intact, no dashes, natural supportive reply"}
+{"id":"hard-22","slot":"slot2","pass":true,"reason":"Cyrillic quote kept, no dashes; self-quoting 'yozdim:' framing slightly odd but content fine"}
+{"id":"hard-22","slot":"slot3","pass":true,"reason":"quote preserved, no dashes; straight apostrophes noted but not a criterion for this row"}
+{"id":"hard-23","slot":"slot1","pass":true,"reason":"proper ʻ (Oʻ, boʻ) and ʼ (eʼtibor), spaced dash removed, proverb kept"}
+{"id":"hard-23","slot":"slot2","pass":true,"reason":"identical correct normalization: ʻ/ʼ right, dash gone, hammasi boʻladi kept"}
+{"id":"hard-23","slot":"slot3","pass":true,"reason":"identical correct normalization: ʻ/ʼ right, dash gone, hammasi boʻladi kept"}
+{"id":"hard-24","slot":"slot1","pass":true,"reason":"proper ʻ, keeps post/chiqdi/oʻqing, natural urgent push tone"}
+{"id":"hard-24","slot":"slot2","pass":true,"reason":"proper ʻ, content kept; 'hozir' loses the -roq urgency slightly but reads natively"}
+{"id":"hard-24","slot":"slot3","pass":false,"reason":"straight apostrophe in o'qing violates script_latin (correct ʻ marks) in a script row"}
+{"id":"hard-25","slot":"slot1","pass":true,"reason":"keeps -ku (ish-ku), playful half-moon joke, chat register"}
+{"id":"hard-25","slot":"slot2","pass":true,"reason":"-ku kept (mumkin-ku), moon-bargaining joke lands; straight apostrophes not tested here"}
+{"id":"hard-25","slot":"slot3","pass":true,"reason":"-ku kept (Aytdim-ku), ice-cream twist is proper friend-banter"}
+{"id":"hard-26","slot":"slot1","pass":true,"reason":"donat kept, no ship/vibe, youth tone with a real complaint"}
+{"id":"hard-26","slot":"slot2","pass":true,"reason":"donat kept, no banned slang; donate-popup image is natural"}
+{"id":"hard-26","slot":"slot3","pass":true,"reason":"donat kept twice, no ship/vibe, genuine gamer review voice"}
+{"id":"hard-27","slot":"slot1","pass":true,"reason":"gives real proverb 'Qichimagan joyni qashima' with correct meddling sense and an example"}
+{"id":"hard-27","slot":"slot2","pass":true,"reason":"correct self-revealing sense of qichigan joyni qashamoq with a vivid office example"}
+{"id":"hard-27","slot":"slot3","pass":false,"reason":"wrong meaning: claims the idiom means finding the exact right solution; example contradicts the proverb"}
+{"id":"hard-28","slot":"slot1","pass":true,"reason":"-ku twice, self-deprecating comeback about the old car, no envy"}
+{"id":"hard-28","slot":"slot2","pass":false,"reason":"no -ku anywhere despite the keep rule; reply itself is fine banter"}
+{"id":"hard-28","slot":"slot3","pass":true,"reason":"-ku kept, mocking-free comeback, chat voice with Xaxa"}
+{"id":"hard-29","slot":"slot1","pass":true,"reason":"3 tale sentences, fox/wolf kept, folk-ring closing ('gap aylangan ekan')"}
+{"id":"hard-29","slot":"slot2","pass":true,"reason":"tale voice intact, proverb-ring ending; 'shoshilinch boʻlib' slightly off within lint budget"}
+{"id":"hard-29","slot":"slot3","pass":true,"reason":"folk words (toʻq oʻtirardi), 3 sentences, lesson line has proverb ring"}
+{"id":"hard-30","slot":"slot1","pass":true,"reason":"eshitdim-u ishonmadim + mish-mish kept, gossipy chat voice"}
+{"id":"hard-30","slot":"slot2","pass":true,"reason":"flavor phrase kept, natural rumor reply, chat register"}
+{"id":"hard-30","slot":"slot3","pass":true,"reason":"kept both flavor markers, skeptical short chat reply"}
+{"id":"hard-31","slot":"slot1","pass":true,"reason":"'va' chain fully broken, elliptical 'Mijozlar xursand, biz ham.' varies rhythm"}
+{"id":"hard-31","slot":"slot2","pass":true,"reason":"lengths 4-10 vary, no va-spam; 'beliga qoʻyilgan ish' collocation slightly odd"}
+{"id":"hard-31","slot":"slot3","pass":true,"reason":"no va-spam, colon breaks pattern, sentence lengths vary"}
+{"id":"hard-32","slot":"slot1","pass":true,"reason":"over-politeness gone, conditional kept once naturally, lint clean"}
+{"id":"hard-32","slot":"slot2","pass":true,"reason":"'Qulay paytda' reframes without repeating 'Agar qulay boʻl', human voice"}
+{"id":"hard-32","slot":"slot3","pass":true,"reason":"natural, no repeated politeness formula, meaning kept"}
+{"id":"hard-33","slot":"slot1","pass":true,"reason":"all 'Eng' superlatives dropped, plain concrete claims instead"}
+{"id":"hard-33","slot":"slot2","pass":true,"reason":"no 'Eng', expanded into flowing ad copy with proof-ish claims"}
+{"id":"hard-33","slot":"slot3","pass":true,"reason":"'Eng' gone; still punchy but that suits ad copy, no banned pattern"}
+{"id":"hard-34","slot":"slot1","pass":true,"reason":"formal register kept, sentence lengths 5-9 vary, shartnoma/tomon kept"}
+{"id":"hard-34","slot":"slot2","pass":true,"reason":"proper official letter voice, lengths 2-16 vary, domain terms kept"}
+{"id":"hard-34","slot":"slot3","pass":false,"reason":"broken closing sentence 'Bayonnomaning har bir tomonda ... saqlanadi' (dangling genitive) breaks formal register"}
+{"id":"hard-35","slot":"slot1","pass":true,"reason":"template gratitude gone, warm concise chat reply"}
+{"id":"hard-35","slot":"slot2","pass":true,"reason":"no template lines, human chat voice with promise to follow up"}
+{"id":"hard-35","slot":"slot3","pass":true,"reason":"robotic repetition removed, natural short chat flow"}
+{"id":"hard-36","slot":"slot1","pass":true,"reason":"template frame gone, six varied chat-tone items in order"}
+{"id":"hard-36","slot":"slot2","pass":true,"reason":"varied tones and lengths in order; stray EN label 'Refund' noted but not banned here"}
+{"id":"hard-36","slot":"slot3","pass":false,"reason":"typo 'Kartaingiz' (kartangiz); tone leans official rather than chat base"}
+{"id":"hard-37","slot":"slot1","pass":true,"reason":"unchanged official wording, register intact, key terms kept"}
+{"id":"hard-37","slot":"slot2","pass":true,"reason":"identical correct output: no simplification, official register preserved"}
+{"id":"hard-37","slot":"slot3","pass":true,"reason":"identical correct output: no simplification, official register preserved"}
+{"id":"hard-38","slot":"slot1","pass":true,"reason":"formal ariza frame with ushbu ariza + soʻrayman, reference request clear"}
+{"id":"hard-38","slot":"slot2","pass":true,"reason":"full formal ariza with specifics (lavozim, staj, deadline, ilova), register right"}
+{"id":"hard-38","slot":"slot3","pass":true,"reason":"concise but properly formal ariza, required frame kept"}
+{"id":"hard-39","slot":"slot1","pass":true,"reason":"only apostrophes normalized to ʻ, legal text untouched"}
+{"id":"hard-39","slot":"slot2","pass":false,"reason":"added -dir to the constitutional formula (oʻzgartirmang violated) and left straight apostrophes unfixed"}
+{"id":"hard-39","slot":"slot3","pass":true,"reason":"identical to slot1: spelling-only fix, wording unchanged"}
+{"id":"hard-40","slot":"slot1","pass":true,"reason":"no 'aka', proper mahalla letter, complaint and request content kept"}
+{"id":"hard-40","slot":"slot2","pass":true,"reason":"formalized, no 'aka', content kept; 'soatgacha berilmaydi' slightly clumsy"}
+{"id":"hard-40","slot":"slot3","pass":false,"reason":"content not preserved: substance replaced by placeholders ([mavzu], [qisqacha bayon])"}

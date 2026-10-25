@@ -1,0 +1,55 @@
+{
+  "name": "uzbekify",
+  "version": "3.0.0",
+  "private": true,
+  "description": "uzbekify — the uzbek-humanizer successor: one skill + CLI (uzpro) + MCP that makes AI-written Uzbek sound like a real person wrote it (calques, officialese, register, morphology, Cyrillic, naturalness scoring)",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "uzbekify": "dist/cli.js",
+    "uzpro": "dist/cli.js",
+    "uzpro-mcp": "dist/mcp.js"
+  },
+  "main": "dist/lib/index.js",
+  "types": "dist/lib/index.d.ts",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json && node -e \"const fs=require('fs');fs.cpSync('skills/uzbekify/src/data','dist/data',{recursive:true})\"",
+    "test": "vitest run",
+    "eval": "npm run build && node dist/scripts/run-eval.js",
+    "lint:skill": "npm run build && node dist/cli.js lint skills/uzbekify/examples --json --quiet || true",
+    "gen:data": "node dist/scripts/gen-data.js",
+    "mine": "node dist/scripts/mine-corpus.js",
+    "mcp": "node dist/mcp.js",
+    "mine:informal": "node dist/scripts/mine-informal.js",
+    "postinstall": "node scripts/postinstall.js",
+    "bench": "node benchmark/bench.mjs all",
+    "bench:metrics": "node benchmark/bench.mjs metrics",
+    "bench:packs": "node benchmark/bench.mjs packs",
+    "bench:report": "node benchmark/bench.mjs report"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.4",
+    "typescript": "^5.6.2",
+    "vitest": "^2.1.1"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "yaml": "^2.9.1",
+    "zod": "^4.6.7"
+  },
+  "files": [
+    "dist",
+    "skills/uzbekify/SKILL.md",
+    "skills/uzbekify/references",
+    "skills/uzbekify/playbooks",
+    "skills/uzbekify/examples",
+    "llms.txt",
+    "AGENTS.drop-in.md",
+    "README.md",
+    "LICENSE",
+    "schemas"
+  ]
+}

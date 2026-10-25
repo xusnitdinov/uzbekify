@@ -1,0 +1,45 @@
+{"id": "m-001", "set": "microcopy", "bad": "Kirish tugmasini bosing va profilingizga kirasan.", "good": "Kirish tugmasini bosing va profilingizga kirasiz."}
+{"id": "m-002", "set": "microcopy", "bad": "Parolni unutdingizmi? Yangisini soʻraysanmi?", "good": "Parolni unutdingizmi? Yangisini soʻraysizmi?"}
+{"id": "m-003", "set": "microcopy", "bad": "Bu maydonni toʻldirasanmi yoki oʻtkazib yuborasanmi?", "good": "Bu maydonni toʻldirasizmi yoki oʻtkazib yuborasizmi?"}
+{"id": "m-004", "set": "microcopy", "bad": "Sozlamalarda xabarnomani yoqasan.", "good": "Sozlamalarda bildirishnomani yoqasiz."}
+{"id": "m-005", "set": "microcopy", "bad": "Tasdiqlash kodini kutasan va yozasan.", "good": "Tasdiqlash kodini kutib, yozasiz."}
+{"id": "m-006", "set": "microcopy", "bad": "Balansingizni tekshirasanmi?", "good": "Balansingizni tekshirasizmi?"}
+{"id": "m-007", "set": "microcopy", "bad": "Siz kirasiz, lekin parolni esdan chiqarasan.", "good": "Kirasiz, lekin parolni esdan chiqarmang."}
+{"id": "m-008", "set": "microcopy", "bad": "Xush kelibsiz! Endi nima qilasan?", "good": "Xush kelibsiz! Endi nima qilasiz?"}
+{"id": "m-009", "set": "microcopy", "bad": "Bekor qilish uchun: Bekor qil. Saqlash uchun: Saqla.", "good": "Bekor qilish uchun: Bekor qilish. Saqlash uchun: Saqlash."}
+{"id": "m-010", "set": "microcopy", "bad": "Davom etish uchun Bor bosing.", "good": "Davom etish uchun Davom etish tugmasini bosing."}
+{"id": "m-011", "set": "microcopy", "bad": "Yoz va yubor, tezroq boʻladi.", "good": "Yozing va yuboring, tezroq boʻladi."}
+{"id": "m-012", "set": "microcopy", "bad": "Oʻtir va kutib tur.", "good": "Oʻtiring va kutib turing."}
+{"id": "m-013", "set": "microcopy", "bad": "Forgot password? Parolni tiklash.", "good": "Parolni unutdingizmi? Parolni tiklash."}
+{"id": "m-014", "set": "microcopy", "bad": "Something went wrong bir narsa notoʻgʻri ketdi.", "good": "Xatolik yuz berdi."}
+{"id": "m-015", "set": "microcopy", "bad": "Loading boʻlmoqda, iltimos kutish.", "good": "Yuklanmoqda, iltimos kuting."}
+{"id": "m-016", "set": "microcopy", "bad": "No results found natijalar yoʻq.", "good": "Soʻrovingiz boʻyicha hech narsa topilmadi."}
+{"id": "m-017", "set": "microcopy", "bad": "Save changes oʻzgarishlarni saqlash.", "good": "Oʻzgarishlarni saqlash"}
+{"id": "m-018", "set": "microcopy", "bad": "Copy link havolani copy qiling.", "good": "Havoladan nusxa olish"}
+{"id": "m-019", "set": "microcopy", "bad": "Delete account hisobni delete qilasizmi?", "good": "Hisobingizni oʻchirmoqchimisiz?"}
+{"id": "m-020", "set": "microcopy", "bad": "Try again later keyinroq urinib koʻringni bajaring.", "good": "Iltimos, keyinroq qayta urinib koʻring."}
+{"id": "m-021", "set": "microcopy", "bad": "Yuklab olishni bajaring.", "good": "Yuklab oling."}
+{"id": "m-022", "set": "microcopy", "bad": "Tekshirishni amalga oshirishni bajaring.", "good": "Tekshiring."}
+{"id": "m-023", "set": "microcopy", "bad": "Toʻlovni amalga oshirishni bajaringni bosing.", "good": "Toʻlang."}
+{"id": "m-024", "set": "microcopy", "bad": "Roʻyxatdan oʻtishni bajarishni amalga oshiring.", "good": "Roʻyxatdan oʻting."}
+{"id": "m-025", "set": "microcopy", "bad": "Chiqishni amalga oshirish jarayonini boshlang.", "good": "Chiqing."}
+{"id": "m-026", "set": "microcopy", "bad": "Quyidagi jumla ichida toʻgʻri gapni toping va belgilang.", "good": "Berilgan gaplardan toʻgʻrisini topib, belgilang."}
+{"id": "m-027", "set": "microcopy", "bad": "Har bir jumla uchun bittadan javob bering, SIz toʻgʻri yoʻldasiz.", "good": "Har bir gap uchun bittadan javob bering, Siz toʻgʻri yoʻldasiz."}
+{"id": "m-028", "set": "microcopy", "bad": "Bu jumla notoʻgʻri, oʻsha gapni tanlang.", "good": "Bu gap notoʻgʻri, uni tanlang."}
+{"id": "m-029", "set": "microcopy", "bad": "Mahsulotlarimizlar savatga qoʻshildi.", "good": "Mahsulotlar savatga qoʻshildi."}
+{"id": "m-030", "set": "microcopy", "bad": "Buyurtmangizlargaga kuzatuv raqami yuborildi.", "good": "Buyurtmangizga kuzatuv raqami yuborildi."}
+{"id": "m-031", "set": "microcopy", "bad": "Foydalanuvchilaringiz fikrlarinigaga tayanamiz.", "good": "Foydalanuvchilar fikriga tayanamiz."}
+{"id": "m-032", "set": "microcopy", "bad": "Kartaleringiz roʻyxatini koʻring.", "good": "Kartalaringiz roʻyxatini koʻring."}
+{"id": "m-033", "set": "microcopy", "bad": "Toʻlov qishloqga bogʻliq emas.", "good": "Toʻlov qishloqqa bogʻliq emas."}
+{"id": "m-034", "set": "microcopy", "bad": "Keling, profilingizni toʻldiring. Keyin nima qilasan, oʻzingiz tanlaysan.", "good": "Keling, profilingizni toʻldiring. Keyin nima qilishni oʻzingiz tanlaysiz."}
+{"id": "m-035", "set": "microcopy", "bad": "Assalomu alaykum! Savolingizni yozasan, biz tekshiramiz.", "good": "Assalomu alaykum! Savolingizni yozing, biz tekshiramiz."}
+{"id": "m-036", "set": "microcopy", "bad": "Xoʻp, mayli, soʻrov qabul qilindi, endi kuting.", "good": "Soʻrov qabul qilindi, iltimos kuting."}
+{"id": "m-037", "set": "microcopy", "bad": "Toʻlov usuli: karta или naqd pul?", "good": "Toʻlov usuli: karta yoki naqd pul?"}
+{"id": "m-038", "set": "microcopy", "bad": "Buyurtma holati: доставлено", "good": "Buyurtma holati: yetkazib berildi"}
+{"id": "m-039", "set": "microcopy", "bad": "Tugma: Сохранить", "good": "Tugma: Saqlash"}
+{"id": "m-040", "set": "microcopy", "bad": "SMS xabar: Ваш код 4821", "good": "SMS xabar: Kodingiz: 4821"}
+{"id": "m-041", "set": "microcopy", "bad": "Nomeri kiritilмеди.", "good": "Raqam kiritildi."}
+{"id": "m-042", "set": "microcopy", "bad": "Ilova обновилendi.", "good": "Ilova yangilandi."}
+{"id": "m-043", "set": "microcopy", "bad": "Narxi: $1,250,000 soʻm", "good": "Narxi: 1 250 000 soʻm"}
+{"id": "m-044", "set": "microcopy", "bad": "Sana: Aug 9, 2024", "good": "Sana: 2024-yil 9-avgust"}
+{"id": "m-045", "set": "microcopy", "bad": "Telefon: 90 123 45 67", "good": "Telefon: +998 90 123-45-67"}

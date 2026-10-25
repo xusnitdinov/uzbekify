@@ -1,0 +1,3884 @@
+{
+ "baseline": [
+  {
+   "id": "h3h-01",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "tashkil etilgan|qabul qilinadi|taqsimlanadi|joylashtiriladi",
+     "pass": false
+    },
+    {
+     "type": "approx_len",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-02",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "amalga oshiriladi|belgilangan tartibda|tavsiya etiladi",
+     "pass": false
+    },
+    {
+     "type": "approx_len",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-03",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "ta'minlanadi|beriladi|o'rganiladi|rejalashtirilgan",
+     "pass": false
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-04",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "formal report stays",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(daromad|xarajat|foyda|zaxira)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-05",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "tuzatildi|oshirildi|kengaytirildi|mustahkamlandi",
+     "pass": false
+    },
+    {
+     "type": "lint_clean",
+     "pass": false
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-06",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "ta'minlanadi|o'tkaziladi|amalga oshiriladi|hisoblanadi",
+     "pass": false
+    },
+    {
+     "type": "approx_len",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-07",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(kart|SMS|kod)",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-08",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(jadval|dars)",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-09",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(manzil|vaqt|taom|buyurtma)",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-10",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(ofis|ko'chish|manzil)",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-11",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(sayohat|sinfdan tashqari|olib)",
+     "pass": true
+    },
+    {
+     "type": "no_bullet",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-12",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(navbat|do'kon|tizim)",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-13",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(app|crash|pul)",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-14",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(build|break|main)",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-15",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(settings|english|til)",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-16",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(warranty|kafolat)",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-17",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(brunch|kids|menu)",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-18",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(seed|hiring|linkedin)",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "ta'minlanadi|oshiriladi",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-19",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(mablag|rozi)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-20",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(svet|9|suv)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-21",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "lint_clean",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-22",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(taʼlim|kelajak)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-23",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(balans|3500)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-24",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "Oʻtgan kunlar",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-25",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "-ku",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-26",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(grafika|internet)",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\b(ship|vibe|cringe)\\b",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-27",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "lint_ok",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(maqol|shior|aytilgan)",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-28",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(kutaman|2 soat)",
+     "pass": false
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-29",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(ayiq|asal)",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-30",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-31",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "Siz (profilni|rasmlarni|do'stlarni|sozlamalarni) ",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-32",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "Natija kafolatlangan",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-33",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "^(Rahmat!|Rahmat, )",
+     "pass": false
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-34",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "etiladi\\.",
+     "pass": false
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-35",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-36",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "(Avval|keyin|nihoyat)",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(va|so'ng|keyinroq)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-37",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-38",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-39",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-40",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(murojaat|qaror|hujjat)",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-41",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "approx_input",
+     "pass": false
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-42",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(tarif|rasmiy sayt|yanvar)",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-43",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\bfabrika\\w*",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "mato",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-44",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(yildan beri|quryapti|qurmoqda)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-45",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "kачественн|kачественн",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-46",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "(mehribonlik|qadrlagan holda)",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Iltimos|chekmang)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-47",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "kechikibdi",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-48",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\binteresn\\w*",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "qiziqarli",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-49",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(otam ham|rahmat)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-50",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "approx_input",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "gaplashamiza",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-51",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(hashar|non-choy)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-52",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(arzonroq|yomon emas)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-53",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "2 mln",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-54",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(g'alaba|qahramon)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-55",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(qal'a|baraka|farzand)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-56",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Darslar|To'lov|200)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-57",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ro'yxat|profil|buyurtma)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-58",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(uydaman|soat 6)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-59",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Buyurtma|Muddat|Kafolat)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-60",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(tez|ikki daqiqa|qo'llab)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  }
+ ],
+ "v1": [
+  {
+   "id": "h3h-01",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "tashkil etilgan|qabul qilinadi|taqsimlanadi|joylashtiriladi",
+     "pass": false
+    },
+    {
+     "type": "approx_len",
+     "pass": false
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-02",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "amalga oshiriladi|belgilangan tartibda|tavsiya etiladi",
+     "pass": false
+    },
+    {
+     "type": "approx_len",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-03",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "ta'minlanadi|beriladi|o'rganiladi|rejalashtirilgan",
+     "pass": false
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-04",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "formal report stays",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(daromad|xarajat|foyda|zaxira)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-05",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "tuzatildi|oshirildi|kengaytirildi|mustahkamlandi",
+     "pass": false
+    },
+    {
+     "type": "lint_clean",
+     "pass": false
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-06",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "ta'minlanadi|o'tkaziladi|amalga oshiriladi|hisoblanadi",
+     "pass": true
+    },
+    {
+     "type": "approx_len",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-07",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(kart|SMS|kod)",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-08",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(jadval|dars)",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-09",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(manzil|vaqt|taom|buyurtma)",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-10",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ofis|ko'chish|manzil)",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-11",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(sayohat|sinfdan tashqari|olib)",
+     "pass": true
+    },
+    {
+     "type": "no_bullet",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-12",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(navbat|do'kon|tizim)",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-13",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(app|crash|pul)",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-14",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(build|break|main)",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-15",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(settings|english|til)",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-16",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(warranty|kafolat)",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-17",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(brunch|kids|menu)",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-18",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(seed|hiring|linkedin)",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "ta'minlanadi|oshiriladi",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-19",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(mablag|rozi)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-20",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(svet|9|suv)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-21",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "lint_clean",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-22",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(taʼlim|kelajak)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-23",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(balans|3500)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-24",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "Oʻtgan kunlar",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-25",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "-ku",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-26",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(grafika|internet)",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\b(ship|vibe|cringe)\\b",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-27",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(maqol|shior|aytilgan)",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-28",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(kutaman|2 soat)",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-29",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ayiq|asal)",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-30",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-31",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "Siz (profilni|rasmlarni|do'stlarni|sozlamalarni) ",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-32",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": false
+    },
+    {
+     "type": "drop",
+     "re": "Natija kafolatlangan",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-33",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "^(Rahmat!|Rahmat, )",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-34",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "etiladi\\.",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-35",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": false
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-36",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "(Avval|keyin|nihoyat)",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(va|so'ng|keyinroq)",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-37",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-38",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": false
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-39",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-40",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(murojaat|qaror|hujjat)",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-41",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": false
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-42",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(tarif|rasmiy sayt|yanvar)",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-43",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\bfabrika\\w*",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "mato",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-44",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yildan beri|quryapti|qurmoqda)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-45",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "kачественн|kачественн",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-46",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "(mehribonlik|qadrlagan holda)",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Iltimos|chekmang)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-47",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "kechikibdi",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-48",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\binteresn\\w*",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "qiziqarli",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-49",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(otam ham|rahmat)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-50",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "gaplashamiza",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-51",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(hashar|non-choy)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-52",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(arzonroq|yomon emas)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-53",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "2 mln",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-54",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(g'alaba|qahramon)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-55",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(qal'a|baraka|farzand)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-56",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Darslar|To'lov|200)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-57",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ro'yxat|profil|buyurtma)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-58",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(uydaman|soat 6)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-59",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Buyurtma|Muddat|Kafolat)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-60",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(tez|ikki daqiqa|qo'llab)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  }
+ ],
+ "v2": [
+  {
+   "id": "h3h-01",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "tashkil etilgan|qabul qilinadi|taqsimlanadi|joylashtiriladi",
+     "pass": false
+    },
+    {
+     "type": "approx_len",
+     "pass": false
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-02",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "amalga oshiriladi|belgilangan tartibda|tavsiya etiladi",
+     "pass": true
+    },
+    {
+     "type": "approx_len",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-03",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "ta'minlanadi|beriladi|o'rganiladi|rejalashtirilgan",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-04",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "why": "formal report stays",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(daromad|xarajat|foyda|zaxira)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-05",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "tuzatildi|oshirildi|kengaytirildi|mustahkamlandi",
+     "pass": true
+    },
+    {
+     "type": "lint_clean",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-06",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "ta'minlanadi|o'tkaziladi|amalga oshiriladi|hisoblanadi",
+     "pass": true
+    },
+    {
+     "type": "approx_len",
+     "pass": false
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-07",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(kart|SMS|kod)",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-08",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(jadval|dars)",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-09",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(manzil|vaqt|taom|buyurtma)",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-10",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ofis|ko'chish|manzil)",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-11",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(sayohat|sinfdan tashqari|olib)",
+     "pass": true
+    },
+    {
+     "type": "no_bullet",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-12",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(navbat|do'kon|tizim)",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-13",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(app|crash|pul)",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-14",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(build|break|main)",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-15",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(settings|english|til)",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-16",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(warranty|kafolat)",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-17",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(brunch|kids|menu)",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-18",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(seed|hiring|linkedin)",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "ta'minlanadi|oshiriladi",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-19",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(mablag|rozi)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-20",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(svet|9|suv)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-21",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "lint_clean",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-22",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(taʼlim|kelajak)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-23",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(balans|3500)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-24",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "script_latin",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "Oʻtgan kunlar",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-25",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "-ku",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-26",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(grafika|internet)",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\b(ship|vibe|cringe)\\b",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-27",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(maqol|shior|aytilgan)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-28",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(kutaman|2 soat)",
+     "pass": false
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-29",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ayiq|asal)",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-30",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-31",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "Siz (profilni|rasmlarni|do'stlarni|sozlamalarni) ",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-32",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "Natija kafolatlangan",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-33",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "^(Rahmat!|Rahmat, )",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-34",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "etiladi\\.",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-35",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "varied_rhythm",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-36",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "(Avval|keyin|nihoyat)",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(va|so'ng|keyinroq)",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-37",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-38",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": false
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-39",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-40",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(murojaat|qaror|hujjat)",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-41",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": false
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-42",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(tarif|rasmiy sayt|yanvar)",
+     "pass": true
+    },
+    {
+     "type": "register_official",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-43",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\bfabrika\\w*",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "mato",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-44",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(yildan beri|quryapti|qurmoqda)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-45",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "kачественн|kачественн",
+     "pass": true
+    },
+    {
+     "type": "lint_ok",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-46",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "(mehribonlik|qadrlagan holda)",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Iltimos|chekmang)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-47",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "kechikibdi",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-48",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "drop",
+     "re": "\\binteresn\\w*",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "qiziqarli",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-49",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(otam ham|rahmat)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-50",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "gaplashamiza",
+     "pass": false
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-51",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(hashar|non-choy)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-52",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(arzonroq|yomon emas)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-53",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "2 mln",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-54",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "approx_input",
+     "pass": false
+    },
+    {
+     "type": "keep",
+     "re": "(g'alaba|qahramon)",
+     "pass": true
+    }
+   ],
+   "allPass": false
+  },
+  {
+   "id": "h3h-55",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(qal'a|baraka|farzand)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-56",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Darslar|To'lov|200)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-57",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(ro'yxat|profil|buyurtma)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-58",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "register_chat",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(uydaman|soat 6)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-59",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(Buyurtma|Muddat|Kafolat)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  },
+  {
+   "id": "h3h-60",
+   "checks": [
+    {
+     "type": "global_ortho",
+     "re": "correct ʻ/ʼ marks everywhere",
+     "why": "oʻ/gʻ and tutuq marks are mandatory in every register",
+     "pass": true
+    },
+    {
+     "type": "no_dash",
+     "pass": true
+    },
+    {
+     "type": "keep",
+     "re": "(tez|ikki daqiqa|qo'llab)",
+     "pass": true
+    }
+   ],
+   "allPass": true
+  }
+ ]
+}

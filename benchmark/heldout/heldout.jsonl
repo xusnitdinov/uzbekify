@@ -1,0 +1,150 @@
+{"id": "ho-001", "category": "chat", "task": "Write a Telegram support reply: a customer's food delivery is 40 minutes late and they are angry. Chat register, max 3 short messages.", "reference": null}
+{"id": "ho-002", "category": "chat", "task": "Write a casual Telegram reply to a friend asking 'boramizmi ertaga picnicka?' — you can't come, your sister is visiting.", "reference": null}
+{"id": "ho-003", "category": "chat", "task": "A user DMs: 'paymedan pul yechib olishdi men bilmayman nima qilishim kk'. Reply like a support admin in chat register, 2 messages max.", "reference": null}
+{"id": "ho-004", "category": "chat", "task": "Write 2 short Telegram messages announcing tomorrow's stream at 20:00, casual channel tone, one emoji pointer allowed.", "reference": "Batafsil 👇👇👇"}
+{"id": "ho-005", "category": "chat", "task": "Reply in chat register to a group member who shared exam results: '3 ta fanadan otdim aka'. Congratulate naturally.", "reference": null}
+{"id": "ho-006", "category": "chat", "task": "Your classmate texts 'mundarija yubvorila aka zoʻr bolipti'. Reply in the same natural register.", "reference": "deb ciqaveradi  [GP-HEMIS]"}
+{"id": "ho-007", "category": "chat", "task": "Support DM: user's Internet is slow in Yunusobod. Ask 2 quick diagnostic questions in chat register.", "reference": "nma qilsam boladi  [GP-PAYME]"}
+{"id": "ho-008", "category": "chat", "task": "Write a Telegram poll announcement: which day for the team dinner, Thursday or Friday? Chat register, 2 lines.", "reference": null}
+{"id": "ho-009", "category": "chat", "task": "Reply to a customer who paid twice for the same ticket. Apologize briefly and say refund comes in 3 days. Chat register.", "reference": null}
+{"id": "ho-010", "category": "chat", "task": "A friend sends a voice message: he's stuck in Chilonzor traffic. Reply in casual chat register, 1-2 short messages.", "reference": null}
+{"id": "ho-011", "category": "chat", "task": "Channel post, casual: new episode of your podcast is out, link below, keep it under 15 words.", "reference": "Batafsil 👇👇👇  [TG-QAL]"}
+{"id": "ho-012", "category": "chat", "task": "Your mom texts: 'non oldingmi?' You forgot. Reply honestly in natural chat Uzbek, short.", "reference": null}
+{"id": "ho-013", "category": "chat", "task": "Group admin message: someone is spamming crypto links. Warn the group briefly, chat register, firm but human.", "reference": null}
+{"id": "ho-014", "category": "chat", "task": "Reply to 'kino chiqdi aka zoʻr ekanmi?' — you haven't watched it yet, planning tonight. Natural chat.", "reference": null}
+{"id": "ho-015", "category": "chat", "task": "Customer: 'kartam bloklandi nima qilaman'. Bank support replies in chat register, tells them to come to any branch with passport, 2 messages.", "reference": null}
+{"id": "ho-016", "category": "chat", "task": "Write the 3 WhatsApp-style status messages a bakery would post on a Saturday morning, chat register, each under 10 words.", "reference": null}
+{"id": "ho-017", "category": "chat", "task": "A teammate pings at 23:00: 'chipta olamanmi ertaga uchgа?' Reply: price dropped, buy now. Casual, short.", "reference": null}
+{"id": "ho-018", "category": "chat", "task": "Friend asks to borrow 100k so'm until Friday. You lend it. Write the natural Telegram exchange (2 messages total).", "reference": null}
+{"id": "ho-019", "category": "chat", "task": "Support chat: user says the app freezes when uploading a photo. Ask for phone model + app version naturally, chat register.", "reference": null}
+{"id": "ho-020", "category": "chat", "task": "Reply in chat register to your little brother who beat you in chess: 'yana oʻynaymiza aka'. Be a good loser, natural.", "reference": null}
+{"id": "ho-021", "category": "chat", "task": "Community chat: someone asks if the Chorsu market is open on Monday. You know it is. Reply naturally, one line.", "reference": null}
+{"id": "ho-022", "category": "chat", "task": "Write a natural chat reply to a client who says 'rahmat aka, ishlaringiz omadli boʻlsin'.", "reference": null}
+{"id": "ho-023", "category": "chat", "task": "A customer writes: 'buyurtmam 3 kun keldi emas, bekor qilsam boʻladimi'. Cancel politely, chat register, mention refund timing.", "reference": null}
+{"id": "ho-024", "category": "chat", "task": "Telegram DM to your study group: tomorrow's DTM prep class moved to 18:00. Casual, short, no bullets.", "reference": null}
+{"id": "ho-025", "category": "chat", "task": "Reply to a friend's voice note bragging about a 90% exam score. Genuine, surprised, natural chat Uzbek.", "reference": null}
+{"id": "ho-026", "category": "chat", "task": "A user in your channel complains about ads. Promise to reduce them, keep the channel's friendly tone, chat register.", "reference": null}
+{"id": "ho-027", "category": "chat", "task": "Your cousin texts from Kashkadarya: 'kelasizmi toʻyga?'. You arrive Friday. Natural chat reply.", "reference": null}
+{"id": "ho-028", "category": "chat", "task": "Support reply, chat register: promo code expired yesterday. User is upset. Offer this month's new code DARS20.", "reference": null}
+{"id": "ho-029", "category": "chat", "task": "Write what a taxi driver would naturally text a regular customer: 'keldim, pastda turiman', arriving at the pickup. One line.", "reference": null}
+{"id": "ho-030", "category": "chat", "task": "Friend: 'shu kursosdan oldim, tavsiya qilasizmi?'. You took it, it was meh. Honest natural reply, chat register.", "reference": "sizlarga xam tavsiya qilaman  [GP-TEZKOR]"}
+{"id": "ho-031", "category": "ui", "task": "Localize to Uzbek for a food-delivery app: 'Order again', 'Delivery in 25-35 min', 'Add note to courier', 'Your cart is empty'.", "reference": "Barcha rasmiy hujjatlar bir joyda, qo'l ostida.  [my.gov.uz]"}
+{"id": "ho-032", "category": "ui", "task": "Uzbek microcopy for a banking app error: card expired, tell the user what to do next. One title + one line.", "reference": null}
+{"id": "ho-033", "category": "ui", "task": "Write the empty-state text for a language-learning app home screen: no lessons yet, invite the user to pick a course. 2 short lines.", "reference": null}
+{"id": "ho-034", "category": "ui", "task": "Localize: 'Verify your phone number', 'We sent a 5-digit code to {phone}', 'Resend code in {seconds}s'.", "reference": null}
+{"id": "ho-035", "category": "ui", "task": "App onboarding, 3 screens, one line each: track expenses, set budgets, get reports. Uzbek, product register.", "reference": null}
+{"id": "ho-036", "category": "ui", "task": "Error message: internet lost while paying. Uzbek, plain, tell user money is safe and to try again. 2 lines.", "reference": null}
+{"id": "ho-037", "category": "ui", "task": "Buttons + title for a file manager: 'New folder', 'Sort by date', 'Storage almost full' banner with a cleanup CTA.", "reference": null}
+{"id": "ho-038", "category": "ui", "task": "Write the push notification (max 90 chars) for a flash sale ending tonight at 23:59 in an electronics store app.", "reference": null}
+{"id": "ho-039", "category": "ui", "task": "Profile screen microcopy: 'Complete your profile to get personalized offers' + a Skip button label.", "reference": null}
+{"id": "ho-040", "category": "ui", "task": "Localize for a clinic app: 'Book an appointment', 'Choose a doctor', 'Visit scheduled for tomorrow at 10:30'.", "reference": null}
+{"id": "ho-041", "category": "ui", "task": "In-app message after a successful top-up of 50,000 so'm via card. One friendly line, product register.", "reference": null}
+{"id": "ho-042", "category": "ui", "task": "Password rules line for a signup form, Uzbek, one sentence: min 8 chars, one digit, one letter.", "reference": null}
+{"id": "ho-043", "category": "ui", "task": "Localization for a transport app: 'Bus 47 arriving in 3 min', 'Route changed', 'Fare: 2,000 so'm'.", "reference": null}
+{"id": "ho-044", "category": "ui", "task": "Dialog: delete chat history permanently? Title + description + Cancel/Delete buttons, Uzbek.", "reference": null}
+{"id": "ho-045", "category": "ui", "task": "Offline banner for a news app with a Retry button, Uzbek, one line.", "reference": null}
+{"id": "ho-046", "category": "ui", "task": "Localize a ride-sharing app's driver message: 'Arriving in 2 min', white Honda, plate 01A777AA. Natural product Uzbek.", "reference": null}
+{"id": "ho-047", "category": "ui", "task": "Search placeholder for a recipe app + 'no results' line mentioning filters. Uzbek, short.", "reference": null}
+{"id": "ho-048", "category": "ui", "task": "Subscription paywall, 2 lines: what you get (ad-free + offline) and price 19,900 so'm/month. Product register.", "reference": null}
+{"id": "ho-049", "category": "ui", "task": "Localize: 'Rate your last order', 5-star prompt after delivery, one line, no pressure.", "reference": null}
+{"id": "ho-050", "category": "ui", "task": "Write the success screen after passing a driving-theory mock exam: 28/30 correct. One title + one line.", "reference": null}
+{"id": "ho-051", "category": "ui", "task": "Form error in Uzbek for an invalid email: 'Enter a valid email like name@example.com'. Keep the example.", "reference": null}
+{"id": "ho-052", "category": "ui", "task": "Localize for a fitness app: 'Start workout', 'Pause', 'You burned 320 kcal today'.", "reference": null}
+{"id": "ho-053", "category": "ui", "task": "In-car app string: 'Temperature set to 21°C', 'Route to home', 'Low fuel — find nearest gas station'.", "reference": null}
+{"id": "ho-054", "category": "ui", "task": "E-commerce checkout: 'Delivery address', 'Change', 'Cash on delivery available'. Uzbek product register.", "reference": null}
+{"id": "ho-055", "category": "ui", "task": "Two-factor auth screen microcopy: what the code is, where it was sent, what to do if it doesn't arrive. 3 short lines max.", "reference": "Bog'chaga qanday qo'yish mumkin?"}
+{"id": "ho-056", "category": "mkt", "task": "Landing hero (title + 1 line) for an online Uzbek cookbook subscription: 500+ recipes, new ones weekly.", "reference": null}
+{"id": "ho-057", "category": "mkt", "task": "Promo SMS (max 160 chars) for a Tashkent car wash: 30% off until Sunday, book via app.", "reference": null}
+{"id": "ho-058", "category": "mkt", "task": "Three benefit bullets for a local e-wallet ad: instant transfers, no fees between users, cashback at supermarkets. Keep them short and concrete.", "reference": null}
+{"id": "ho-059", "category": "mkt", "task": "Instagram caption for a handmade ceramics shop's new mug collection. Warm, human, no hype, 2-3 lines.", "reference": null}
+{"id": "ho-060", "category": "mkt", "task": "Email subject + first line for a course platform's Black Friday deal: programming courses 50% off, 4 days only.", "reference": null}
+{"id": "ho-061", "category": "mkt", "task": "Ad headline for a moving company: apartment moves across Tashkent, fixed price after a free estimate. 8 words max.", "reference": null}
+{"id": "ho-062", "category": "mkt", "task": "Product description (2 sentences) for premium Uzbek silk scarves in an online store. Sensory but not purple.", "reference": null}
+{"id": "ho-063", "category": "mkt", "task": "App store description opening (2 lines) for a step-counter app that works offline and drains almost no battery.", "reference": null}
+{"id": "ho-064", "category": "mkt", "task": "Retargeting banner text: user left a laptop in the cart, price dropped 10%. One line + CTA.", "reference": null}
+{"id": "ho-065", "category": "mkt", "task": "Rewrite this Uzbek flyer line so it sounds human: 'Bizning kompaniya sizga eng sifatli xizmatlarni taqdim etadi!'", "reference": null}
+{"id": "ho-066", "category": "mkt", "task": "Loyalty program announcement for a coffee chain: every 6th coffee free, no cards, just the app. 3 short lines.", "reference": null}
+{"id": "ho-067", "category": "mkt", "task": "Real-estate listing opener (2 lines): 3-room apartment, Chilanzar, near metro, 3rd floor, renovated. Factual, no hype.", "reference": null}
+{"id": "ho-068", "category": "mkt", "task": "Push campaign for a language app streak reminder, friendly not guilt-tripping, one line.", "reference": null}
+{"id": "ho-069", "category": "mkt", "task": "Two ad variants (A/B) for a bakery's lunch combo: soup + bread + tea for 25k so'm. Casual but appetizing.", "reference": null}
+{"id": "ho-070", "category": "mkt", "task": "Referral program line: give a friend 20k, get 20k when they order. One sentence, human.", "reference": null}
+{"id": "ho-071", "category": "mkt", "task": "Event promo: outdoor yoga in Amir Timur square, Saturday 7:00, free, bring a mat. 3 lines.", "reference": null}
+{"id": "ho-072", "category": "mkt", "task": "Testimonial section intro line for a dental clinic site: real patient words follow. One neutral sentence.", "reference": null}
+{"id": "ho-073", "category": "mkt", "task": "Blackout-sale email subject for a furniture store: everything 20-40% this weekend. No fake urgency, one line.", "reference": null}
+{"id": "ho-074", "category": "mkt", "task": "Describe a kid's English-language summer camp to parents in 3 lines: native teachers, small groups, Bologorda seaside campus.", "reference": null}
+{"id": "ho-075", "category": "mkt", "task": "Website tagline for a car-parts marketplace: find any part by VIN. 6 words max.", "reference": null}
+{"id": "ho-076", "category": "mkt", "task": "Announce a price increase honestly for a SaaS notes app: from 9,900 to 12,900 from March, old price locked for current users. 3 lines.", "reference": null}
+{"id": "ho-077", "category": "mkt", "task": "Sponsor-read script line (one sentence) for a tech YouTube channel: VPN sponsor, honest tone, no 'best ever'.", "reference": null}
+{"id": "ho-078", "category": "mkt", "task": "Loyalty tier names + one-line rules for a bookstore: Bronze/Silver/Gold by yearly spend.", "reference": null}
+{"id": "ho-079", "category": "mkt", "task": "Charity drive post: winter coats for children in Surkhandarya, drop points listed below. Warm, direct, 3 lines.", "reference": "Batafsil 👇👇👇"}
+{"id": "ho-080", "category": "mkt", "task": "Google Ads headline x2 (30 chars each) for an online pharmacy with 1-hour delivery in Tashkent.", "reference": null}
+{"id": "ho-081", "category": "en2uz", "task": "Translate to natural product Uzbek: 'Your subscription renews automatically. You can cancel anytime in Settings.'", "reference": null}
+{"id": "ho-082", "category": "en2uz", "task": "Translate for a news site: 'The new metro line will carry its first passengers on Monday, officials said.'", "reference": null}
+{"id": "ho-083", "category": "en2uz", "task": "Translate chat-style: 'np, ping me when ur free'", "reference": null}
+{"id": "ho-084", "category": "en2uz", "task": "Translate a recipe step: 'Simmer on low heat for 15 minutes, stirring occasionally, until the sauce thickens.'", "reference": null}
+{"id": "ho-085", "category": "en2uz", "task": "Translate UI: 'Something went wrong. Please try again in a few minutes.'", "reference": null}
+{"id": "ho-086", "category": "en2uz", "task": "Translate to Uzbek, keep the meaning of the idiom: 'Don't put all your eggs in one basket' — as advice about investing.", "reference": null}
+{"id": "ho-087", "category": "en2uz", "task": "Translate: 'We apologize for the inconvenience; our team is already working on the fix.' (support chat, make it human)", "reference": null}
+{"id": "ho-088", "category": "en2uz", "task": "Translate a gym rule: 'Please rerack your weights after use.'", "reference": null}
+{"id": "ho-089", "category": "en2uz", "task": "Translate, formal letter register: 'I am writing to request an extension of the submission deadline until 15 March.'", "reference": null}
+{"id": "ho-090", "category": "en2uz", "task": "Translate: 'This offer cannot be combined with other promotions.' (checkout small print)", "reference": null}
+{"id": "ho-091", "category": "en2uz", "task": "Translate a weather alert: 'Heavy snow expected tonight; roads may be icy in the morning.'", "reference": null}
+{"id": "ho-092", "category": "en2uz", "task": "Translate: 'No refunds on opened personal care products.'", "reference": "«Uyning past baholanishi doim ham foydali emas»  [kun.uz]"}
+{"id": "ho-093", "category": "en2uz", "task": "Translate a parent-teacher note: 'Your son has shown great improvement in reading this term.'", "reference": null}
+{"id": "ho-094", "category": "en2uz", "task": "Translate: 'The meeting has been moved from 3 PM to 4:30 PM, same room.' (team chat)", "reference": null}
+{"id": "ho-095", "category": "en2uz", "task": "Translate a hotel booking confirmation: 'Double room, 3 nights, breakfast included, check-in after 14:00.'", "reference": null}
+{"id": "ho-096", "category": "en2uz", "task": "Translate, keeping politeness level right for a boss: 'Could you take a look at the report when you have a minute?'", "reference": null}
+{"id": "ho-097", "category": "en2uz", "task": "Translate a legal-lite line: 'By using this service you agree to the terms below.'", "reference": null}
+{"id": "ho-098", "category": "en2uz", "task": "Translate: 'Buy 2, get 1 free on all socks this week only.'", "reference": null}
+{"id": "ho-099", "category": "en2uz", "task": "Translate a manual warning: 'Do not disassemble the device; this voids the warranty.'", "reference": null}
+{"id": "ho-100", "category": "en2uz", "task": "Translate, informal Telegram caption: 'Longest day of the year, shortest night. Love it here.'", "reference": null}
+{"id": "ho-101", "category": "en2uz", "task": "Translate a course ad: 'Learn Python in 12 weeks, no experience needed, classes 3 times a week.'", "reference": null}
+{"id": "ho-102", "category": "en2uz", "task": "Translate: 'Your ride is 5 minutes away. Please wait at the pickup point.'", "reference": null}
+{"id": "ho-103", "category": "en2uz", "task": "Translate a documentary line: 'Every spring, these mountains host over a million migrating birds.'", "reference": null}
+{"id": "ho-104", "category": "en2uz", "task": "Translate: 'Unfortunately, the item you selected is out of stock in your size.'", "reference": null}
+{"id": "ho-105", "category": "en2uz", "task": "Translate a friendly reminder: 'Just a reminder: library books are due back on Friday.'", "reference": null}
+{"id": "ho-106", "category": "ru2uz", "task": "Переведите на естественный узбекский (продукт): «Ваш заказ принят и будет доставлен завтра с 10:00 до 14:00.»", "reference": null}
+{"id": "ho-107", "category": "ru2uz", "task": "Переведите (новости): «По данным мэрии, к концу года откроются две новые школы.»", "reference": null}
+{"id": "ho-108", "category": "ru2uz", "task": "Переведите в чат-регистре: «Ок, я понял, сейчас проверю и напишу»", "reference": null}
+{"id": "ho-109", "category": "ru2uz", "task": "Переведите: «Скидка 20% на всё при покупке от 300 000 сумов.»", "reference": null}
+{"id": "ho-110", "category": "ru2uz", "task": "Переведите официально (заявление): «Прошу предоставить мне ежегодный оплачиваемый отпуск с 1 июля.»", "reference": null}
+{"id": "ho-111", "category": "ru2uz", "task": "Переведите (реклама): «Натуральная косметика из местных трав — забота о вашей коже.»", "reference": null}
+{"id": "ho-112", "category": "ru2uz", "task": "Переведите (UI): «Неверный код подтверждения. Попробуйте ещё раз.»", "reference": null}
+{"id": "ho-113", "category": "ru2uz", "task": "Переведите, сохранив смысл: «Обещать — не значит сделать.» (как совет коллеге)", "reference": null}
+{"id": "ho-114", "category": "ru2uz", "task": "Переведите (инструкция): «Нажмите и удерживайте кнопку в течение 5 секунд.»", "reference": null}
+{"id": "ho-115", "category": "ru2uz", "task": "Переведите (поддержка, по-человечески): «Извините за задержку, мы уже разбираемся с вашей проблемой.»", "reference": null}
+{"id": "ho-116", "category": "ru2uz", "task": "Переведите (объявление): «В субботу подъезд будет отключён с 9:00 до 18:00 из-за ремонта.»", "reference": null}
+{"id": "ho-117", "category": "ru2uz", "task": "Переведите (меню кафе): «Суп из маша с домашней лапшой, подаётся с лепёшкой.»", "reference": null}
+{"id": "ho-118", "category": "ru2uz", "task": "Переведите (уведомление банка): «Ваша карта заблокирована из-за трёх неверных вводов PIN.»", "reference": null}
+{"id": "ho-119", "category": "ru2uz", "task": "Переведите (расписание): «Занятия по вторникам и четвергам, начало в 19:00.»", "reference": null}
+{"id": "ho-120", "category": "ru2uz", "task": "Переведите (прогноз): «Завтра ожидается дождь, температура +14…+18 градусов.»", "reference": null}
+{"id": "ho-121", "category": "ru2uz", "task": "Переведите дружелюбно (телеграм): «Спасибо всем, кто пришёл вчера, вы супер!»", "reference": null}
+{"id": "ho-122", "category": "ru2uz", "task": "Переведите (официально): «Договор вступает в силу с момента подписания обеими сторонами.»", "reference": null}
+{"id": "ho-123", "category": "ru2uz", "task": "Переведите (возврат): «Возврат средств осуществляется на карту в течение 3-5 рабочих дней.»", "reference": null}
+{"id": "ho-124", "category": "ru2uz", "task": "Переведите (совет): «Не откладывайте на завтра то, что можно сделать сегодня.»", "reference": null}
+{"id": "ho-125", "category": "ru2uz", "task": "Переведите (доставка): «Курьер подъедет в течение часа, пожалуйста, будьте на связи.»", "reference": null}
+{"id": "ho-126", "category": "formal", "task": "Ariza:ISP ga internet tezligidan shikoyat, oxirgi 2 hafta, talab: tekshirish va hisobkitob. Qisqa, odob bilan.", "reference": null}
+{"id": "ho-127", "category": "formal", "task": "Maktab direktoriga murojaat: farzandni 3 kunga kasallik sababli ozod qilish to'g'risida.", "reference": null}
+{"id": "ho-128", "category": "formal", "task": "Ish beruvchiga minnatdorchilik xati: suhbatdan keyin, qisqa, professional.", "reference": null}
+{"id": "ho-129", "category": "formal", "task": "TTJ (dormitory) komendantiga so'rov: ota-onam tashrif uchun 2 kunga keladi, joy kerak.", "reference": "«Boʻzbekiston pochtasi»  [kun.uz]"}
+{"id": "ho-130", "category": "formal", "task": "Mahalla raisiga iltimos: hovlidagi chirigan daraxtni kesish haqida.", "reference": null}
+{"id": "ho-131", "category": "formal", "task": "Do'kondan rasmiy shikoyat: telefon 2 haftada buzildi, almashtirish/kaytarish talabi, qonun asosida umumiy.", "reference": "Beeline interneti juda rasvo  [GP-HAMBI]"}
+{"id": "ho-132", "category": "formal", "task": "Oliy ta'lim muassasasiga akademik ta'til so'rovi (sabab: sog'liq), hujjatlar ro'yxati bilan.", "reference": "operatorlar bn  [GP-PAYME]"}
+{"id": "ho-133", "category": "formal", "task": "Tuman hokimligiga yo'l chiroqlari ishlamayotgani haqida murojaat, aynan qaysi chorraha ko'rsatilsin.", "reference": null}
+{"id": "ho-134", "category": "formal", "task": "Ishonch telefoni orqali olingan javob ustidan minnatdorchilik + masala hal bo'lmagini eslatish (bank).", "reference": null}
+{"id": "ho-135", "category": "formal", "task": "Bolalar bog'chasiga navbat olish uchin ariza: farzand ma'lumotlari, ish joyim, telefon raqami.", "reference": null}
+{"id": "ho-136", "category": "formal", "task": "Vatanparvarlik klubi rahbariga seminar o'tkazish taklifi, mavzu va vaqt bilan.", "reference": null}
+{"id": "ho-137", "category": "formal", "task": "Klinikaga tibbiy hujjatlar nusxasini olish uchun rasmiy so'rov.", "reference": null}
+{"id": "ho-138", "category": "formal", "task": "Uy ijarasi shartnomasini bekor qilish haqida yozma xabar (muddatidan 1 oy oldin, shartnoga muvofiq).", "reference": null}
+{"id": "ho-139", "category": "formal", "task": "Mehmonxona ma'muriyatiga band qilingan xona haqida norozilik: tozalik, ovoz, hisob-faktura xatolari.", "reference": null}
+{"id": "ho-140", "category": "formal", "task": "Sport maktabiga murabbiylik lavozimiga ish arizasi: tajriba, mutaxassislik, hujjatlar.", "reference": null}
+{"id": "ho-141", "category": "news", "task": "Write a 3-sentence news brief: new trolleybus line opens in Samarkand on Friday, 12 km, 9 stops.", "reference": null}
+{"id": "ho-142", "category": "news", "task": "News lead (2 sentences): cotton harvest 18% up in Jizzakh region compared to last year.", "reference": null}
+{"id": "ho-143", "category": "news", "task": "Weather news: cold snap from the north tonight, minus 5 in mountains, advice for drivers.", "reference": null}
+{"id": "ho-144", "category": "news", "task": "Short report: Tashkent hosted a 3-day chess tournament, 240 players from 14 countries, local teen won bronze.", "reference": null}
+{"id": "ho-145", "category": "news", "task": "News brief: old cinema in Fergana reopens after 2-year renovation, 300 seats, first screening Friday.", "reference": null}
+{"id": "ho-146", "category": "news", "task": "Economy brief: central bank keeps base rate unchanged, inflation slowly down since summer.", "reference": null}
+{"id": "ho-147", "category": "news", "task": "Culture news: puppet theater tours Bukhara and Khorezm next week, entry free for schoolchildren.", "reference": null}
+{"id": "ho-148", "category": "news", "task": "Transport news: night train Tashkent-Nukus gets new cars in December, tickets from 180k.", "reference": null}
+{"id": "ho-149", "category": "news", "task": "Social news: volunteers cleaned the Bozsuv canal banks on Sunday, 60 people, 30 bags of trash.", "reference": null}
+{"id": "ho-150", "category": "news", "task": "Tech news brief: local startup launches an app to compare pharmacy prices, 800 pharmacies listed.", "reference": null}
