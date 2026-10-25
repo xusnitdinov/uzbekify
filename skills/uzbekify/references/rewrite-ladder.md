@@ -41,7 +41,7 @@ voice; formal registers only on explicit request.
    preset from `references/register-presets.md`: `product` (UI/microcopy),
    `quiz` (DTM/test stems), `assistant` (support/help), `youth` (Telegram/peer
    — only when explicitly asked), `marketing`, `academic`, `news`,
-   `legal-lite`, `official` (laws/decrees, explicit request only), `chat`
+   `legal` (legal-lite: ToS, consent, formal letters), `official` (laws/decrees, explicit request only), `chat`
    (Telegram-style DMs and casual messages, the core-mission register). The preset
    fixes sentence length, particles, address lane, vocabulary, and how the
    officialese linter treats document-speak. When in doubt: `product` + `Siz`
@@ -113,7 +113,7 @@ voice; formal registers only on explicit request.
 | Need | File |
 |---|---|
 | Calques (EN + RU structure, 200+ entries, bad/good/why) | `references/calque-bank.md` |
-| Register presets (8, with canonical examples) | `references/register-presets.md` |
+| Register presets (all 10: product, quiz, assistant, youth, chat, marketing, academic, news, legal, official; with canonical examples) | `references/register-presets.md` |
 | Word order (SOV, topicalization, questions) | `references/word-order.md` |
 | Suffix chains, vowel/consonant harmony | `references/morphology.md` |
 | Aspect and modality choices | `references/aspect-modality.md` |

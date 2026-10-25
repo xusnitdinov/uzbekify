@@ -62,4 +62,22 @@ describe("skill docs", () => {
     expect(read("SKILL.md")).not.toMatch(/2–5 namuna/);
     expect(read("references/rewrite-ladder.md")).not.toMatch(/2–5 namuna|— qisqacha/);
   });
+
+  it("register count and ids in docs match the code's register list", () => {
+    const cli = read("src/cli.ts");
+    const ids = JSON.parse(cli.match(/const VALID_REGISTERS = (\[[^\]]+\])/)![1]) as string[];
+    expect(ids.length).toBe(10);
+    // every preset id the code accepts has a section in register-presets.md
+    const presets = read("references/register-presets.md");
+    const headed = [...presets.matchAll(/^## \d+b?\. `([a-z-]+)`/gm)].map((m) => m[1]);
+    expect([...headed].sort()).toEqual([...ids].sort());
+    // stated counts agree with the code
+    expect(read("references/rewrite-ladder.md")).toMatch(new RegExp(`Register presets \\(all ${ids.length}:`));
+    expect(read("SKILL.md")).toMatch(new RegExp(`all ${ids.length} registers`));
+    expect(read("../../README.md")).toMatch(new RegExp(`register presets \\(${ids.length}:`));
+    // no doc tells agents to pass a register id the CLI rejects
+    for (const f of ["SKILL.md", "references/rewrite-ladder.md", "references/register-presets.md"]) {
+      for (const m of read(f).matchAll(/--register ([a-z-]+)/g)) expect(ids, `${f}: ${m[0]}`).toContain(m[1]);
+    }
+  });
 });

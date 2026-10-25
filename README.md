@@ -155,7 +155,8 @@ yaxshi tajriba!`
 - `references/` — 18 files, led by `human-voice.md` (the CORE MISSION voice
   target + the gov-robotic blacklist): calque-bank (250 rows, each
   bad/good/why),
-  register presets (8 incl. academic, news body, legal-lite), word order,
+  register presets (10: product, quiz, assistant, youth, chat, marketing,
+  academic, news, legal, official), word order,
   morphology & harmony, aspect/modality, synonym taste matrices, false
   friends, idioms & connectors, loanword policy, transliteration spec,
   orthography, literalness patterns, UI glossary, politeness, youth/Telegram,

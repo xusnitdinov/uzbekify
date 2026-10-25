@@ -1,5 +1,9 @@
 # Register presets
 
+Ten presets, matching the `--register` ids the linter accepts: `product`,
+`quiz`, `assistant`, `youth`, `chat` (§4b), `marketing`, `academic`, `news`,
+`legal` (legal-lite), `official`.
+
 Pick ONE preset before rewriting (step 1 of the ladder). **CORE MISSION: the
 default voice is human** — informal-chat, comment, spoken-style. Formal
 presets (`official`, and partially `news`/`legal`/`academic`) exist ONLY for
@@ -155,7 +159,7 @@ allowed by default here (`uzpro lint --register chat` implies --allow-sen).
   5. Ob-havo: dam olish kunlarida issiq boʻladi
 - Avoid: katta eʼtibor berildi, amalga oshirildi chains, belgilab berildi.
 
-## 8. `legal-lite` — readable ToS, consent, policy blurbs
+## 8. `legal` (legal-lite) — readable ToS, consent, policy blurbs
 
 - Address: Siz; plain language, no fake statutes; draft label required
 - Length: 7–18 words per sentence
@@ -199,7 +203,7 @@ everywhere else; output is `draft/native_review_required` for binding texts.
 | "landing", "promo", CTA asks, benefit claims | marketing |
 | annotatsiya, tadqiqot, uslub, citation shapes | academic |
 | headline shapes, kun.uz/daryo mentions, dates in titles | news |
-| shartlar, rozilik, maslahat emas, cheklovlar | legal-lite |
+| shartlar, rozilik, maslahat emas, cheklovlar | legal |
 | qaror, nizom, modda, kuchga kiradi, Vazirlar Mahkamasi | official (confirm!) |
 | Assalomu alaykum, support replies, -sangiz requests | assistant |
 

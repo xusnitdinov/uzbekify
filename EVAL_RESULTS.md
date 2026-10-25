@@ -1,6 +1,6 @@
 # EVAL RESULTS — uzbek-humanizer (v1) vs uzbekify (v2)
 
-Generated: 2026-10-25T10:23:21.409Z
+Generated: 2026-10-25T16:51:27.150Z
 
 ## 1. v1 eval sets reused (ported verbatim into `skills/uzbekify/eval/v1/`)
 
